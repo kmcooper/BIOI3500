@@ -1,0 +1,2015 @@
+LL_ID	Official Symbol	PP_ID	FP Name	Forward Primer	RP Name	Reverse Primer	FP Range	RP Range	Expect Size
+12	SERPINA 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+15	AANAT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+22	ABCB7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+24	ABCA4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+30	ACAA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+37	ACADVL	\null	\null	Not Found	\null	Not Found	\null	\null	0
+58	ACTA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+59	ACTA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+72	ACTG2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+86	BAF53A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+93	ACVR2B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+100	ADA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+123	ADFP	2000	NO_ADFP_F	tagatgacgtgatggattat	NO_ADFP_R	cattagccttctaatgttctc	244 - 264	1007 - 1028	785
+124	ADH1A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+126	ADH1C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+142	ADPRT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+174	AFP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+181	AGRP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+190	NR0B1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+213	ALB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+216	ALDH1A 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+217	ALDH2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+218	ALDH3A 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+291	SLC25A 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+292	SLC25A 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+301	ANXA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+308	ANXA5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+311	ANXA11	2001	NO_ANXA11_F	atgtctgtttctaacaaatcc	NO_ANXA11_R	cagaagaaaacaagttggta	128 - 149	797 - 817	690
+313	AOAH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+319	APOF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+326	AIRE	\null	\null	Not Found	\null	Not Found	\null	\null	0
+336	APOA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+341	APOC1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+343	AQP8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+344	APOC2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+346	APOC4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+347	APOD	\null	\null	Not Found	\null	Not Found	\null	\null	0
+350	APOH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+356	TNFSF6	2002	NO_TNFSF6_F	caactcacctaatgtttatga	NO_TNFSF6_R	tcaaggaggaaagaaataata	557 - 578	1292 - 1313	757
+362	AQP5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+363	AQP6	2003	NO_AQP6_F	caataggtctttattcctcaa	NO_AQP6_R	attgtcttcatacccaataat	1471 - 1492	2081 - 2102	632
+364	AQP7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+367	AR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+368	ABCC6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+381	ARF5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+390	ARHE	2004	NO_ARHE_F	tttctagagtgtcattgctaa	NO_ARHE_R	agacaaagacatggttacttt	1426 - 1447	2026 - 2047	622
+438	ASMT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+462	SERPIN C1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+472	ATM	2005	NO_ATM_F	cagtctttctatcctgttctt	NO_ATM_R	gcatatcatcatacttggata	231 - 252	1070 - 1091	861
+476	ATP1A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+478	ATP1A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+479	ATP12A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+501	ALDH7A 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+545	ATR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+572	BAD	\null	\null	Not Found	\null	Not Found	\null	\null	0
+581	BAX	\null	\null	Not Found	\null	Not Found	\null	\null	0
+597	BCL2A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+608	TNFRSF 17	\null	\null	Not Found	\null	Not Found	\null	\null	0
+627	BDNF	2006	NO_BDNF_F	tgtgacagtattagtgagtgg	NO_BDNF_R	aaaacaaacaaaaatataccc	1086 - 1107	1948 - 1969	884
+641	BLM	\null	\null	Not Found	\null	Not Found	\null	\null	0
+651	BMP3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+655	BMP7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+658	BMPR1B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+659	BMPR2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+671	BPI	\null	\null	Not Found	\null	Not Found	\null	\null	0
+682	BSG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+683	BST1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+684	BST2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+688	KLF5	2007	NO_KLF5_F	gcatgtaatacacagtgagac	NO_KLF5_R	cttttaggcactttttatttt	1224 - 1245	1815 - 1836	613
+695	BTK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+708	C1QBP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+710	SERPIN G1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+717	C2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+720	C4A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+721	C4B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+722	C4BPA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+725	C4BPB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+727	C5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+729	C6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+732	C8B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+775	CACNA1 C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+778	CACNA1 F	\null	\null	Not Found	\null	Not Found	\null	\null	0
+781	CACNA2 D1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+785	CACNB4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+796	CALCA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+822	CAPG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+866	SERPIN A6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+871	SERPIN H1	2008	NO_SERPIN H1_F	gatgcgagacgagttatag	NO_SERPIN H1_R	ataagttcttggattgatagc	288 - 307	946 - 967	680
+873	CBR1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+874	CBR3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+890	CCNA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+892	CCNC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+902	CCNH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+904	CCNT1	2009	NO_CCNT1_F	aattctgtagaggacagtgtt	NO_CCNT1_R	ctcaatatcaatttattccct	704 - 725	1512 - 1533	830
+909	CD1A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+910	CD1B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+911	CD1C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+917	CD3G	\null	\null	Not Found	\null	Not Found	\null	\null	0
+921	CD5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+924	CD7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+926	CD8B1	2010	NO_CD8B1_F	tttacaaatgagcagagaata	NO_CD8B1_R	tatctttaacctgggacttta	61 - 82	770 - 791	731
+928	CD9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+939	TNFRSF 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+941	CD80	2011	NO_CD80_F	agcagtaagctatcttcaaat	NO_CD80_R	aaagatgatttctttgacact	847 - 868	1497 - 1518	672
+945	CD33	\null	\null	Not Found	\null	Not Found	\null	\null	0
+948	CD36	\null	\null	Not Found	\null	Not Found	\null	\null	0
+951	CD37	\null	\null	Not Found	\null	Not Found	\null	\null	0
+952	CD38	\null	\null	Not Found	\null	Not Found	\null	\null	0
+954	ENTPD2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+955	ENTPD6	2012	NO_ENTPD6_F	ctctggacttgagtgtgtt	NO_ENTPD6_R	gcagcttttctaaggtttagt	625 - 644	1291 - 1312	688
+957	ENTPD5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+958	TNFRSF 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+961	CD47	\null	\null	Not Found	\null	Not Found	\null	\null	0
+962	CD48	\null	\null	Not Found	\null	Not Found	\null	\null	0
+965	CD58	\null	\null	Not Found	\null	Not Found	\null	\null	0
+967	CD63	\null	\null	Not Found	\null	Not Found	\null	\null	0
+970	TNFSF7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+971	CD72	\null	\null	Not Found	\null	Not Found	\null	\null	0
+972	CD74	\null	\null	Not Found	\null	Not Found	\null	\null	0
+973	CD79A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+974	CD79B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+983	CDC2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+991	CDC20	\null	\null	Not Found	\null	Not Found	\null	\null	0
+995	CDC25C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1002	CDH4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1005	CDH7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1006	CDH8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1014	CDH16	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1018	CDK3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1019	CDK4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1020	CDK5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1021	CDK6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1022	CDK7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1028	CDKN1 C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1029	CDKN2 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1030	CDKN2 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1032	CDKN2 D	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1043	CDW52	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1053	CEBPE	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1060	CENPC 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1081	CGA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1082	CGB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1103	CHAT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1111	CHEK1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1113	CHGA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1114	CHGB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1118	CHIT1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1134	CHRNA 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1135	CHRNA 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1138	CHRNA 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1140	CHRNB 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1142	CHRNB 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1144	CHRND	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1146	CHRNG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1149	CIDEA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1191	CLU	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1244	ABCC2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1263	CNK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1270	CNTF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1271	CNTFR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1284	COL4A 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1289	COL5A 1	2013	NO_COL5A 1_F	acatcatgttcaatgacttc	NO_COL5A 1_R	gggagacttcctatttctaat	71 - 91	859 - 880	810
+1294	COL7A 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1297	COL9A 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1305	COL13 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1310	COL19 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1312	COMT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1356	CP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1357	CPA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1358	CPA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1359	CPA3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1366	CLDN7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1369	CPN1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1382	CRABP 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1390	CREM	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1394	CRHR1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1437	CSF2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1438	CSF2R A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1468	SLC25 A10	2014	NO_SLC25 A10_F	taccagaggctgatttct	NO_SLC25 A10_R	aattccttcatccaaatg	387 - 405	1164 - 1182	796
+1511	CTSG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1512	CTSH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1514	CTSL	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1515	CTSL2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1521	CTSW	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1522	CTSZ	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1537	CYC1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1548	CYP2A 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1549	CYP2A 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1551	CYP3A 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1553	CYP2A 13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1557	CYP2C 19	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1558	CYP2C 8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1559	CYP2C 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1571	CYP2E 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1572	CYP2F 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1573	CYP2J 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1577	CYP3A 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1582	CYP8B 1	2015	NO_CYP8B 1_F	aactcagagctttcttctatc	NO_CYP8B 1_R	attgtcctcatttcatagatt	3148 - 3169	4010 - 4031	884
+1583	CYP11 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1585	CYP11 B2	2016	NO_CYP11 B2_F	gttttattgactcattcctct	NO_CYP11 B2_R	tgttttgaagactgttctatg	971 - 992	1655 - 1676	706
+1586	CYP17 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1592	CYP26 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1593	CYP27 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1606	DGKA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1609	DGKQ	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1643	DDB2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1644	DDC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1652	DDT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1667	DEFA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1668	DEFA3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1672	DEFB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1673	DEFB4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1675	DF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1749	DLX5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1786	DNMT1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1811	SLC26 A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1814	DRD3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1815	DRD4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1841	DTYMK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1890	ECGF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1943	EFNA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1973	EIF4A 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1978	EIF4E BP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1984	EIF5A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1991	ELA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1992	SERPI NB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2004	ELK3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2005	ELK4	2017	NO_ELK4_F	cttaggtttgtcttagaaagg	NO_ELK4_R	gacttaccaggatgttttatc	972 - 993	1713 - 1734	763
+2021	ENDOG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2023	ENO1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2027	ENO3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2041	EPHA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2043	EPHA4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2044	EPHA5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2051	EPHB6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2052	EPHX1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2053	EPHX2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2068	ERCC2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2071	ERCC3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2074	ERCC6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2113	ETS1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2120	ETV6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2147	F2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2153	F5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2160	F11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2161	F12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2165	F13B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2167	FABP4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2168	FABP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2170	FABP3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2189	FANCG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2204	FCAR	2018	NO_FCAR_F	atcccatttgatagattttc	NO_FCAR_R	ctctacaacaccagaacaag	92 - 112	831 - 851	760
+2205	FCER1 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2207	FCER1 G	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2208	FCER2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2217	FCGRT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2249	FGF4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2251	FGF6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2253	FGF8	2019	NO_FGF8_F	cacttgctggtcctctg	NO_FGF8_R	cagcaaacaatatcaacaac	210 - 227	948 - 968	759
+2255	FGF10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2259	FGF14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2296	FOXC1	2020	NO_FOXC1_F	agctccctctacagctc	NO_FOXC1_R	gaaaatagagttttcttcgtg	1072 - 1089	1833 - 1854	783
+2297	FOXD1	2021	NO_FOXD1_F	agaactttactgctaggattt	NO_FOXD1_R	gttctatattgagttcctgct	1779 - 1800	2586 - 2607	829
+2299	FOXI1	2022	NO_FOXI1_F	ctagaacactggttaaggct	NO_FOXI1_R	cttgtttctcttggaagatt	702 - 722	1457 - 1477	776
+2322	FLT3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2324	FLT4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2327	FMO2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2328	FMO3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2348	FOLR1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2350	FOLR2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2352	FOLR3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2475	FRAP1	2023	NO_FRAP1_F	tgaaacaatagtaataccacg	NO_FRAP1_R	gtcatccctactacagagtgt	243 - 264	1051 - 1072	830
+2515	ADAM2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2537	G1P3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2547	G22P1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2549	GAB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2554	GABRA 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2556	GABRA 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2561	GABRB 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2565	GABRG 1	2024	NO_GABRG 1_F	aaatttaaaatgcagagagac	NO_GABRG 1_R	gcaacactttcataaaacata	348 - 369	1122 - 1143	796
+2566	GABRG 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2567	GABRG 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2570	GABRR 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2571	GAD1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2596	GAP43	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2597	GAPD	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2623	GATA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2634	GBP2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2650	GCNT1	2025	NO_GCNT1_F	agacattaaaacactgaccat	NO_GCNT1_R	gaaaaattgagtgtttctctt	1415 - 1436	2176 - 2197	783
+2668	GDNF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2678	GGT1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2702	GJA5	2026	NO_GJA5_F	aagaatgtcttcattgtcttt	NO_GJA5_R	ggttgtcacctctcttactat	647 - 668	1286 - 1307	661
+2741	GLRA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2742	GLRA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2767	GNA11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2778	GNAS	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2796	GNRH1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2798	GNRHR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2876	GPX1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2879	GPX4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2880	GPX5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2886	GRB7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2888	GRB14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2890	GRIA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2891	GRIA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2892	GRIA3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2893	GRIA4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2895	GRID2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2897	GRIK1	2027	NO_GRIK1_F	gaatctcactgaagaatcaga	NO_GRIK1_R	aaagataaattggttcacatag	37 - 58	633 - 655	619
+2900	GRIK4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2901	GRIK5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2913	GRM3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2915	GRM5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2932	GSK3B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2936	GSR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2937	GSS	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2938	GSTA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2940	GSTA3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2946	GSTM2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2947	GSTM3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2948	GSTM4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2950	GSTP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2952	GSTT1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2956	MSH6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2999	GZMH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3001	GZMA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3002	GZMB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3004	GZMM	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3015	H2AFZ	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3043	HBB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3060	HCRT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3080	HFL3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3082	HGF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3105	HLA- A	2028	NO_HLA- A_F	gtcacagactgaccgagt	NO_HLA- A_R	taactccctccttttctatct	282 - 300	1010 - 1031	750
+3106	HLA- B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3109	HLA- DMB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3111	HLA- DOA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3126	HLA- DRB4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3134	HLA- F	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3201	HOXA4	2029	NO_HOXA4_F	acatacacttgcatctttgt	NO_HOXA4_R	attgcagggaaggacac	21 - 41	698 - 715	695
+3202	HOXA5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3203	HOXA6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3204	HOXA7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3211	HOXB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3224	HOXC8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3225	HOXC9	2030	NO_HOXC9_F	aaggagtttctcttcaatatg	NO_HOXC9_R	gaaataacgagaactggatac	87 - 108	915 - 936	850
+3228	HOXC1 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3236	HOXD1 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3237	HOXD1 1	2031	NO_HOXD1 1_F	atgaaagaaaagaaactgaac	NO_HOXD1 1_R	cactaaaatatcctaaggagg	178 - 199	788 - 809	632
+3238	HOXD1 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3239	HOXD1 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3265	HRAS	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3292	HSD17 B1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3293	HSD17 B3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3294	HSD17 B2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3295	HSD17 B4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3308	HSPA4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3310	HSPA6	2032	NO_HSPA6_F	acaggtaaggctaacaagat	NO_HSPA6_R	gaaaaacaagaaggagtttta	1598 - 1618	2353 - 2374	777
+3315	HSPB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3316	HSPB2	2033	NO_HSPB2_F	taccatggctactatgtcc	NO_HSPB2_R	gaatagggagcagtacaaac	38 - 57	658 - 678	641
+3326	HSPCB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3360	HTR4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3361	HTR5A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3364	HUS1	2034	NO_HUS1_F	gtcagtcttgcatttcagt	NO_HUS1_R	atataatgtttatggatgggt	489 - 508	1334 - 1355	867
+3384	ICAM2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3385	ICAM3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3425	IDUA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3426	IF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3442	IFNA5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3458	IFNG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3480	IGF1R	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3481	IGF2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3485	IGFBP 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3489	IGFBP 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3490	IGFBP 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3558	IL2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3561	IL2RG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3562	IL3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3563	IL3RA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3565	IL4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3567	IL5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3568	IL5RA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3569	IL6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3578	IL9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3590	IL11R A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3592	IL12A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3597	IL13R A1	2035	NO_IL13R A1_F	taagaaaccctcactctctac	NO_IL13R A1_R	ttcttttaactccaattttct	1981 - 2002	2821 - 2842	862
+3598	IL13R A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3600	IL15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3606	IL18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3611	ILK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3620	INDO	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3626	INHBC	2036	NO_INHBC_F	ttagctcacctttaatagacc	NO_INHBC_R	ttgtaggagatagaggacttt	1070 - 1091	1707 - 1728	659
+3630	INS	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3661	IRF3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3665	IRF7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3674	ITGA2 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3682	ITGAE	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3689	ITGB2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3691	ITGB4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3692	ITGB4 BP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3695	ITGB7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3714	JAG2	2037	NO_JAG2_F	ctatttttgtaaagtttccgt	NO_JAG2_R	aatatacagagtgcttccttt	696 - 717	1395 - 1416	721
+3716	JAK1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3748	KCNC3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3752	KCND3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3754	KCNF1	2038	NO_KCNF1_F	caacaactttgtcaggtacta	NO_KCNF1_R	cttctttaattagttcccact	1708 - 1729	2406 - 2427	720
+3762	KCNJ5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3765	KCNJ9	2039	NO_KCNJ9_F	atctagaaagtgggttcacta	NO_KCNJ9_R	cagatgttctaactcctatcg	1192 - 1213	2070 - 2091	900
+3783	KCNN4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3802	KIR2D L1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3818	KLKB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3820	KLRB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3823	KLRC3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3831	KNS2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3837	KPNB1	2040	NO_KPNB1_F	ttaccattgggatgataac	NO_KPNB1_R	aacaaaacaaaacctaaagag	7 - 26	738 - 759	753
+3838	KPNA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3841	KPNA5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3842	KPNB2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3843	KPNB3	2041	NO_KPNB3_F	ccagaaaactaactccaaata	NO_KPNB3_R	aacttagcttaaagtggaaga	109 - 130	918 - 939	831
+3848	KRT1	2042	NO_KRT1_F	aggtggtagctatggttct	NO_KRT1_R	gaatttcaaatgcagtttatt	95 - 114	861 - 882	788
+3850	KRT3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3853	KRT6A	2043	NO_KRT6A_F	gacaagtcaacatctctgtg	NO_KRT6A_R	tacaggctttgtacatcatag	824 - 844	1531 - 1552	729
+3855	KRT7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3857	KRT9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3859	KRT12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3860	KRT13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3861	KRT14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3866	KRT15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3868	KRT16	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3872	KRT17	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3875	KRT18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3902	LAG3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3903	LAIR1	2044	NO_LAIR1_F	cagacactgaccccatac	NO_LAIR1_R	tgtacgacaaattatcacatt	139 - 157	904 - 925	787
+3904	LAIR2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3929	LBP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3950	LECT2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3972	LHB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3973	LHCGR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3978	LIG1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3980	LIG3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3990	LIPC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4004	LMO1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4046	LSP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4055	LTBR	2045	NO_LTBR_F	ctacatctacaatggaccag	NO_LTBR_R	gtttctgtataaatcccaaga	54 - 74	920 - 941	888
+4057	LTF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4059	LU	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4062	LY6H	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4063	LY9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4072	TACST D1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4086	MADH1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4088	MADH3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4093	MADH9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4099	MAG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4134	MAP4	2046	NO_MAP4_F	cagattctatcctcatctttt	NO_MAP4_R	cagacctgatttcctactatc	476 - 497	1234 - 1255	780
+4145	MATK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4150	MAZ	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4192	MDK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4193	MDM2	2047	NO_MDM2_F	gtatgtagacaaccaattcaa	NO_MDM2_R	atctttcacacattttctctt	530 - 551	1198 - 1219	690
+4216	MAP3K 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4246	SCGB2 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4250	SCGB2 A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4254	KITLG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4255	MGMT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4258	MGST2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4259	MGST3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4261	MHC2T A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4282	MIF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4292	MLH1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4294	MAP3K 10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4314	MMP3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4318	MMP9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4319	MMP10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4321	MMP12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4329	ALDH6 A1	2048	NO_ALDH6 A1_F	aagaagatgctactctttcc	NO_ALDH6 A1_R	tatatcttgtgtattgtggga	52 - 72	758 - 779	728
+4332	MNDA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4350	MPG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4361	MRE11 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4436	MSH2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4438	MSH4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4439	MSH5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4481	MSR1	2049	NO_MSR1_F	ctaggtattttcttcaaaagg	NO_MSR1_R	ataatttaggtggaatgtgtt	1676 - 1697	2513 - 2534	859
+4486	MST1R	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4493	MT1E	2050	NO_MT1E_F	cctgcaagaagagtgagt	NO_MT1E_R	caaagaagaacagagtaagatt	56 - 74	646 - 668	613
+4494	MT1F	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4495	MT1G	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4496	MT1H	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4499	MT1K	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4501	MT1X	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4504	MT3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4515	MTCP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4524	MTHFR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4583	MUC2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4605	MYBL2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4619	MYH1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4620	MYH2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4622	MYH4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4625	MYH7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4626	MYH8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4640	MYO1A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4670	HNRPM	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4687	NCF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4688	NCF2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4689	NCF4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4691	NCL	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4744	NEFH	2051	NO_NEFH_F	caaggatcagagtaacacaat	NO_NEFH_R	actagagagaccatgcaagt	1916 - 1937	2565 - 2585	670
+4747	NEFL	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4790	NFKB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4791	NFKB2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4793	NFKBI B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4794	NFKBI E	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4798	NFRKB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4825	NKX6- 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4843	NOS2A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4861	NPAS1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4862	NPAS2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4878	NPPA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4914	NTRK1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4916	NTRK3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4950	OCLN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+4986	OPRK1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5002	SLC22 A1L	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5004	ORM1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5013	OTX1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5027	P2RX7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5047	PAEP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5058	PAK1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5068	PAP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5075	PAX1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5081	PAX7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5083	PAX9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5100	PCDH8	2052	NO_PCDH8_F	ttcacacatatacaggtcact	NO_PCDH8_R	tcaacacacgtttttaatact	392 - 413	1121 - 1142	751
+5125	PCSK5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5134	PDCD2	2053	NO_PDCD2_F	tgttttgagtcttactctgtg	NO_PDCD2_R	atcaacattatcttcctccta	883 - 904	1540 - 1561	679
+5136	PDE1A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5145	PDE6A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5149	PDE6H	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5152	PDE9A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5158	PDE6B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5165	PDK3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5170	PDPK1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5176	SERPI NF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5189	PEX1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5190	PEX6	2054	NO_PEX6_F	atgcattatcttctttgatg	NO_PEX6_R	tattttcagccacagaacta	2391 - 2411	3231 - 3251	861
+5191	PEX7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5194	PEX13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5196	PF4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5199	PFC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5241	PGR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5243	ABCB1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5244	ABCB4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5250	SLC25 A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5264	PHYH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5266	PI3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5267	SERPI NA4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5269	SERPI NB6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5271	SERPI NB8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5273	SERPI NB10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5276	SERPI NI2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5305	PIP5K 2A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5309	PITX3	2055	NO_PITX3_F	ccaagacctttccattc	NO_PITX3_R	catttatctttgaaaacgag	180 - 197	872 - 892	713
+5319	PLA2G 1B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5320	PLA2G 2A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5322	PLA2G 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5329	PLAUR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5331	PLCB3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5333	PLCD1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5336	PLCG2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5337	PLD1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5355	PLP2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5367	PMCH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5368	PNOC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5369	PMCHL 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5370	PMCHL 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5423	POLB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5447	POR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5449	POU1F 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5452	POU2F 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5460	POU5F 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5468	PPARG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5473	PPBP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5479	PPIB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5480	PPIC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5511	PPP1R 8	2056	NO_PPP1R 8_F	aagaagaaatatgcaaaagag	NO_PPP1R 8_R	tgccttcataatacacttaaa	294 - 315	1104 - 1125	832
+5518	PPP2R 1A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5521	PPP2R 2B	2057	NO_PPP2R 2B_F	ctacaacaacttcttcaggat	NO_PPP2R 2B_R	aataaatctctggcttaaatg	22 - 43	818 - 839	818
+5709	PSMD3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5710	PSMD4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5714	PSMD8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5719	PSMD1 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5774	PTPN3	2058	NO_PTPN3_F	tattcatgtttctgagaattg	NO_PTPN3_R	aataatttgctacaatcctgt	670 - 691	1345 - 1366	697
+5775	PTPN4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5777	PTPN6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5784	PTPN1 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5788	PTPRC	2059	NO_PTPRC_F	ttaacttagcttgaaggatct	NO_PTPRC_R	ggtaaaaacattctaagcatt	664 - 685	1298 - 1319	656
+5789	PTPRD	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5797	PTPRM	2060	NO_PTPRM_F	ccaagaaagtgtttctaaaat	NO_PTPRM_R	actctctccccctgtgt	187 - 208	913 - 930	744
+5802	PTPRS	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5803	PTPRZ 1	2061	NO_PTPRZ 1_F	aactttcatgacataggattc	NO_PTPRZ 1_R	acaaatggaaagttttgtact	253 - 274	1120 - 1141	889
+5871	MAP4K 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5872	RAB13	2062	NO_RAB13_F	gaaactagtgctaaatccagt	NO_RAB13_R	ctctttagagttcagcatttc	479 - 500	1235 - 1256	778
+5874	RAB27 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5875	RABGG TA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5876	RABGG TB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5878	RAB5C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5881	RAC3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5889	RAD51 C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5901	RAN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5989	RFX1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6001	RGS10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6003	RGS13	2063	NO_RGS13_F	gggtttgatctttttatttag	NO_RGS13_R	atgataggaaggtaatatcca	234 - 255	1071 - 1092	859
+6015	RING1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6019	RLN2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6048	RNF5	2064	NO_RNF5_F	gtgtccagtatgtaaagctg	NO_RNF5_R	tatttggtgaattgattctaa	193 - 213	1071 - 1092	900
+6117	RPA1	2065	NO_RPA1_F	gtaactaggtttttgcttctc	NO_RPA1_R	ccaagtgaacatttattatga	449 - 470	1058 - 1079	631
+6119	RPA3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6139	RPL17	2066	NO_RPL17_F	ggtgatctgtgaaaatgg	NO_RPL17_R	ttcttctcttccctgatagt	2 - 20	773 - 793	792
+6150	MRPL2 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6182	MRPL1 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6271	S100A 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6273	S100A 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6274	S100A 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6275	S100A 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6276	S100A 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6278	S100A 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6279	S100A 8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6280	S100A 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6281	S100A 10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6282	S100A 11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6283	S100A 12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6285	S100B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6286	S100P	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6300	MAPK1 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6311	SCA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6317	SERPI NB3	2067	NO_SERPI NB3_F	agtttgcagaatatgagagag	NO_SERPI NB3_R	tctctaaattgtctttcctgt	45 - 66	915 - 936	892
+6346	CCL1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6348	CCL3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6351	CCL4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6354	CCL7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6356	CCL11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6357	CCL13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6358	CCL14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6359	CCL15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6361	CCL17	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6362	CCL18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6364	CCL20	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6366	CCL21	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6368	CCL23	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6369	CCL24	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6389	SDHA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6390	SDHB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6405	SEMA3 F	2068	NO_SEMA3 F_F	agactcagctggaagtctac	NO_SEMA3 F_R	ctacatgttgggtttcttta	690 - 710	1473 - 1493	804
+6440	SFTPC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6441	SFTPD	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6447	SGNE1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6509	SLC1A 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6511	SLC1A 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6512	SLC1A 7	2069	NO_SLC1A 7_F	gtatctcagagaagggaaag	NO_SLC1A 7_R	gaagtgaaaaacaaaatacct	376 - 396	1030 - 1051	676
+6520	SLC3A 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6530	SLC6A 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6534	SLC6A 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6536	SLC6A 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6538	SLC6A 11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6540	SLC6A 13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6554	SLC10 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6556	SLC11 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6558	SLC12 A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6559	SLC12 A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6560	SLC12 A4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6568	SLC17 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6576	SLC25 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6580	SLC22 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6582	SLC22 A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6583	SLC22 A4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6590	SLPI	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6610	SMPD2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6626	SNRPA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6628	SNRPB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6629	SNRPB 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6631	SNRPC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6633	SNRPD 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6634	SNRPD 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6635	SNRPE	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6636	SNRPF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6637	SNRPG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6638	SNRPN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6648	SOD2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6658	SOX3	2070	NO_SOX3_F	aagttttgctgtagctgtc	NO_SOX3_R	cagtagttaaaaggaaaccat	1476 - 1495	2210 - 2231	756
+6665	SOX15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6710	SPTB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6711	SPTBN 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6775	STAT4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6789	STK4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6794	STK11	2071	NO_STK11_F	ctttatgtggagactactgg	NO_STK11_R	cccatccacgttgagac	281 - 301	870 - 887	607
+6799	SULT1 A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6817	SULT1 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6818	SULT1 A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6820	SULT2 B1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6833	ABCC8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6843	VAMP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6846	XCL2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6887	TAL2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6892	TAPBP	2072	NO_TAPBP_F	gttataaaatctcacaaaccc	NO_TAPBP_R	aatattcattgagcttgga	1429 - 1450	2103 - 2122	694
+6906	SERPI NA7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6919	TCEA2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6947	TCN1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6954	TCP11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7051	TGM1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7054	TH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7076	TIMP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7077	TIMP2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7087	ICAM5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7098	TLR3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7148	TNXB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7161	TP73	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7166	TPH1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7168	TPM1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7169	TPM2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7189	TRAF6	2073	NO_TRAF6_F	tttggctatgtaacttttatg	NO_TRAF6_R	atatccttagtaacaacctgg	657 - 678	1378 - 1399	743
+7201	TRHR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7205	TRIP6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7270	TTF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7276	TTR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7293	TNFRS F4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7305	TYROB P	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7349	UCN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7351	UCP2	2074	NO_UCP2_F	tcgtcacctatgagcag	NO_UCP2_R	actccccatgttagtacag	49 - 66	631 - 650	602
+7356	SCGB1 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7369	UMOD	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7424	VEGFC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7441	VPREB 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7448	VTN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7450	VWF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7454	WAS	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7471	WNT1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7473	WNT3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7535	ZAP70	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7791	ZYX	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7818	DAP3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7850	IL1R2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7919	BAT1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7923	HSD17 B8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7941	PLA2G 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8028	MLLT1 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8153	ARHN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8174	MADCA M1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8239	USP9X	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8313	AXIN2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8328	GFI1B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8337	HIST2 H2AA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8399	PLA2G 10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8433	UTF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8453	CUL2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8454	CUL1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8468	FKBP6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8510	MMP23 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8511	MMP23 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8513	LIPF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8530	CST7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8533	COPS3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8547	FCN3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8575	PRKRA	2075	NO_PRKRA_F	acctgctcataagagagaata	NO_PRKRA_R	ccctcaagactctaattctaa	563 - 584	1433 - 1454	892
+8581	E48	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8600	TNFSF 11	2076	NO_TNFSF 11_F	tcagatgtaatgttttctttg	NO_TNFSF 11_R	aaaataataggatcacagagc	910 - 931	1553 - 1574	665
+8605	PLA2G 4C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8609	KLF7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8625	RFXAN K	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8631	SCAP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8643	PTCH2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8645	KCNK5	2077	NO_KCNK5_F	gtgtcctgaatgtttttgt	NO_KCNK5_R	ctgagtcctctctatcttctg	19 - 38	722 - 743	725
+8654	PDE5A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8662	EIF3S 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8663	EIF3S 8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8664	EIF3S 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8666	EIF3S 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8668	EIF3S 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8681	PLA2G 4B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8685	MARCO	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8722	CTSF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8745	ADAM2 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8751	ADAM1 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8756	ADAM7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8771	TNFRS F6B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8784	TNFRS F18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8787	RGS9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8793	TNFRS F10D	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8797	TNFRS F10A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8802	SUCLG 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8808	IL1RL 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8821	INPP4 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8822	FGF17	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8823	FGF16	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8837	CFLAR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8857	FCGBP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8880	FUBP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8887	TAX1B P1	2078	NO_TAX1B P1_F	gagttaatgtttcctcctaac	NO_TAX1B P1_R	tgttaattgctaaaaccaata	34 - 55	759 - 780	747
+8890	EIF2B 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8891	EIF2B 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8892	EIF2B 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8893	EIF2B 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8894	EIF2S 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8900	CCNA1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8926	SNURF	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8973	CHRNA 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8993	PGLYR P	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8995	TNFSF 18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9002	F2RL3	2079	NO_F2RL3_F	aacacagaagaaacgtgat	NO_F2RL3_R	tattatccatctgtaggaagg	919 - 938	1606 - 1627	709
+9016	SLC25 A14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9047	SH2D2 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9058	SLC13 A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9064	MAP3K 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9068	ANGPT L1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9071	CLDN1 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9080	CLDN9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9121	SLC16 A5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9132	KCNQ4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9133	CCNB2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9141	PDCD5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9152	SLC6A 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9154	SLC28 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9156	EXO1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9173	IL1RL 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9175	MAP3K 13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9177	HTR3B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9232	PTTG1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9235	NK4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9244	CRLF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9255	SCYE1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9274	BCL7C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9306	SOCS4	2080	NO_SOCS4_F	gaattatgtttcatcaatgtg	NO_SOCS4_R	tttaccaaaaggataggtaac	1957 - 1978	2604 - 2625	669
+9313	MMP20	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9332	CD163	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9333	TGM5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9352	TXNL	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9356	SLC22 A6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9363	RAB33 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9398	IGSF2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9402	GRAP2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9409	PEX16	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9429	ABCG2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9447	AIM2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9448	MAP4K 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9470	EIF4E L3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9507	ADAMT S4	2081	NO_ADAMT S4_F	aatgtgtgtgtgcttatgtat	NO_ADAMT S4_R	taagggaggtattattattgg	902 - 923	1748 - 1769	868
+9509	ADAMT S2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9513	FXR2	2082	NO_FXR2_F	agttgggtagtatggtgaat	NO_FXR2_R	gacaatgaagagaagtcagat	67 - 87	796 - 817	751
+9518	PLAB	2083	NO_PLAB_F	gcacctgcgtatctctc	NO_PLAB_R	agttcagacagctttattttt	28 - 45	869 - 890	863
+9526	MPDU1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9547	CXCL1 4	2084	NO_CXCL1 4_F	ccatacgtcactatacatctg	NO_CXCL1 4_R	tttattgtcatcctagcttaat	343 - 364	1220 - 1242	900
+9607	CART	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9609	RAB36	2085	NO_RAB36_F	acaaagacagtacaaagcata	NO_RAB36_R	atttaatcaaggaccatttac	736 - 757	1479 - 1500	765
+9616	RNF7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9636	G1P2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9962	SLC23 A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9963	SLC23 A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10016	PDCD 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10017	BCL2 L10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10018	BCL2 L11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10058	ABCB 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10060	ABCC 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10067	SCAM P3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10081	PDCD 7	2086	NO_PDCD 7_F	agcacctgttatttttaagtt	NO_PDCD 7_R	attcaaattcctgtaacaaat	824 - 845	1569 - 1590	767
+10171	RNAC	2087	NO_RNAC_F	aaataaaagacatccctgtag	NO_RNAC_R	agaccctgactctattacact	291 - 312	956 - 977	687
+10213	PSMD 14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10233	B7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10240	MRPS 31	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10257	ABCC 4	2088	NO_ABCC 4_F	atgagtctttaatttttcctg	NO_ABCC 4_R	atctacccgttagaatacttg	1256 - 1277	1996 - 2017	762
+10261	IGSF 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10287	RGS1 9	2089	NO_RGS1 9_F	aacaagaagatgcaggag	NO_RGS1 9_R	aataagacatcctatttttgg	36 - 54	821 - 842	807
+10288	LILR B2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10312	TCIR G1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10344	CCL2 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10347	ABCA 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10350	ABCA 9	2090	NO_ABCA 9_F	tccaaataccctatatctttc	NO_ABCA 9_R	tccctgtgaagaatatgaa	105 - 126	834 - 853	749
+10410	IFIT M3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10449	ACAA 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10468	FST	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10481	HOXB 13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10483	SEC2 3B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10542	HBXI P	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10572	SIVA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10573	MRPL 28	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10578	GNLY	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10581	IFIT M2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10599	SLC2 1A6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10636	RGS1 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10647	SCGB 1D2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10648	SCGB 1D1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10658	CUGB P1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10661	KLF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10683	DLL3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10686	CLDN 16	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10746	MAP3 K2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10763	NES	2091	NO_NES_F	agacatcattggtgttaatg	NO_NES_R	catctctctcctgtactaacc	3609 - 3629	4484 - 4505	897
+10786	SLC1 7A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10850	CCL2 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10858	CYP4 6A1	2092	NO_CYP4 6A1_F	gaggtgaaggtggtcat	NO_CYP4 6A1_R	tttcacagacgagcaag	7 - 24	786 - 803	797
+10859	LILR B1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10863	ADAM 28	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10871	CMRF 35	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10873	ME3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10877	FHR- 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10884	MRPS 30	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10980	COPS 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10981	RAB3 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10987	COPS 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10990	LILR B5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11000	SLC2 7A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11001	SLC2 7A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11006	LILR B4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11024	LILR A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11025	LILR B3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11026	LILR A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11027	LILR A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11093	ADAM TS13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11095	ADAM TS8	2093	NO_ADAM TS8_F	cactaatattgacgtgaagc	NO_ADAM TS8_R	cttttaccttttaacctatgc	40 - 60	816 - 837	798
+11099	PTPN 21	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11124	FAF1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11140	CDC3 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11174	ADAM TS6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11183	MAP4 K5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11184	MAP4 K1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11194	ABCB 8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11200	CHEK 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11222	MRPL 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11231	SEC6 3	2094	NO_SEC6 3_F	agtgtgggctatgtattatct	NO_SEC6 3_R	tagcagtcactttagcagtaa	418 - 439	1179 - 1200	783
+11235	PDCD 10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11266	DUSP 12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11279	KLF8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11283	CYP4 F8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11316	COPE	\null	\null	Not Found	\null	Not Found	\null	\null	0
+11331	REA	\null	\null	Not Found	\null	Not Found	\null	\null	0
+22801	ITGA 11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+22820	COPG	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23054	NCOA 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23409	SIRT 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23410	SIRT 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23415	KCNH 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23421	ITGB 3BP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23460	ABCA 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23461	ABCA 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23464	GCAT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23475	QPRT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23480	SEC6 1G	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23539	SLC1 6A8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23545	ATP6 V0A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23547	ILT7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23569	PADI 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23581	CASP 14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23645	PPP1 R15A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23704	KCNE 4	2095	NO_KCNE 4_F	acctcaccattcaggag	NO_KCNE 4_R	aaaggtcaaaatagaagatca	428 - 445	1159 - 1180	753
+23770	FKBP 8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+24146	CLDN 15	2096	NO_CLDN 15_F	tatattcaggcctgccg	NO_CLDN 15_R	aatcttggcttactacaactt	6 - 23	763 - 784	779
+25769	SLC2 4A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+25788	RAD5 4B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+25830	SULT 4A1	2097	NO_SULT 4A1_F	tttatcattcagtttgttctg	NO_SULT 4A1_R	aagtctgaattctgcttcat	1030 - 1051	1757 - 1777	748
+25865	PRKD 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+25984	KRT2 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26191	PTPN 22	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26232	FBXO 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26260	FBXO 25	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26261	FBXO 24	2098	NO_FBXO 24_F	caaggtccctctgtgtg	NO_FBXO 24_R	acaacaatgtgaagggtt	1 - 18	743 - 761	761
+26266	SLC1 3A4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26273	FBXO 3	2099	NO_FBXO 3_F	acactacattaggaattggat	NO_FBXO 3_R	atcttctaccttaaaagcaaa	319 - 340	1193 - 1214	896
+26281	FGF2 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26291	FGF2 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26469	PTPN 18	2100	NO_PTPN 18_F	cccctaagttagtcagattac	NO_PTPN 18_R	ggaaagagcatcttatacttt	744 - 765	1457 - 1478	735
+26548	ITGB 1BP2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26589	MRPL 46	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26958	COPG 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26998	FETU B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26999	CYFI P2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27006	FGF2 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27030	MLH3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27040	LAT	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27091	CACN G5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27094	KCNM B3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27115	PDE7 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27127	SMC1 L2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27161	EIF2 C2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27166	PX19	2101	NO_PX19_F	caaaacacttgttgagaca	NO_PX19_R	cacttaattctcacaacttga	16 - 35	654 - 675	660
+27190	IL17 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27233	SULT 1C2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27284	SULT 1B1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27314	RAB3 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27329	ANGP TL3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27344	PCSK 1N	\null	\null	Not Found	\null	Not Found	\null	\null	0
+28231	SLC2 1A12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+28957	MRPS 28	\null	\null	Not Found	\null	Not Found	\null	\null	0
+28976	ACAD 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29074	MRPL 18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29088	MRPL 15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29091	STXB P6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29093	MRPL 22	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29106	SCG3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29108	ASC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29760	BLNK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29785	CYP2 S1	2102	NO_CYP2 S1_F	ggttaatgtctccagagtgta	NO_CYP2 S1_R	caaagtctctgtgcataatc	280 - 301	955 - 975	696
+29850	TRPM 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29949	IL19	\null	\null	Not Found	\null	Not Found	\null	\null	0
+29958	DMGD H	2103	NO_DMGD H_F	gttgaactattaggcaaaaat	NO_DMGD H_R	ttctcttctaaaacaaccttt	108 - 129	828 - 849	742
+29988	SLC2 A8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+30012	TLX3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+30814	PLA2 G2E	\null	\null	Not Found	\null	Not Found	\null	\null	0
+50604	IL20	\null	\null	Not Found	\null	Not Found	\null	\null	0
+50617	ATP6 V0A4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+50801	KCNK 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+50846	DHH	2104	NO_DHH_F	ctggtgaacgatgtcct	NO_DHH_R	taagctgttaactcaggttg	439 - 456	1115 - 1135	697
+50943	FOXP 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51021	MRPS 16	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51069	MRPL 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51073	MRPL 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51081	MRPS 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51083	GAL	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51126	NAT5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51129	ANGP TL4	2105	NO_ANGP TL4_F	cttaagaagggaatcttctg	NO_ANGP TL4_R	actttttaaaacaaactgagg	82 - 102	739 - 760	679
+51138	COPS 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51166	AADA T	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51196	PLCE 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51207	DUSP 13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51208	CLDN 18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51237	PACA P	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51253	MRPL 37	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51258	MRPL 51	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51264	MRPL 27	2106	NO_MRPL 27_F	agtctaagtgaagatttaggg	NO_MRPL 27_R	agatatgttctttcctgctt	1467 - 1488	2309 - 2329	863
+51302	CYP3 9A1	2107	NO_CYP3 9A1_F	gttatctccatttggtgg	NO_CYP3 9A1_R	atatggtatctgccaaactat	4 - 22	793 - 814	811
+51303	FKBP 11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51332	SPTB N5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51348	KLRF 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51362	CDC4 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51365	PLA1 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51373	MRPS 17	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51422	PRKA G2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51435	SCAR A3	2108	NO_SCAR A3_F	agttcaacatttatttcttcac	NO_SCAR A3_R	cagaaaggactcaaagaca	1310 - 1332	2127 - 2146	837
+51477	ISYN A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51478	HSD1 7B7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51554	CCRL 1	2109	NO_CCRL 1_F	taaaacatctgcattattctg	NO_CCRL 1_R	cagatgaaaatgatagtctga	1372 - 1393	2215 - 2236	865
+51560	RAB6 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51561	IL23 A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51602	NOP5 /NOP58	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51642	MRPL 48	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51649	MRPS 23	\null	\null	Not Found	\null	Not Found	\null	\null	0
+51650	MRPS 33	\null	\null	Not Found	\null	Not Found	\null	\null	0
+53632	PRKA G3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+53832	IL20 RA	2110	NO_IL20 RA_F	atattaaacattcgaataggc	NO_IL20 RA_R	cttatttctattgcacagatg	1653 - 1674	2450 - 2471	819
+53916	RAB4 B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+53917	RAB2 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54361	WNT4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54460	MRPS 21	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54474	KRT2 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54766	BTG4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54860	MS4A 12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54866	PPP1 R14D	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54910	SEMA 4C	2111	NO_SEMA 4C_F	aagatgtgtgtttgtctgtat	NO_SEMA 4C_R	gtttcattttctccattttat	1112 - 1133	1699 - 1720	609
+54948	MRPL 16	2112	NO_MRPL 16_F	gacaatcaaccgctctat	NO_MRPL 16_R	ttttaagggattaagaatgac	52 - 70	709 - 730	679
+55052	MRPL 20	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55240	TSAP 6	2113	NO_TSAP 6_F	gcagaaacttgtctcataaat	NO_TSAP 6_R	agaaggttaggtgtttatttg	1936 - 1957	2573 - 2594	659
+55250	STAT IP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55324	ABCF 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55658	RNF1 26	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55801	IL26	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55819	RNF1 30	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55859	BEX1	2114	NO_BEX1_F	caaagagaaactagcagtaaa	NO_BEX1_R	atctcatagaatgagtcccta	16 - 37	724 - 745	730
+55867	SLC2 2A11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55894	DEFB 103	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55911	APOB 48R	\null	\null	Not Found	\null	Not Found	\null	\null	0
+55973	BAP2 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56098	PCDH GC4	2115	NO_PCDH GC4_F	ccactctctacctctgttact	NO_PCDH GC4_R	ttcaggaagagtagagaaaac	1960 - 1981	2795 - 2816	857
+56100	PCDH GB6	2116	NO_PCDH GB6_F	ctcatagcttgatattgactg	NO_PCDH GB6_R	tctgtcaccagtttgtagtag	620 - 641	1199 - 1220	601
+56109	PCDH GA6	2117	NO_PCDH GA6_F	caggtcctgctcctcac	NO_PCDH GA6_R	aatttgtgagatcttttctgt	37 - 54	852 - 873	837
+56113	PCDH GA2	2118	NO_PCDH GA2_F	aatgtatcattaagcctgttc	NO_PCDH GA2_R	gctagtacgtatgttgtgaaa	1818 - 1839	2620 - 2641	824
+56129	PCDH B7	2119	NO_PCDH B7_F	actcgctcaccgtctac	NO_PCDH B7_R	cttctgagactagggtaggta	2219 - 2236	2885 - 2906	688
+56163	RNF1 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56547	MMP2 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56606	SLC2 A9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56940	DUSP 22	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56945	MRPS 22	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57055	DAZ2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57089	LALP 1	2120	NO_LALP 1_F	atctgtgaggaactaaatgac	NO_LALP 1_R	gacattccaagagtcataaat	49 - 70	896 - 917	869
+57094	CPA6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57111	RAB2 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57129	MRPL 47	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57159	RNF3 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57194	ATP1 0A	2121	NO_ATP1 0A_F	acttatccatgcatcactatt	NO_ATP1 0A_R	ccatagattgttattgtgga	1996 - 2017	2675 - 2695	700
+57333	RCN3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57381	ARHJ	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57403	RAB2 2A	2122	NO_RAB2 2A_F	agttctttacagggtgaatta	NO_RAB2 2A_R	ttgggaatattcttattcttc	5997 - 6018	6857 - 6878	882
+57404	CYP2 0A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57715	SEMA 4G	2123	NO_SEMA 4G_F	ttctcaagagtatgagagaca	NO_SEMA 4G_R	gatatcaccttctgtataggc	1579 - 1600	2379 - 2400	822
+57717	PCDH B16	2124	NO_PCDH B16_F	aagtagcttggactataggtg	NO_PCDH B16_R	aatttctctgaaccaaataag	4132 - 4153	4885 - 4906	775
+57731	SPTB N4	2125	NO_SPTB N4_F	tttatgcaataactgagctt	NO_SPTB N4_R	cacataaaagggtacatctg	412 - 432	1181 - 1201	790
+57758	SCUB E2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57817	HAMP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+58475	MS4A 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+58494	JAM2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+59067	IL21	\null	\null	Not Found	\null	Not Found	\null	\null	0
+59307	SIGI RR	\null	\null	Not Found	\null	Not Found	\null	\null	0
+60489	APOB EC3G	\null	\null	Not Found	\null	Not Found	\null	\null	0
+63891	RNF1 23	\null	\null	Not Found	\null	Not Found	\null	\null	0
+63967	CLSP N	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64066	MMP2 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64078	SLC2 8A3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64240	ABCG 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64241	ABCG 8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64600	PLA2 G2F	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64816	CYP3 A43	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64849	SLC1 3A3	2126	NO_SLC1 3A3_F	agtgttgaatcacagttacaa	NO_SLC1 3A3_R	cacatgacttgtttatgtttc	1607 - 1628	2440 - 2461	855
+64928	MRPL 14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64949	MRPS 26	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64951	MRPS 24	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64965	MRPS 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64968	MRPS 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64969	MRPS 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64975	MRPL 41	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64976	MRPL 40	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64979	MRPL 36	\null	\null	Not Found	\null	Not Found	\null	\null	0
+64983	MRPL 32	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65003	MRPL 11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65005	MRPL 9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65008	MRPL 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65010	SLC2 6A6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65012	SLC2 6A10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65125	PRKW NK1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65268	PRKW NK2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+65991	HCBP 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+66002	CYP4 F12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+66004	LYNX 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+79165	LENG 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+79166	ILT1 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+79168	ILT8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+79589	RNF1 28	2127	NO_RNF1 28_F	cttgacacaagattagacaaa	NO_RNF1 28_R	gttaaactaacaccagacaca	779 - 800	1417 - 1438	660
+79590	MRPL 24	\null	\null	Not Found	\null	Not Found	\null	\null	0
+79620	FLJ2 1047	2128	NO_FLJ2 1047_F	gttcctgtgaataaatgaaac	NO_FLJ2 1047_R	atatgagtgaaaggcatatct	52 - 73	786 - 807	756
+79836	RNF1 27	\null	\null	Not Found	\null	Not Found	\null	\null	0
+79923	NANO G	\null	\null	Not Found	\null	Not Found	\null	\null	0
+80332	ADAM 33	2129	NO_ADAM 33_F	acactctccagctcaataa	NO_ADAM 33_R	aggtccaagtgtaatatgtct	255 - 274	1023 - 1044	790
+80831	APOL 5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+81579	PLA2 G12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+81620	CDT1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+81706	PPP1 R14C	2130	NO_PPP1 R14C_F	accgagtactgtgtttattct	NO_PPP1 R14C_R	attacatgcctagaaatcct	951 - 972	1724 - 1744	794
+81792	ADAM TS12	\null	\null	Not Found	\null	Not Found	\null	\null	0
+81794	ADAM TS10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+83855	KLF1 6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+83871	RAB3 4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+83881	MIXL 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84137	PHAX	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84282	RNF1 35	2131	NO_RNF1 35_F	gtaaaggtgtaaggtttccta	NO_RNF1 35_R	gcaatattcttacatagcaac	519 - 540	1338 - 1359	841
+84504	NKX6 - 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84539	GPR1 45	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84570	COL2 5A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84647	PLA2 G13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84667	HES7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84807	TA- NFKBH	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84893	FBXO 18	\null	\null	Not Found	\null	Not Found	\null	\null	0
+84897	TBRG 1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+85301	COL2 7A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+85320	ABCC 11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+85397	RGS8	\null	\null	Not Found	\null	Not Found	\null	\null	0
+85417	CCNB 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+89845	ABCC 10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+92259	MRPS 36	\null	\null	Not Found	\null	Not Found	\null	\null	0
+92304	SCGB 3A1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+93621	PGR1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+93979	CPA5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+93986	FOXP 2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+94274	PPP1 R14A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+113026	PLC D3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+114134	SLC 2A13	2132	NO_SLC 2A13_F	gagtagtggcttatctctgat	NO_SLC 2A13_R	caatctcaatttttacacaag	687 - 708	1512 - 1533	847
+114907	FBX O32	\null	\null	Not Found	\null	Not Found	\null	\null	0
+115111	SLC 26A7	2133	NO_SLC 26A7_F	aatatgtaaccaggaaaagac	NO_SLC 26A7_R	ttttgtaagaacaaattacca	2503 - 2524	3216 - 3237	735
+115290	FBX O26	\null	\null	Not Found	\null	Not Found	\null	\null	0
+115650	TNF RSF13C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+116179	TGM 7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+116540	MRP L53	\null	\null	Not Found	\null	Not Found	\null	\null	0
+116541	MRP L54	\null	\null	Not Found	\null	Not Found	\null	\null	0
+117156	SCG B3A2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+117289	TAG AP	2134	NO_TAG AP_F	gtaaagaactgcctgtagatt	NO_TAG AP_R	aaccaatatgtgaatgatttt	1355 - 1376	2194 - 2215	861
+117579	RLN 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+118856	MMP 21	\null	\null	Not Found	\null	Not Found	\null	\null	0
+122704	MRP L52	\null	\null	Not Found	\null	Not Found	\null	\null	0
+124995	MRP L10	2135	NO_MRP L10_F	ttgtcacttggttttcacta	NO_MRP L10_R	accacaaaataaaggaagtag	357 - 377	998 - 1019	663
+128308	MRP L55	\null	\null	Not Found	\null	Not Found	\null	\null	0
+131096	KCN H8	2136	NO_KCN H8_F	aatgaaataaaaacatggact	NO_KCN H8_R	catacaacatcagaagtcttg	1557 - 1578	2251 - 2272	716
+131450	CD2 00R	\null	\null	Not Found	\null	Not Found	\null	\null	0
+132625	ZFP 42	2137	NO_ZFP 42_F	agtgagatcctgtctctacaa	NO_ZFP 42_R	ttaaaatacagacttggcata	1565 - 1586	2346 - 2367	803
+133396	CRL 3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+135228	CD1 09	\null	\null	Not Found	\null	Not Found	\null	\null	0
+140446	KRT 6C	2138	NO_KRT 6C_F	gacaagtcaacatctctgtg	NO_KRT 6C_R	tacaggctttgtacatcatag	824 - 844	1530 - 1551	728
+140628	GAT A5	2139	NO_GAT A5_F	gagtctccacacagtggt	NO_GAT A5_R	actcattaaggtatcatccaa	287 - 305	1055 - 1076	790
+143662	MUC 15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+144195	SLC 2A14	\null	\null	Not Found	\null	Not Found	\null	\null	0
+145258	GSC	\null	\null	Not Found	\null	Not Found	\null	\null	0
+150000	ABC C13	\null	\null	Not Found	\null	Not Found	\null	\null	0
+157574	FBX O16	\null	\null	Not Found	\null	Not Found	\null	\null	0
+159296	NKX 2- 3	2140	NO_NKX 2- 3_F	aatatgtacgtctagctcctc	NO_NKX 2- 3_R	tatttaaaggattcctctcc	293 - 314	1032 - 1052	760
+160760	TA- PP2C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+169522	KCN V2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+170572	HTR 3C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+170591	S10 0Z	\null	\null	Not Found	\null	Not Found	\null	\null	0
+170691	ADA MTS17	\null	\null	Not Found	\null	Not Found	\null	\null	0
+171019	ADA MTS19	\null	\null	Not Found	\null	Not Found	\null	\null	0
+192666	KRT 24	\null	\null	Not Found	\null	Not Found	\null	\null	0
+196883	ADC Y4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+199974	CYP 4Z1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+201456	FBX 15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+220202	ATO H7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+282679	AQP 11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+283316	M16 0	\null	\null	Not Found	\null	Not Found	\null	\null	0
+317772	HIS T2H2AB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+326624	RAB 37	\null	\null	Not Found	\null	Not Found	\null	\null	0
+327657	SER PINA11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+338324	S10 0A15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+153	ADRB1	2141	NO_ADRB1_F	agaagcaggtgaagaagat	NO_ADRB1_R	aaacaacaaggaacatcag	832 - 851	1698 - 1717	886
+156	ADRBK1	2142	NO_ADRBK1_F	ctgagagagtggcattg	NO_ADRBK1_R	cgatcacccagacactg	757 - 774	1590 - 1607	851
+623	BDKRB1	2143	NO_BDKRB1_F	aatttgttcatcagcatct	NO_BDKRB1_R	atctacgggagtaatcattta	371 - 390	1147 - 1168	798
+773	CACNA1A	2144	NO_CACNA1A_F	tcctattcccctgtgat	NO_CACNA1A_R	caggagggtctcttttg	114 - 131	918 - 935	822
+782	CACNB1	2145	NO_CACNB1_F	atacagcaccctctacctc	NO_CACNB1_R	ggacagtggttttatatatgg	1046 - 1065	1806 - 1827	782
+815	CAMK2A	2146	NO_CAMK2A_F	ctgtccactgtgtcactct	NO_CAMK2A_R	atctggaactggaaactaac	2586 - 2605	3270 - 3290	705
+8099	CDK2AP1	2147	NO_CDK2AP1_F	gttttcaaaatggttacagtt	NO_CDK2AP1_R	ggtgagccaagattatattac	153 - 174	892 - 913	761
+1300	COL10A1	2148	NO_COL10A1_F	taaaattttgtataacaggca	NO_COL10A1_R	attcatagttagaaacaggct	1731 - 1752	2455 - 2476	746
+1282	COL4A1	2149	NO_COL4A1_F	acagactcagtagccatatct	NO_COL4A1_R	agtcttagaaatgttttggag	575 - 596	1282 - 1303	729
+1499	CTNNB1	2150	NO_CTNNB1_F	gaagtaaactttttgttctgg	NO_CTNNB1_R	aaagttcaggataaagttgag	124 - 145	863 - 884	761
+6376	CX3CL1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3627	CXCL10	2151	NO_CXCL10_F	agccataattgttcttagttt	NO_CXCL10_R	gatttctccaatctaagtttc	113 - 134	876 - 897	785
+6387	CXCL12	2152	NO_CXCL12_F	cactctgcttgttattagaga	NO_CXCL12_R	attacacaaccctcagtttt	2549 - 2570	3254 - 3274	726
+10563	CXCL13	2153	NO_CXCL13_F	ggactatgtgaaaaataacct	NO_CXCL13_R	taagtaaaatgtttgctcaac	173 - 194	828 - 849	677
+6372	CXCL6	2154	NO_CXCL6_F	tcgtatggaaataatgtttta	NO_CXCL6_R	agcagaggtaatattttgaat	399 - 420	1197 - 1218	820
+1618	DAZL	2155	NO_DAZL_F	attttacattgtgacaaacag	NO_DAZL_R	cccaccattttagattattac	1142 - 1163	1943 - 1964	823
+8527	DGKD	2156	NO_DGKD_F	gttgtatgttaccttttccac	NO_DGKD_R	aaccaacactttatgtcaaa	1925 - 1946	2761 - 2781	857
+84976	DISPA	2157	NO_DISPA_F	gtcacttcttctctctgaatc	NO_DISPA_R	tctaagcttctggattttact	2799 - 2820	3642 - 3663	865
+1975	EIF4E	2158	NO_EIF4E_F	gctgctagagaaagagaagta	NO_EIF4E_R	aaaaaggtaagaaaggtcttc	1108 - 1129	1942 - 1963	856
+55506	H2AFY2	2159	NO_H2AFY2_F	gaagaacgtgtacttcctg	NO_H2AFY2_R	tgttgcaataaaagaatatgt	88 - 107	766 - 787	700
+27288	HNRNPG-T	2160	NO_HNRNPG-T_F	ctttgagagctacggaga	NO_HNRNPG-T_R	tgatctaaatcacttttgttg	872 - 890	1719 - 1740	869
+3198	HOXA1	2161	NO_HOXA1_F	agtttgctggttgtaaatact	NO_HOXA1_R	caaaaataaatctgcttcata	860 - 881	1688 - 1709	850
+3283	HSD3B1	2162	NO_HSD3B1_F	ataaccttaattacaccctga	NO_HSD3B1_R	gagaaaggaggaaagtatgta	489 - 510	1250 - 1271	783
+3305	HSPA1L	2163	NO_HSPA1L_F	aatataaagctgaagatgagg	NO_HSPA1L_R	taccaatttaatcattcacag	1593 - 1614	2338 - 2359	767
+51510	HSPC177	2164	NO_HSPC177_F	gcatatcttgtaaaacaaaca	NO_HSPC177_R	ggttaatttggtttctgtagt	69 - 90	797 - 818	750
+3350	HTR1A	2165	NO_HTR1A_F	gctacactatctattccacct	NO_HTR1A_R	tatattaagtgtggattccct	578 - 599	1334 - 1355	778
+8570	KHSRP	2166	NO_KHSRP_F	aatgtgaacttcttcatctgt	NO_KHSRP_R	ggctttttaaacaacatctat	22 - 43	849 - 870	849
+4543	MTNR1A	2167	NO_MTNR1A_F	acagtctcaagtacgacaaa	NO_MTNR1A_R	catgtaactctccatacattc	211 - 231	1052 - 1073	863
+4821	NKX2-2	2168	NO_NKX2-2_F	tattattatggagtcgagttg	NO_NKX2-2_R	tttttaaacacaggattttt	669 - 690	1440 - 1460	792
+4824	NKX3-1	2169	NO_NKX3-1_F	tgccaacataagttaatagaa	NO_NKX3-1_R	agacatgggtactttattttc	19 - 40	637 - 658	640
+63970	P53AIP1	2170	NO_P53AIP1_F	tctcagtgtaggtgtctgtaa	NO_P53AIP1_R	agtttttagcaagtggatatt	1808 - 1829	2555 - 2576	769
+5076	PAX2	2171	NO_PAX2_F	agaaaagaaatctctatgcaa	NO_PAX2_R	atctcagagacagggagag	1566 - 1587	2418 - 2437	872
+5078	PAX4	2172	NO_PAX4_F	agaagatctaataccatcctg	NO_PAX4_R	agcatgtataaataaagcaca	172 - 193	928 - 949	778
+7849	PAX8	2173	NO_PAX8_F	acaactctagcaattatggac	NO_PAX8_R	gtgagtttgtcggctact	480 - 501	1320 - 1338	859
+29930	PCDHB1	2174	NO_PCDHB1_F	atatcatctacttaaggccac	NO_PCDHB1_R	tttgttttaatgaggatgtaa	1889 - 1910	2596 - 2617	729
+5098	PCDHGC3	2175	NO_PCDHGC3_F	taccctcactgtgtcagtaac	NO_PCDHGC3_R	tgtaaatgataccaagctaaa	2095 - 2116	2869 - 2890	796
+5150	PDE7A	2176	NO_PDE7A_F	gactgaacacagtgaaatatg	NO_PDE7A_R	attaagcaagggagtagttta	1109 - 1130	1908 - 1929	821
+5156	PDGFRA	2177	NO_PDGFRA_F	tagacttgaaatacgtttgtg	NO_PDGFRA_R	aaaatgctgaaaccttagtat	2320 - 2341	3120 - 3141	822
+23236	PLCB1	2178	NO_PLCB1_F	ttgcatcattgaaactactac	NO_PLCB1_R	caaaagaaggttgactctg	2592 - 2613	3304 - 3323	732
+5451	POU2F1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+25833	POU2F3	2179	NO_POU2F3_F	gttcttaactccttaatgtgg	NO_POU2F3_R	atacacttaatgtcccaattt	916 - 937	1697 - 1718	803
+5454	POU3F2	2180	NO_POU3F2_F	agcttacagctggagaag	NO_POU3F2_R	atccacaataaataaacacag	1320 - 1338	1918 - 1939	620
+5455	POU3F3	2181	NO_POU3F3_F	agagtctgctctactcgc	NO_POU3F3_R	actcttcgctctgcgcc	653 - 671	1509 - 1526	874
+5456	POU3F4	2182	NO_POU3F4_F	ctgtatggtaacgtgttctc	NO_POU3F4_R	atgagagagtatgtgtttcct	696 - 716	1466 - 1487	792
+5457	POU4F1	2183	NO_POU4F1_F	tgctttgtgtacaagatactc	NO_POU4F1_R	ttttataaacacaggcaacta	2757 - 2778	3611 - 3632	876
+5458	POU4F2	2184	NO_POU4F2_F	agtaatggatgtcttaatcgt	NO_POU4F2_R	ataacaaccactccctaataa	1870 - 1891	2690 - 2711	842
+5459	POU4F3	2185	NO_POU4F3_F	tcacctcacaccctcac	NO_POU4F3_R	atagaaaggaaagagagagaa	192 - 209	1064 - 1085	894
+64061	SE20-4	2186	NO_SE20-4_F	gactctgacctagaggatgt	NO_SE20-4_R	taaacaaaagactcgaagc	92 - 112	774 - 793	702
+56916	SMARCAD1	2187	NO_SMARCAD1_F	tagtaactaaagaagccccta	NO_SMARCAD1_R	tgatttgggtatagtgatgta	713 - 734	1589 - 1610	898
+8243	SMC1L1	2188	NO_SMC1L1_F	ccttttgagaagttagattgt	NO_SMC1L1_R	atttaattttctctttgcttc	1549 - 1570	2425 - 2446	898
+6814	STXBP3	2189	NO_STXBP3_F	aaagatgaatagcatttcttt	NO_STXBP3_R	tattacggtagattccttttc	85 - 106	820 - 841	757
+8801	SUCLG2	2190	NO_SUCLG2_F	aaaaacagaccatttaaaaac	NO_SUCLG2_R	aaattttagaggcatacctaa	496 - 517	1224 - 1245	750
+9760	TOX	2191	NO_TOX_F	attcagattttatgttggttt	NO_TOX_R	gactggttactttaatttgct	272 - 293	1137 - 1158	887
+7277	TUBA1	2192	NO_TUBA1_F	gaagcaatctatgacatctg	NO_TUBA1_R	caataaacatagtgaataggc	245 - 265	987 - 1008	764
+7296	TXNRD1	2193	NO_TXNRD1_F	tattaatgcctcagttatgtg	NO_TXNRD1_R	tacttaaatcagcatagcatc	1278 - 1299	2040 - 2061	784
+7529	YWHAB	2194	NO_YWHAB_F	taactttttggaaggtttaat	NO_YWHAB_R	atctctacagaacatcattcc	400 - 421	1096 - 1117	718
+7531	YWHAE	2195	NO_YWHAE_F	accaaatctgacttttacatt	NO_YWHAE_R	tccagtcagatatccagtagt	141 - 162	849 - 870	730
+8824	CES2	2196	NO_CES2_F	aagctaaataggaaagttttg	NO_CES2_R	actcacagatgtaagagcac	506 - 527	1288 - 1308	803
+1278	COL1A2	2197	NO_COL1A2_F	catctacttgcttaaattgtg	NO_COL1A2_R	tactcaatatgttcttttgga	256 - 277	978 - 999	744
+56123	PCDHB13	2198	NO_PCDHB13_F	cctcaggtctctggacta	NO_PCDHB13_R	acctatggaatgtaaaagtca	1732 - 1750	2591 - 2612	881
+56128	PCDHB8	2199	NO_PCDHB8_F	aacgacaactcgccctt	NO_PCDHB8_R	tttaaaacagtgaaaacaaga	1852 - 1869	2698 - 2719	868
+10165	SLC25A13	2200	NO_SLC25A13_F	ttttatcatgtgaaatcattc	NO_SLC25A13_R	attactgtatccactcaccat	313 - 334	1186 - 1207	895
+3231	HOXD1	2201	NO_HOXD1_F	tctagacttaggagctcagtt	NO_HOXD1_R	ttaaagagtgtaagaaaagca	395 - 416	1105 - 1126	732
+1285	COL4A3	2202	NO_COL4A3_F	tatctggagcattgtgtatag	NO_COL4A3_R	aatgactctttcagtatggtt	547 - 568	1187 - 1208	662
+10346	TRIM22	2203	NO_TRIM22_F	aaatttgaggaaggcac	NO_TRIM22_R	gaaaagtacctaggatggtaa	1 - 18	871 - 892	892
+546	ATRX	2204	NO_ATRX_F	taaagagcatgagtaaaattg	NO_ATRX_R	gagtcacaactatctcctttc	2681 - 2702	3413 - 3434	754
+6868	ADAM17	2205	NO_ADAM17_F	gtgaaggtgaatctagcttat	NO_ADAM17_R	ccctcttattcaatagtgttt	527 - 548	1302 - 1323	797
+1290	COL5A2	2206	NO_COL5A2_F	tttagacatctttctcattca	NO_COL5A2_R	ctaatatggtcaaaggaattt	846 - 867	1719 - 1740	895
+5509	PPP1R3D	2207	NO_PPP1R3D_F	acctctgtgcttttataattc	NO_PPP1R3D_R	tacaacaactctgctactgac	2817 - 2838	3637 - 3658	842
+5146	PDE6C	2208	NO_PDE6C_F	gctttatatttcaagaagagg	NO_PDE6C_R	caggattgcatgattttt	177 - 198	966 - 984	808
+4137	MAPT	2209	NO_MAPT_F	ggaggaatgtgtaagatagtt	NO_MAPT_R	gagctaaattatctaagggtg	2166 - 2187	3022 - 3043	878
+2335	FN1	2210	NO_FN1_F	gagtaaatcatctttccaatc	NO_FN1_R	ttttgtagcaactgatttaga	67 - 88	895 - 916	850
+3575	IL7R	2211	NO_IL7R_F	attcaagctagagatgaagtg	NO_IL7R_R	ttactctttcattctttcctc	64 - 85	770 - 791	728
+3235	HOXD9	2212	NO_HOXD9_F	taggatgaaaatgaaaaagat	NO_HOXD9_R	aggtcagcatttattagtagg	191 - 212	952 - 973	783
+3441	IFNA4	2213	NO_IFNA4_F	ctacaaatccatctgttctct	NO_IFNA4_R	atattgttacattcaccacaa	185 - 206	986 - 1007	823
+6404	SELPLG	2214	NO_SELPLG_F	gtgtcctctgttactcacaa	NO_SELPLG_R	cttcagtactcctcccttag	470 - 490	1310 - 1330	861
+3594	IL12RB1	2215	NO_IL12RB1_F	cttccagattcaagagattc	NO_IL12RB1_R	aatgtcagagagatggatact	37 - 57	787 - 808	772
+182	JAG1	2216	NO_JAG1_F	tatagcatcacttaaaacacg	NO_JAG1_R	agtattcacacttgctgttg	1348 - 1369	2224 - 2244	897
+3014	H2AFX	2217	NO_H2AFX_F	caccttctggaagacttg	NO_H2AFX_R	atcttaaattcctatggtttg	927 - 945	1708 - 1729	803
+3991	LIPE	2218	NO_LIPE_F	aacttcttattaccacctgag	NO_LIPE_R	acttttatttacaacaaacca	1849 - 1870	2620 - 2641	793
+1513	CTSK	2219	NO_CTSK_F	atatatcctcatggctcg	NO_CTSK_R	gacagtctctacaaccagact	32 - 50	772 - 793	762
+7130	TNFAIP6	2220	NO_TNFAIP6_F	gaccttgaagtttctaagtga	NO_TNFAIP6_R	tgtgttcaaggatatttattg	15 - 36	666 - 687	673
+8912	CACNA1H	2221	NO_CACNA1H_F	aatccagagcttcctctt	NO_CACNA1H_R	cagattattgcaacatttaac	828 - 846	1700 - 1721	894
+777	CACNA1E	2222	NO_CACNA1E_F	taagtgagagctccatcc	NO_CACNA1E_R	acttcctcttctctgataatg	18 - 36	667 - 688	671
+8740	TNFSF14	2223	NO_TNFSF14_F	aagctggctactactacatct	NO_TNFSF14_R	ggtttttgtccttagtattgt	116 - 137	964 - 985	870
+23049	SMG1	2224	NO_SMG1_F	ccagtgtaatcttttaccttt	NO_SMG1_R	tcatttatttttgacacagag	1116 - 1137	1863 - 1884	769
+5520	PPP2R2A	2225	NO_PPP2R2A_F	tgcttagttgagatagttgaa	NO_PPP2R2A_R	tcatagagaaccaatacctct	317 - 338	1150 - 1171	855
+3452	IFNA21	2226	NO_IFNA21_F	ctacaaatccatctgttctct	NO_IFNA21_R	attagatctatcagcatggtc	53 - 74	763 - 784	732
+57468	SLC12A5	2227	NO_SLC12A5_F	gattctttcaggtactcaatc	NO_SLC12A5_R	ctatcggtggataaattagat	1885 - 1906	2755 - 2776	892
+149461	CLDN19	2228	NO_CLDN19_F	aatgacacaaatggcag	NO_CLDN19_R	ttaaaaatagagacagggttt	1316 - 1333	2181 - 2202	887
+1981	EIF4G1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+10293	TRIP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+154	ADRB2	2229	NO_ADRB2_F	tagtacaaatgactcactgct	NO_ADRB2_R	atgggcagtaattacaagtag	1437 - 1458	2089 - 2110	674
+2555	GABRA2	2230	NO_GABRA2_F	acagaatgtccagaatagttt	NO_GABRA2_R	aaactctgaagctaaaaatgt	196 - 217	960 - 981	786
+1407	CRY1	2231	NO_CRY1_F	acattcaggaggaatactgt	NO_CRY1_R	tacacaagatttcatatttgc	6 - 26	627 - 648	643
+23014	FBXO21	2232	NO_FBXO21_F	attctttgtattcactccatt	NO_FBXO21_R	ctaaggaataacaagaggtgt	511 - 532	1239 - 1260	750
+27242	TNFRSF21	2233	NO_TNFRSF21_F	tatagttcatattcatggctg	NO_TNFRSF21_R	aacgattaaatatactcggac	848 - 869	1473 - 1494	647
+8446	DUSP11	2234	NO_DUSP11_F	cagagaatccacatgtttac	NO_DUSP11_R	atctggtttatcagtcagtct	11 - 31	822 - 843	833
+3290	HSD11B1	2235	NO_HSD11B1_F	agaaacagccatgaagg	NO_HSD11B1_R	gagataaagagttcagaccac	1 - 18	653 - 674	674
+1824	DSC2	2236	NO_DSC2_F	gtaatcaagatgaaaatcaca	NO_DSC2_R	caaaaacttgcagtagtaaaa	16 - 37	864 - 885	870
+83259	PCDH11Y	2237	NO_PCDH11Y_F	tttggaaaccaaatttatagt	NO_PCDH11Y_R	atattgaaggagttttcagag	4279 - 4300	5083 - 5104	826
+25930	PTPN23	2238	NO_PTPN23_F	agaaccaccttcctcag	NO_PTPN23_R	ttaaagaactgtcctggtagt	1 - 18	838 - 859	859
+27253	PCDH17	2239	NO_PCDH17_F	ctacagttgaagctaatgttg	NO_PCDH17_R	attgtcaaaaggtaattcttc	132 - 153	978 - 999	868
+5175	PECAM1	2240	NO_PECAM1_F	aagttaatgttgggtagaaag	NO_PECAM1_R	catttcaagttttcaattaag	196 - 217	777 - 798	603
+51263	MRPL30	2241	NO_MRPL30_F	ttaagtgaattcaacaatttc	NO_MRPL30_R	gttgcctttaagcttatttat	1052 - 1073	1846 - 1867	816
+116369	SLC26A8	2242	NO_SLC26A8_F	ttcaagatataaaatgagcag	NO_SLC26A8_R	aggatccaaatgttactagag	11 - 32	818 - 839	829
+847	CAT	2243	NO_CAT_F	agaaggcaaatctgtgag	NO_CAT_R	aagagtctggtagcagtttac	52 - 70	733 - 754	703
+1240	CMKLR1	2244	NO_CMKLR1_F	cttcaagattattgtgacca	NO_CMKLR1_R	aatatatatacaagggccaag	771 - 791	1538 - 1559	789
+56105	PCDHGA11	2245	NO_PCDHGA11_F	gagatcctgtaccctgc	NO_PCDHGA11_R	actcacatgtattgctctaaa	1942 - 1959	2820 - 2841	900
+7507	XPA	2246	NO_XPA_F	gattgttcatcaacatgagta	NO_XPA_R	acaactcaatgtttatttctg	46 - 67	650 - 671	626
+3363	HTR7	2247	NO_HTR7_F	tatcttaaatcaaatgtgtgc	NO_HTR7_R	ttagctacctgttaggatttt	1112 - 1133	1779 - 1800	689
+7070	THY1	2248	NO_THY1_F	ctaccttgtgagggagag	NO_THY1_R	gttagggtcattctgaaaag	653 - 671	1514 - 1534	882
+55173	MRPS10	2249	NO_MRPS10_F	aattgaatagaaataatggct	NO_MRPS10_R	ttgactagttcttgatcttca	815 - 836	1637 - 1658	844
+2073	ERCC5	2250	NO_ERCC5_F	tgattccttctttagattagc	NO_ERCC5_R	aggatcagacattgttaagat	17 - 38	842 - 863	847
+3781	KCNN2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+246213	SLC17A8	2251	NO_SLC17A8_F	tactacaatgaaaacatttgg	NO_SLC17A8_R	attataaaggcaagttacagg	1597 - 1618	2399 - 2420	824
+84311	MRPL45	2252	NO_MRPL45_F	aaaccagaagaagaatatgaa	NO_MRPL45_R	tcatacttttgtacactcacc	30 - 51	875 - 896	867
+54778	RNF111	2253	NO_RNF111_F	ctgcttacattgattttgtag	NO_RNF111_R	ctcggtttaatcataaggtat	1028 - 1049	1879 - 1900	873
+6049	RNF6	2254	NO_RNF6_F	gactttagcttcaagtttcat	NO_RNF6_R	atattagtggagggtgaataa	2111 - 2132	2861 - 2882	772
+93107	KCNG4	2255	NO_KCNG4_F	agctgatctgtaagtcactct	NO_KCNG4_R	ggtcacttgttttgtcttaat	1465 - 1486	2163 - 2184	720
+3447	IFNA13	2256	NO_IFNA13_F	gttcagagtcacccatct	NO_IFNA13_R	gttggaccaggtgttatt	20 - 38	634 - 652	633
+5934	RBL2	2257	NO_RBL2_F	atccaatattttctttaatgc	NO_RBL2_R	tacccttttctcaatataacc	915 - 936	1530 - 1551	637
+5525	PPP2R5A	2258	NO_PPP2R5A_F	agatatggtagtctgctctgt	NO_PPP2R5A_R	cacatatgtatgtaaaaaggg	466 - 487	1282 - 1303	838
+51773	HBXAP	2259	NO_HBXAP_F	atttttgtgctaatttattcc	NO_HBXAP_R	ccacattcatttcactaataa	590 - 611	1387 - 1408	819
+4987	OPRL1	2260	NO_OPRL1_F	atcttcctcttctccttca	NO_OPRL1_R	caggtaggtccttgtgtc	68 - 87	788 - 806	739
+27004	TCL6	2261	NO_TCL6_F	agactgttatcaggacttgag	NO_TCL6_R	cagagagatctggtaaatga	807 - 828	1515 - 1535	729
+3096	HIVEP1	2262	NO_HIVEP1_F	ctgaactcacttccatacag	NO_HIVEP1_R	caatggtaaagtcagtaaaca	967 - 987	1703 - 1724	758
+1544	CYP1A2	2263	NO_CYP1A2_F	aagtgtcgaatgacttctagt	NO_CYP1A2_R	aaagaccactcattgtgtaa	968 - 989	1792 - 1812	845
+116835	HSPA12B	\null	\null	Not Found	\null	Not Found	\null	\null	0
+27299	ADAMDEC1	2264	NO_ADAMDEC1_F	aagaaccaagaactctaactg	NO_ADAMDEC1_R	taacacaaacctacaaaagaa	49 - 70	762 - 783	735
+7508	XPC	2265	NO_XPC_F	accgagaagatgaagaaa	NO_XPC_R	tctccttagtacagagagctt	118 - 136	947 - 968	851
+51661	FKBP7	2266	NO_FKBP7_F	aagggaatttgaaaaagat	NO_FKBP7_R	tttgtggaacagagatataca	20 - 39	688 - 709	690
+7170	TPM3	2267	NO_TPM3_F	tactagctaaaccagaaaggt	NO_TPM3_R	ataaagaataaatcctgttgc	602 - 623	1458 - 1479	878
+5275	SERPINB13	2268	NO_SERPINB13_F	atcagtaatcctcctctatca	NO_SERPINB13_R	tgactgtttcttacaaagcta	1059 - 1080	1868 - 1889	831
+6579	SLC21A3	2269	NO_SLC21A3_F	atcatcttaattcttttgagg	NO_SLC21A3_R	agtcactggatttgaattact	61 - 82	899 - 920	860
+2525	FUT3	2270	NO_FUT3_F	ctccagaagacttgcct	NO_FUT3_R	atgacacctggctaattt	1236 - 1253	2086 - 2104	869
+1105	CHD1	2271	NO_CHD1_F	aaaactgatacttcgtctttc	NO_CHD1_R	gaggactaatggaattaagtg	348 - 369	1130 - 1151	804
+4982	TNFRSF11B	2272	NO_TNFRSF11B_F	cacagggtactaaaagaaact	NO_TNFRSF11B_R	atacgaattactttggaactt	512 - 533	1370 - 1391	880
+7844	RNF103	2273	NO_RNF103_F	cagacactttgagtagtgaga	NO_RNF103_R	acattggaaaatctgtaatct	1151 - 1172	2022 - 2043	893
+7058	THBS2	2274	NO_THBS2_F	ataatgaggagtttatgatgg	NO_THBS2_R	agggagagagatcatgtatag	1200 - 1221	2034 - 2055	856
+7078	TIMP3	2275	NO_TIMP3_F	gagatacaattccaagttctc	NO_TIMP3_R	gcagatgtgtgatagaaataa	3055 - 3076	3850 - 3871	817
+10371	SEMA3A	2276	NO_SEMA3A_F	atatcatcaggacagatcaag	NO_SEMA3A_R	tgaaatctcataggaaacatt	19 - 40	704 - 725	707
+27133	KCNH5	2277	NO_KCNH5_F	tcacagattactcccattc	NO_KCNH5_R	ttacatatcaaaatccatgtg	249 - 268	1056 - 1077	829
+3745	KCNB1	2278	NO_KCNB1_F	cttgtaacaactctatagccc	NO_KCNB1_R	gcttattttaaagtgcaagat	2230 - 2251	3099 - 3120	891
+3717	JAK2	2279	NO_JAK2_F	atgtataataccttggcatct	NO_JAK2_R	acaaccccttatacttaattg	496 - 517	1308 - 1329	834
+3710	ITPR3	2280	NO_ITPR3_F	atgtccagaactgcattag	NO_ITPR3_R	cctttttaacggactagattt	46 - 65	845 - 866	821
+10427	SEC24B	2281	NO_SEC24B_F	taggtaaagcataatctgtca	NO_SEC24B_R	cttccccaattagtaaattc	153 - 174	979 - 999	847
+2563	GABRD	2282	NO_GABRD_F	cagacaccattgacatttac	NO_GABRD_R	gagtgttctctgcactttc	214 - 234	885 - 904	691
+3313	HSPA9B	2283	NO_HSPA9B_F	tttactgtgtttttgcagtat	NO_HSPA9B_R	ctgatactgctcattatttca	171 - 192	929 - 950	780
+3679	ITGA7	2284	NO_ITGA7_F	agcagttcaaggaggag	NO_ITGA7_R	cagaggttttgttctcaaata	85 - 102	708 - 729	645
+5104	SERPINA5	2285	NO_SERPINA5_F	tgatttacacaggtttagttg	NO_SERPINA5_R	caaaatgctttattgttaatg	271 - 292	1034 - 1055	785
+5154	PDGFA	2286	NO_PDGFA_F	ttaagcttccttttactcttt	NO_PDGFA_R	tagactcagtgctagaaaaac	659 - 680	1358 - 1379	721
+5781	PTPN11	2287	NO_PTPN11_F	cctttgttaggatctgtattt	NO_PTPN11_R	ctgctaaatgtcagtattttg	3334 - 3355	4167 - 4188	855
+134957	STXBP5	2288	NO_STXBP5_F	gaaatggagtatatggtgtgt	NO_STXBP5_R	tgagtgtattggaacagttag	228 - 249	1082 - 1103	876
+5268	SERPINB5	2289	NO_SERPINB5_F	ctataggtccagaagtcctta	NO_SERPINB5_R	aaaaacaagacatgtagttca	886 - 907	1749 - 1770	885
+934	CD24	2290	NO_CD24_F	caagagcactacattctttta	NO_CD24_R	actttggtcatcaagactact	930 - 951	1755 - 1776	847
+6513	SLC2A1	2291	NO_SLC2A1_F	aaccactcaaattaatctttc	NO_SLC2A1_R	agttaatggagtagtggttgt	741 - 762	1494 - 1515	775
+9466	WSX1	2292	NO_WSX1_F	ctgggtatgagaagcact	NO_WSX1_R	ctgttgtcaagaactcagtc	118 - 136	887 - 907	790
+3787	KCNS1	2293	NO_KCNS1_F	agtctcaagagatacagtggt	NO_KCNS1_R	ccaagtcattccacatatt	2327 - 2348	3101 - 3120	794
+5764	PTN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9992	KCNE2	2294	NO_KCNE2_F	tactttatccaatttcacaca	NO_KCNE2_R	aaagaagattcaatgatttgt	20 - 41	721 - 742	723
+8842	PROM1	2295	NO_PROM1_F	aaatgagctaaataagtcacc	NO_PROM1_R	aattacttctgtataatgggc	481 - 502	1245 - 1266	786
+4035	LRP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8817	FGF18	2296	NO_FGF18_F	gagtgtgtgttcatcgag	NO_FGF18_R	cggagtactactttctctttg	21 - 39	652 - 673	653
+6436	SFTPA2	2297	NO_SFTPA2_F	ctgacatgtacgattcactc	NO_SFTPA2_R	cacactaacgatttattatgc	998 - 1018	1697 - 1718	721
+3750	KCND1	2298	NO_KCND1_F	taagaaggagagttgagattt	NO_KCND1_R	tctcaggttttattgactgat	592 - 613	1398 - 1419	828
+64320	RNF25	2299	NO_RNF25_F	aacctgagtcagctgtagat	NO_RNF25_R	attaggaattgagaaaaagag	19 - 39	689 - 710	692
+5021	OXTR	2300	NO_OXTR_F	agattccagtttacaatcact	NO_OXTR_R	ttgcagtaaaactgagtaaga	2132 - 2153	2940 - 2961	830
+8451	CUL4A	2301	NO_CUL4A_F	aaaataactttgagattggac	NO_CUL4A_R	ctactgaactttcctttcact	341 - 362	1097 - 1118	778
+481	ATP1B1	2302	NO_ATP1B1_F	tgtacagtactacaggtgcat	NO_ATP1B1_R	tgaatacaagatcaacaagag	599 - 620	1371 - 1392	794
+6535	SLC6A8	2303	NO_SLC6A8_F	ccctgttatagaagcttagag	NO_SLC6A8_R	aatgacatgtttttattgcta	653 - 674	1489 - 1510	858
+6532	SLC6A4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6539	SLC6A12	2304	NO_SLC6A12_F	acctcgagttatgaggatt	NO_SLC6A12_R	aggacaagaacaaaaggat	443 - 462	1297 - 1316	874
+5159	PDGFRB	2305	NO_PDGFRB_F	catataccctaaacttccatc	NO_PDGFRB_R	cacaaagtctgtgagtgaga	1233 - 1254	2097 - 2117	885
+3732	KAI1	2306	NO_KAI1_F	cgaagactacagcaaggt	NO_KAI1_R	gaaataaatgtcatagtggaa	50 - 68	814 - 835	786
+9801	MRPL19	2307	NO_MRPL19_F	aaagtaaaaatgaagcctaag	NO_MRPL19_R	gaatatatgtgttggcagtaa	6 - 27	768 - 789	784
+4360	MRC1	2308	NO_MRC1_F	tagttcaatgtgattgttttc	NO_MRC1_R	caaaatagttcatgagtttca	316 - 337	1065 - 1086	771
+293	SLC25A6	2309	NO_SLC25A6_F	gatcttcagagatgaggg	NO_SLC25A6_R	ccttggtttctaccccc	43 - 61	790 - 807	765
+55128	RNF137	2310	NO_RNF137_F	cttaagggagcaagttattt	NO_RNF137_R	aacttctccccttctactact	1303 - 1323	2181 - 2202	900
+27328	PCDH11X	2311	NO_PCDH11X_F	tttggaaaccaaatttatagt	NO_PCDH11X_R	atattgaaggagttttcagag	4293 - 4314	5097 - 5118	826
+10617	AMSH	2312	NO_AMSH_F	gaacaacaaaaccatatcag	NO_AMSH_R	agtaattaaaagtgaactggg	82 - 102	808 - 829	748
+1441	CSF3R	2313	NO_CSF3R_F	cataacagctcagagacct	NO_CSF3R_R	atagggcctagatactgaga	177 - 196	1046 - 1066	890
+2175	FANCA	2314	NO_FANCA_F	gagcctcatctcttctga	NO_FANCA_R	ggaactatatctgtgacgaat	93 - 111	877 - 898	806
+7298	TYMS	2315	NO_TYMS_F	gagaacccagacctttc	NO_TYMS_R	tctattttaggaaggaactga	10 - 27	671 - 692	683
+128853	DUSP15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+50616	IL22	2316	NO_IL22_F	gagagagtggagagatcaaa	NO_IL22_R	acattaaaggagaaaaatcac	7 - 27	650 - 671	665
+3678	ITGA5	2317	NO_ITGA5_F	acaactggaaagataactagg	NO_ITGA5_R	aactagtttcacagtttctgg	387 - 408	1225 - 1246	860
+2931	GSK3A	2318	NO_GSK3A_F	cctaccctcactaactcct	NO_GSK3A_R	tacagcagataacccagat	53 - 72	853 - 872	820
+81669	CCNL2	2319	NO_CCNL2_F	ctagaacaggattctttttg	NO_CCNL2_R	caaaatccaaaacttcagta	472 - 492	1198 - 1218	747
+4179	MCP	2320	NO_MCP_F	atatagctcaggtagcacttt	NO_MCP_R	aataaacacatcatcatgaaa	1192 - 1213	1992 - 2013	822
+51667	NYREN18	2321	NO_NYREN18_F	tgttttatgctcttagttcag	NO_NYREN18_R	caatcaaaatgaagagctagt	779 - 800	1472 - 1493	715
+1579	CYP4A11	2322	NO_CYP4A11_F	cttctctctctcacctttct	NO_CYP4A11_R	ctctccagaacttgttttaat	327 - 347	1198 - 1219	893
+260293	CYP4X1	2323	NO_CYP4X1_F	atgttagatctcagggtacaa	NO_CYP4X1_R	ttacagaataccataaagcaa	171 - 192	757 - 778	608
+4853	NOTCH2	2324	NO_NOTCH2_F	tggtactatggttacttcctt	NO_NOTCH2_R	gcatatcctaagatttcaagt	4419 - 4440	5281 - 5302	884
+22876	INPP5F	2325	NO_INPP5F_F	atacaatgtaaacctaggagc	NO_INPP5F_R	caagtgttcagttatagcaaa	1758 - 1779	2573 - 2594	837
+2289	FKBP5	2326	NO_FKBP5_F	tgtgcttacaatatttttgac	NO_FKBP5_R	tcatatttcgtaggtgagact	1045 - 1066	1851 - 1872	828
+10962	AF1Q	2327	NO_AF1Q_F	tattaactccagaaactaggc	NO_AF1Q_R	tataagctaagtgtgaaagca	538 - 559	1339 - 1360	823
+55504	TNFRSF19	2328	NO_TNFRSF19_F	atatgtagagccctgattaac	NO_TNFRSF19_R	aaaatcagtcattctctcact	1993 - 2014	2735 - 2756	764
+6622	SNCA	2329	NO_SNCA_F	tcagaagttgttagtgatttg	NO_SNCA_R	acaaagttaaccacattctct	361 - 382	1229 - 1250	890
+3479	IGF1	2330	NO_IGF1_F	gaggcctaaaagtaaacatta	NO_IGF1_R	cttaaggaatgacacattaca	5931 - 5952	6718 - 6739	809
+56829	ZAP	2331	NO_ZAP_F	aggacaagacaaattacagat	NO_ZAP_R	aaatagatcaaataaaggcag	3688 - 3709	4346 - 4367	680
+84676	RNF28	2332	NO_RNF28_F	agtaaggagctggatgaat	NO_RNF28_R	gtgtcgagaactcctttact	9 - 28	685 - 705	697
+5798	PTPRN	2333	NO_PTPRN_F	aggaccagtttgaatttg	NO_PTPRN_R	cacagacaacacactaacttt	1 - 19	647 - 668	668
+4128	MAOA	2334	NO_MAOA_F	agttttgagaatgtattggat	NO_MAOA_R	ctataagaagccattgaactt	1666 - 1687	2495 - 2516	851
+23683	PRKCN	2335	NO_PRKCN_F	ctagggttcagtcagtaattt	NO_PRKCN_R	aaagaacttagaacacaggag	1084 - 1105	1860 - 1881	798
+2275	FHL3	2336	NO_FHL3_F	aagtatgtgtcctttgaaga	NO_FHL3_R	atgaggtctagcagagattc	17 - 37	893 - 913	897
+2877	GPX2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3595	IL12RB2	2337	NO_IL12RB2_F	agttaaagatgaggtgtgact	NO_IL12RB2_R	atgttagccagaatggtc	511 - 532	1386 - 1404	894
+3552	IL1A	2338	NO_IL1A_F	ccctatattttgcatagtacc	NO_IL1A_R	aagttttgataacagtggtct	394 - 415	1192 - 1213	820
+116379	IL22RA2	2339	NO_IL22RA2_F	agtagaaatctggtgacctaa	NO_IL22RA2_R	agctcaaataacaaatattcc	1227 - 1248	1962 - 1983	757
+5800	PTPRO	2340	NO_PTPRO_F	ggttttcttccttattaacag	NO_PTPRO_R	aagctgatcttatatctgtgg	1839 - 1860	2572 - 2593	755
+731	C8A	2341	NO_C8A_F	ggagctcctggtctgta	NO_C8A_R	agtgttccatgagaaaataat	33 - 50	746 - 767	735
+10484	SEC23A	2342	NO_SEC23A_F	ttactaggttaaggcagattt	NO_SEC23A_R	actagatttcaaaatagccag	579 - 600	1415 - 1436	858
+9420	CYP7B1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6678	SPARC	2343	NO_SPARC_F	ctctttagtgttctgtttgaa	NO_SPARC_R	ctaagactaagacacatgcaa	361 - 382	1177 - 1198	838
+5783	PTPN13	2344	NO_PTPN13_F	aggatcaatatattttctgcta	NO_PTPN13_R	gttgaaaaataacacactgaa	1 - 23	732 - 753	753
+288	ANK3	2345	NO_ANK3_F	actaatattttgatgcatgtg	NO_ANK3_R	gacaagggattagacaactac	795 - 816	1466 - 1487	693
+7100	TLR5	2346	NO_TLR5_F	cactgtcactctgactctgt	NO_TLR5_R	gatacgaaaattgagagattt	1944 - 1964	2710 - 2731	788
+5504	PPP1R2	2347	NO_PPP1R2_F	aatttaaaatgttgggattac	NO_PPP1R2_R	ggcaattgtcatattattgta	1779 - 1800	2505 - 2526	748
+160851	DGKH	2348	NO_DGKH_F	gataccgaaagtgggtc	NO_DGKH_R	taggtacagaatatttacgca	11 - 28	824 - 845	835
+83417	IRTA1	2349	NO_IRTA1_F	caaatttgtatggatatttca	NO_IRTA1_R	gctacatctatacctacccac	1102 - 1123	1944 - 1965	864
+4311	MME	2350	NO_MME_F	aagaaagtttagaagctgaga	NO_MME_R	tgcaagactacagagataaaa	2664 - 2685	3444 - 3465	802
+10246	SLC17A2	2351	NO_SLC17A2_F	acaagcagaacttcaagact	NO_SLC17A2_R	atcttgtattggtcattttct	86 - 106	792 - 813	728
+9123	SLC16A3	2352	NO_SLC16A3_F	caacttcttctgcattagg	NO_SLC16A3_R	acagcaaaaccacatactc	94 - 113	795 - 814	721
+50852	TRIM	2353	NO_TRIM_F	cttacctcttattcacagctt	NO_TRIM_R	atgaaacagagagaagacagt	389 - 410	1247 - 1268	880
+6885	MAP3K7	2354	NO_MAP3K7_F	aaaaccttataatgacgattc	NO_MAP3K7_R	gtaattacttccattttccat	243 - 264	1074 - 1095	853
+3206	HOXA10	2355	NO_HOXA10_F	gtttctgttcaatatgtacctt	NO_HOXA10_R	gtaagaccttacagaaactgg	106 - 128	981 - 1002	897
+5326	PLAGL2	2356	NO_PLAGL2_F	cgtaggacttcaggtattatt	NO_PLAGL2_R	taatgtacttggagaaaaaca	1451 - 1472	2172 - 2193	743
+4761	NEUROD2	2357	NO_NEUROD2_F	gagaatctcttgtcttacgat	NO_NEUROD2_R	ttgcttctaaaagtccttact	1073 - 1094	1903 - 1924	852
+8913	CACNA1G	2358	NO_CACNA1G_F	cagcaataaggactgactc	NO_CACNA1G_R	aacttttgtcaggaatatagc	4 - 23	801 - 822	819
+60412	SEC8	2359	NO_SEC8_F	tctaatttagggctaggaata	NO_SEC8_R	ttagataataagggtgtcctc	806 - 827	1575 - 1596	791
+54205	CYCS	2360	NO_CYCS_F	gtttccttagaatggaaaata	NO_CYCS_R	agttctctttacaaaaacagg	4572 - 4593	5208 - 5229	658
+7013	TERF1	2361	NO_TERF1_F	agataatgacttggtttatgg	NO_TERF1_R	aaggtatgtatgaccttgttt	881 - 902	1507 - 1528	648
+55249	YAP	2362	NO_YAP_F	ctcttggttaaccctacttc	NO_YAP_R	taaaagcacagatttattgaa	783 - 803	1433 - 1454	672
+6625	SNRP70	2363	NO_SNRP70_F	ggagcaaggacaaggac	NO_SNRP70_R	ctcaagttttaagtacaccct	176 - 193	898 - 919	744
+2917	GRM7	2364	NO_GRM7_F	aattttctgtacagtttgtga	NO_GRM7_R	ttattgatacattcttggaca	422 - 443	1136 - 1157	736
+54776	PPP1R12C	2365	NO_PPP1R12C_F	cgcctcaaggatgagaa	NO_PPP1R12C_R	tcaccacacaggtgagta	33 - 50	765 - 783	751
+200879	LIPH	2366	NO_LIPH_F	acattgtacatcaaacaacc	NO_LIPH_R	attacctctaataggatcgtg	231 - 251	1095 - 1116	886
+23107	MRPS27	2367	NO_MRPS27_F	cctgagtctcctttctga	NO_MRPS27_R	ataaatcccatagtttaatgg	997 - 1015	1716 - 1737	741
+5332	PLCB4	2368	NO_PLCB4_F	ccacatgacaagattagtaaa	NO_PLCB4_R	aatccacttcaaatcataaat	913 - 934	1742 - 1763	851
+4050	LTB	\null	\null	Not Found	\null	Not Found	\null	\null	0
+5794	PTPRH	2369	NO_PTPRH_F	aggctcagtacgtattcct	NO_PTPRH_R	aatccaatattatttccagac	1 - 20	682 - 703	703
+779	CACNA1S	2370	NO_CACNA1S_F	aaacttcatcatggcaac	NO_CACNA1S_R	acttctccacagccagt	44 - 62	658 - 675	632
+5163	PDK1	2371	NO_PDK1_F	gattttgtgaaaaacaataga	NO_PDK1_R	aacagttcctctctactgaag	2238 - 2259	3109 - 3130	893
+51318	MRPL35	2372	NO_MRPL35_F	ctcgaaactagtgtgtgttta	NO_MRPL35_R	ataatcgaacatcatttaggt	1757 - 1778	2360 - 2381	625
+3676	ITGA4	2373	NO_ITGA4_F	aaaacagactcaggttgtagt	NO_ITGA4_R	agaagtcatttcactaagctc	125 - 146	734 - 755	631
+23190	UBXD2	2374	NO_UBXD2_F	gaaccagtgagaaaaagag	NO_UBXD2_R	tgctagataacaaaactcaaa	4 - 23	681 - 702	699
+65993	MRPS34	2375	NO_MRPS34_F	gaagactgagagcgagg	NO_MRPS34_R	agctcggacactaactgtat	4 - 21	781 - 801	798
+26012	NELF	2376	NO_NELF_F	gaaataagtgcaatttctaca	NO_NELF_R	aggtttaatggtcactatgag	410 - 431	1234 - 1255	846
+1385	CREB1	2377	NO_CREB1_F	ttacttgtaaattgatggga	NO_CREB1_R	tgcacatctaacactgtactt	428 - 448	1281 - 1302	875
+121278	TPH2	2378	NO_TPH2_F	atataacgcaaataaccttct	NO_TPH2_R	gtgtacaactcactgtactgc	242 - 263	1030 - 1051	810
+4067	LYN	2379	NO_LYN_F	ggagaactaatgccgac	NO_LYN_R	ttttaacagtctcagattttg	3 - 20	770 - 791	789
+3932	LCK	2380	NO_LCK_F	gtgattcagaacctggag	NO_LCK_R	taattaccattttcttaaccc	20 - 38	696 - 717	698
+5335	PLCG1	2381	NO_PLCG1_F	ttacattgtcctgtagcttta	NO_PLCG1_R	ttcctacctgcttctactg	465 - 486	1344 - 1363	899
+83700	JAM3	2382	NO_JAM3_F	agcagttttctaattttgact	NO_JAM3_R	aaatgctaggaagaagagac	1774 - 1795	2651 - 2671	898
+2159	F10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2329	FMO4	2383	NO_FMO4_F	gacaaatttgactacattgc	NO_FMO4_R	tcttacatggtggtagacac	28 - 48	853 - 873	846
+27250	PDCD4	2384	NO_PDCD4_F	taggtttttaattgtttgaca	NO_PDCD4_R	ctctggtttgtattgaacata	1362 - 1383	2143 - 2164	803
+345	APOC3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8828	NRP2	2385	NO_NRP2_F	ctaaccattaagctagagca	NO_NRP2_R	ggcctctatttctttaggta	242 - 262	955 - 975	734
+57135	DAZ4	2386	NO_DAZ4_F	agaactggtgatgtaaagaat	NO_DAZ4_R	ttgtacctacatttgctttta	1186 - 1207	2004 - 2025	840
+1617	DAZ	2387	NO_DAZ_F	agaactggtgatgtaaagaat	NO_DAZ_R	ttgtacctacatttgctttta	1189 - 1210	2007 - 2028	840
+2581	GALC	2388	NO_GALC_F	atgtagcaaatcagttattca	NO_GALC_R	attcatccagaagaaataaaa	1184 - 1205	1882 - 1903	720
+101	ADAM8	2389	NO_ADAM8_F	ctgctgttctaacctcagta	NO_ADAM8_R	agaatctacagaactcggtc	199 - 219	805 - 825	627
+83416	IRTA2	2390	NO_IRTA2_F	atcttatcttgatctttgctc	NO_IRTA2_R	acacatacagaaagattggtt	1530 - 1551	2374 - 2395	866
+9367	RAB9A	2391	NO_RAB9A_F	atacaataggtgtggaatttt	NO_RAB9A_R	atacaatgctaattgcataaa	141 - 162	1013 - 1034	894
+4090	MADH5	2392	NO_MADH5_F	atgttggattgagattcat	NO_MADH5_R	aacactaccagttacagcag	47 - 66	681 - 701	655
+56659	KCNK13	2393	NO_KCNK13_F	atcttgttcttcaacctctt	NO_KCNK13_R	caatcatcctccattctact	83 - 103	926 - 946	864
+9194	SLC16A7	2394	NO_SLC16A7_F	tatcaactatagattgcttgc	NO_SLC16A7_R	tctttaaaaccaacattgtaa	100 - 121	859 - 880	781
+5896	RAG1	2395	NO_RAG1_F	taataaacatgcactgagaag	NO_RAG1_R	accaccaaatttattctgtat	5753 - 5774	6543 - 6564	812
+2065	ERBB3	2396	NO_ERBB3_F	ctttgataaccctgattactg	NO_ERBB3_R	ggtcttactatgttggctaag	466 - 487	1248 - 1269	804
+84085	FBXO30	2397	NO_FBXO30_F	attattaacctgatgtggtct	NO_FBXO30_R	gtttttaagttattgagccat	1343 - 1364	2119 - 2140	798
+7525	YES1	2398	NO_YES1_F	attgatgaataaaatgaaggt	NO_YES1_R	tatgaatagcaactaaaacga	2070 - 2091	2896 - 2917	848
+5998	RGS3	2399	NO_RGS3_F	tactggaggagtagaaggat	NO_RGS3_R	ctcaccagtgtatcagtgtat	356 - 376	1095 - 1116	761
+7185	TRAF1	2400	NO_TRAF1_F	ctctcaccaaatgagaaga	NO_TRAF1_R	aacttcgaaagagattctaaa	517 - 536	1261 - 1282	766
+26575	RGS17	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57007	RDC1	2401	NO_RDC1_F	ttctagagcaaagcaaagta	NO_RDC1_R	tatcatgtgtgctattcaagt	1183 - 1203	1952 - 1973	791
+81578	COL21A1	2402	NO_COL21A1_F	tgcagtagagatttgagttta	NO_COL21A1_R	cataccatactcaacaatcag	523 - 544	1287 - 1308	786
+1307	COL16A1	2403	NO_COL16A1_F	aaggtcctccaggctat	NO_COL16A1_R	ctctaactcaagagacgtagg	9 - 26	701 - 722	714
+5178	PEG3	2404	NO_PEG3_F	ttttgtttcttacccttaaat	NO_PEG3_R	caagttagacatggagttaga	4489 - 4510	5125 - 5146	658
+26270	FBXO6	2405	NO_FBXO6_F	gtccgctacatcctctt	NO_FBXO6_R	ctgtctgtctcaaatactgtg	36 - 53	910 - 931	896
+8455	ATRN	2406	NO_ATRN_F	aattaaaacaaaatccaagtc	NO_ATRN_R	tgtaaatataggcaaaacaat	3669 - 3690	4440 - 4461	793
+5097	PCDH1	2407	NO_PCDH1_F	tactccgactacagctacc	NO_PCDH1_R	caagatggtaggctaagatag	2148 - 2167	2920 - 2941	794
+94160	ABCC12	2408	NO_ABCC12_F	agaagtcagattgtagaggtc	NO_ABCC12_R	gaatacatctttactgcttcc	74 - 95	912 - 933	860
+3163	HMOX2	2409	NO_HMOX2_F	cttggcctggtactacat	NO_HMOX2_R	gttagagtgactttgctttg	109 - 127	881 - 901	793
+5270	SERPINE2	2410	NO_SERPINE2_F	gcatctttcatagttctgtta	NO_SERPINE2_R	tctagaaaatgagatgtgttg	105 - 126	921 - 942	838
+56999	ADAMTS9	2411	NO_ADAMTS9_F	tccttattgttgttagtgttg	NO_ADAMTS9_R	gaaaagacagatcttatggac	752 - 773	1613 - 1634	883
+6575	SLC20A2	2412	NO_SLC20A2_F	gtatcgtggtgatataatgtg	NO_SLC20A2_R	gatagaaactgactctggact	395 - 416	1116 - 1137	743
+5144	PDE4D	2413	NO_PDE4D_F	actccaaattattttcaagag	NO_PDE4D_R	aaatgaacatctagtgacaca	689 - 710	1556 - 1577	889
+7805	LAPTM5	2414	NO_LAPTM5_F	tcatttaaacagttgacaaac	NO_LAPTM5_R	gtatttccagaaacacatca	805 - 826	1459 - 1479	675
+1983	EIF5	2415	NO_EIF5_F	gggatatgagaatagaagcta	NO_EIF5_R	tttgtgataatttcgttattg	3372 - 3393	4162 - 4183	812
+55763	SEC3	2416	NO_SEC3_F	agtataagcactttgaaggtt	NO_SEC3_R	ccggcttactttacttattat	40 - 61	797 - 818	779
+28514	DLL1	2417	NO_DLL1_F	tgtaaaatggaagtgagatg	NO_DLL1_R	tttcttcattaacaaaacagt	4 - 24	610 - 631	628
+6822	SULT2A1	2418	NO_SULT2A1_F	accttaaatatcaaacctctg	NO_SULT2A1_R	gcaaattacactccttaagat	222 - 243	1020 - 1041	820
+64096	GFRA4	2419	NO_GFRA4_F	tctccatacttcctgtcc	NO_GFRA4_R	tcagcacacagatttaataag	43 - 61	716 - 737	695
+960	CD44	2420	NO_CD44_F	tgtaacacctacaccattatc	NO_CD44_R	ctggtttagaaactgaagaat	203 - 224	902 - 923	721
+5867	RAB4A	2421	NO_RAB4A_F	gtgttcatacagtggcatt	NO_RAB4A_R	ctccagatatacttcctgaac	3 - 22	655 - 676	674
+990	CDC6	2422	NO_CDC6_F	tcttcattttagtgctttaca	NO_CDC6_R	gaaactcaacgagtctaaaat	148 - 169	910 - 931	784
+64708	COPS7B	2423	NO_COPS7B_F	aggttcttgtctctgtgtaag	NO_COPS7B_R	aagcatgttgaaatgtattag	428 - 449	1212 - 1233	806
+7337	UBE3A	2424	NO_UBE3A_F	ttccagaagtaagtagtttcc	NO_UBE3A_R	gtaggttcattctgactctgt	1388 - 1409	2158 - 2179	792
+3570	IL6R	2425	NO_IL6R_F	taaatgtgaatgatgatccta	NO_IL6R_R	aacaaaatacagaatgaaacc	926 - 947	1773 - 1794	869
+104	ADARB1	2426	NO_ADARB1_F	acgtctgtctaaacttaggtc	NO_ADARB1_R	gagcacttctctcagctc	711 - 732	1497 - 1515	805
+10019	LNK	2427	NO_LNK_F	tctaggaaaaagtgacactaa	NO_LNK_R	aatattatgacagcaaatcaa	2782 - 2803	3637 - 3658	877
+28999	KLF15	2428	NO_KLF15_F	aaatgtgcagttttgaaat	NO_KLF15_R	ctttctatccctccaaatac	560 - 579	1360 - 1380	821
+26271	FBXO5	2429	NO_FBXO5_F	agaatttacgaagattgtgat	NO_FBXO5_R	attaagctattaagtgggaaa	235 - 256	1044 - 1065	831
+3683	ITGAL	2430	NO_ITGAL_F	cctgaaccttccatctc	NO_ITGAL_R	agaatttcacatttattggat	838 - 855	1671 - 1692	855
+3329	HSPD1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1501	CTNND2	2431	NO_CTNND2_F	ccctacagtgaactgaactat	NO_CTNND2_R	agaaagtaaagaaaaactgga	201 - 222	888 - 909	709
+6403	SELP	\null	\null	Not Found	\null	Not Found	\null	\null	0
+57144	PAK7	2432	NO_PAK7_F	gctgtctagatcttcttgaat	NO_PAK7_R	aatcattcttggttactcaat	1409 - 1430	2273 - 2294	886
+29110	TBK1	2433	NO_TBK1_F	gtttggctctttaaccat	NO_TBK1_R	gttgaaatgaccttagaattt	3 - 21	690 - 711	709
+57205	ATP10D	2434	NO_ATP10D_F	atctgcctctgtatagatgtt	NO_ATP10D_R	atgtttacaagagtgatgaca	1091 - 1112	1853 - 1874	784
+22822	PHLDA1	2435	NO_PHLDA1_F	tctggaagaaaaagtgttg	NO_PHLDA1_R	acttggtatgagttttgattt	656 - 675	1486 - 1507	852
+2157	F8	2436	NO_F8_F	aacacaacaaaaatgtaacag	NO_F8_R	gtgtaaaaacacaattctcaa	1183 - 1204	1972 - 1993	811
+11063	SOX30	2437	NO_SOX30_F	aacaaatatgcacagaaaata	NO_SOX30_R	ttgatacatgtttaagtctcg	391 - 412	1183 - 1204	814
+2264	FGFR4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9451	EIF2AK3	2438	NO_EIF2AK3_F	ctatacttaaggaaagggcta	NO_EIF2AK3_R	ctagatctatgatcccatttt	392 - 413	1255 - 1276	885
+9741	LAPTM4A	2439	NO_LAPTM4A_F	tacgttttgccaacctat	NO_LAPTM4A_R	acaatgacaaccctaagtatt	3 - 21	624 - 645	643
+3460	IFNGR2	2440	NO_IFNGR2_F	gtatttaaaagacccaactca	NO_IFNGR2_R	gtagctctagcaggtgttatt	2 - 23	781 - 802	801
+662	BNIP1	2441	NO_BNIP1_F	tcacttcttcacgaacg	NO_BNIP1_R	ggctatcttacaaaatcaaat	3 - 20	648 - 669	667
+9236	CPR8	2442	NO_CPR8_F	atggtaaatattgaaaactcc	NO_CPR8_R	tatgaactgctttaccaaata	4560 - 4581	5391 - 5412	853
+22918	C1QR1	2443	NO_C1QR1_F	aagagagaacatctcacacac	NO_C1QR1_R	ggctttcctatgttagtttta	2943 - 2964	3754 - 3775	833
+7320	UBE2B	2444	NO_UBE2B_F	aaaaagtccttcagtttagaa	NO_UBE2B_R	gcaactaattcattgctaata	247 - 268	988 - 1009	763
+1945	EFNA4	2445	NO_EFNA4_F	gagagagtggcacatca	NO_EFNA4_R	aagatgagtggtttattgaag	34 - 51	663 - 684	651
+716	C1S	2446	NO_C1S_F	aaccaattttgataatgaca	NO_C1S_R	aggaaacaaagaattaaggta	301 - 321	1078 - 1099	799
+8717	TRADD	2447	NO_TRADD_F	aaggaccaacagacgtt	NO_TRADD_R	tacaggtgtaagccactacta	23 - 40	783 - 804	782
+901	CCNG2	2448	NO_CCNG2_F	agtactttagacattggcact	NO_CCNG2_R	cacccatatagcaatacacta	333 - 354	1015 - 1036	704
+4776	NFATC4	2449	NO_NFATC4_F	ttctaaatagctggtacatcc	NO_NFATC4_R	cctcaaggtctaatgtactct	1160 - 1181	1994 - 2015	856
+10864	SLC22A7	2450	NO_SLC22A7_F	cttctaggaacagttgacttc	NO_SLC22A7_R	tcccatttctatctggtta	219 - 240	948 - 967	749
+705	BYSL	2451	NO_BYSL_F	aaattgctgagatggaata	NO_BYSL_R	atatctgtctttgcctttatc	17 - 36	659 - 680	664
+9037	SEMA5A	2452	NO_SEMA5A_F	aattgaaaagagacgataaac	NO_SEMA5A_R	attccctttgatattcaatta	655 - 676	1472 - 1493	839
+84324	CIP29	\null	\null	Not Found	\null	Not Found	\null	\null	0
+397	ARHGDIB	2453	NO_ARHGDIB_F	agtggataaagcaacattta	NO_ARHGDIB_R	aaccatccagttatcatattt	1 - 21	739 - 760	760
+26167	PCDHB5	2454	NO_PCDHB5_F	actcgctcactgtctacc	NO_PCDHB5_R	gaagattgtttccttttacat	2265 - 2283	3066 - 3087	823
+57799	RAB40C	2455	NO_RAB40C_F	gtgcagagctatctgtagact	NO_RAB40C_R	agacacagcaaaacgtg	1050 - 1071	1931 - 1948	899
+51701	NLK	2456	NO_NLK_F	tcatgcttgtactgtaatttt	NO_NLK_R	acatttgacataattccctat	135 - 156	1009 - 1030	896
+5310	PKD1	2457	NO_PKD1_F	tattacctctccagttcctac	NO_PKD1_R	gaaataaataaagtcctgacc	857 - 878	1515 - 1536	680
+11328	FKBP9	2458	NO_FKBP9_F	acaaatagagaatttgattcc	NO_FKBP9_R	cattttatatcagaaaagatcag	859 - 880	1722 - 1745	887
+60681	FKBP10	2459	NO_FKBP10_F	cctagatgaaaatccacag	NO_FKBP10_R	agcctggtttaactttttc	349 - 368	1088 - 1107	759
+23385	NCSTN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8728	ADAM19	2460	NO_ADAM19_F	ttaaaagtgaaattaacctcc	NO_ADAM19_R	atctgagcagtaggacattac	2857 - 2878	3732 - 3753	897
+150290	DUSP18	2461	NO_DUSP18_F	caagtgatcctcttaccttag	NO_DUSP18_R	atagtgattctaaacaaggct	1335 - 1356	2204 - 2225	891
+10560	SLC19A2	2462	NO_SLC19A2_F	taactggggtattaacttttt	NO_SLC19A2_R	aatctaaagctcctactgaaa	1429 - 1450	2092 - 2113	685
+5008	OSM	2463	NO_OSM_F	cactttaggcagctgtaac	NO_OSM_R	ctcctctctctaagaggct	1070 - 1089	1687 - 1706	637
+328	APEX1	2464	NO_APEX1_F	gtctggtacgactggagta	NO_APEX1_R	aatatgaggaagagaatgtgt	98 - 117	818 - 839	742
+5996	RGS1	2465	NO_RGS1_F	tactcttatggaaaaggactc	NO_RGS1_R	gtgaattctgtccaaactaat	93 - 114	954 - 975	883
+7079	TIMP4	2466	NO_TIMP4_F	ctacacagtaccctgtaccat	NO_TIMP4_R	aagtgtatcagaggattagga	12 - 33	687 - 708	697
+2178	FANCE	2467	NO_FANCE_F	ctagaacctaacaccacctt	NO_FANCE_R	agacattattgaacttgcttt	37 - 57	843 - 864	828
+56127	PCDHB9	2468	NO_PCDHB9_F	gttattggtagtgtctagcct	NO_PCDHB9_R	gtttccttactttcacttgtc	2143 - 2164	2783 - 2804	662
+1964	EIF1A	2469	NO_EIF1A_F	agttgaagaatggaaattaag	NO_EIF1A_R	ttagccacactagtgataaaa	1494 - 1515	2302 - 2323	830
+56131	PCDHB4	2470	NO_PCDHB4_F	cttgtcaaggacaatgg	NO_PCDHB4_R	gaaaatccatactcaatatcc	1924 - 1941	2578 - 2599	676
+56114	PCDHGA1	2471	NO_PCDHGA1_F	tgtctctcagcctattcc	NO_PCDHGA1_R	tgggttagaagaactatctgt	1637 - 1655	2500 - 2521	885
+135458	HUS1B	2472	NO_HUS1B_F	ctcgatgagatccacct	NO_HUS1B_R	aagagttgaagaataactttga	223 - 240	1067 - 1089	867
+56112	PCDHGA3	2473	NO_PCDHGA3_F	ctgaacctgttcgtgct	NO_PCDHGA3_R	aaaggactaatgacaacctc	1642 - 1659	2518 - 2538	897
+27022	FOXD3	2474	NO_FOXD3_F	tcatgatgcagagcttc	NO_FOXD3_R	aaggaaattggggagag	752 - 769	1557 - 1574	823
+4159	MC3R	2475	NO_MC3R_F	ttcgaggaccagtttatc	NO_MC3R_R	ttgtaaacttaaaaacaaacg	433 - 451	1212 - 1233	801
+2280	FKBP1B	2476	NO_FKBP1B_F	gactgaattactctccaagtt	NO_FKBP1B_R	aagacacaatcttgaaactg	462 - 483	1192 - 1212	751
+56130	PCDHB6	2477	NO_PCDHB6_F	ctgcagtctttcgagttc	NO_PCDHB6_R	agaaacagaccatgtaacttt	1564 - 1582	2438 - 2459	896
+5879	RAC1	2478	NO_RAC1_F	ggagctgtaggtaaaacttg	NO_RAC1_R	taatctgtaacaaaaagttgg	34 - 54	688 - 709	676
+56124	PCDHB12	2479	NO_PCDHB12_F	tcaggtcgctggactac	NO_PCDHB12_R	aacacaggttttatttttcat	1547 - 1564	2394 - 2415	869
+915	CD3D	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56125	PCDHB11	2480	NO_PCDHB11_F	tcaggtcgctggactac	NO_PCDHB11_R	gtacatgcaaatgtaaatagc	1547 - 1564	2401 - 2422	876
+56122	PCDHB14	2481	NO_PCDHB14_F	tcgctcttcctcttctc	NO_PCDHB14_R	aaaaactaataaggttctcca	2095 - 2112	2878 - 2899	805
+64582	HUMNPIIY20	2482	NO_HUMNPIIY20_F	gttactgcgctatcgtg	NO_HUMNPIIY20_R	gtcttagaggctggtatcc	626 - 643	1469 - 1488	863
+56132	PCDHB3	2483	NO_PCDHB3_F	tcaggtcgctggactac	NO_PCDHB3_R	ccacagattaactaagacga	1547 - 1564	2415 - 2435	889
+56107	PCDHGA9	2484	NO_PCDHGA9_F	gtgtcattgagactgtttgt	NO_PCDHGA9_R	cctgggtaacagagtaaga	1636 - 1656	2494 - 2513	878
+26285	CLDN17	2485	NO_CLDN17_F	attttatcccttgcaaat	NO_CLDN17_R	acttacagtttctagcaggac	6 - 24	724 - 745	740
+10744	PTTG2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26255	PTTG3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56126	PCDHB10	2486	NO_PCDHB10_F	aagttcttgaaaccagttatt	NO_PCDHB10_R	aacttgtttttcattctaacc	2299 - 2320	3171 - 3192	894
+3443	IFNA6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+56101	PCDHGB5	2487	NO_PCDHGB5_F	ctggtgaccaaggtagtg	NO_PCDHGB5_R	ttactgctcctcttaaagaat	1747 - 1765	2528 - 2549	803
+56097	PCDHGC5	2488	NO_PCDHGC5_F	ttactggaggatgactctg	NO_PCDHGC5_R	tttttgagtgtaggggtg	1900 - 1919	2701 - 2719	820
+125111	GJC1	2489	NO_GJC1_F	gacgagcaagaggagtt	NO_GJC1_R	gacagctctggtggaag	139 - 156	966 - 983	845
+923	CD6	2490	NO_CD6_F	gagaattaaaggaaaatatgc	NO_CD6_R	gaaagggagtaggtagagc	1272 - 1293	2056 - 2075	804
+4659	PPP1R12A	2491	NO_PPP1R12A_F	tcttatttcaaatgtctgcta	NO_PPP1R12A_R	ccaaagtaatctaaaataggc	969 - 990	1641 - 1662	694
+29883	CNOT7	2492	NO_CNOT7_F	cttgtgattggatgtttacta	NO_CNOT7_R	aatcatctagggttaatgaag	877 - 898	1712 - 1733	857
+2625	GATA3	2493	NO_GATA3_F	attaacagacccctgactat	NO_GATA3_R	gtgaacggtaacactgatt	1 - 21	871 - 890	890
+10893	MMP24	2494	NO_MMP24_F	cagcctgtcacctactataa	NO_MMP24_R	agtcacctctagttcacctaa	294 - 314	1066 - 1087	794
+64963	MRPS11	2495	NO_MRPS11_F	acaccaagttcagcattta	NO_MRPS11_R	ttatgacaggtggtacagata	179 - 198	861 - 882	704
+8710	SERPINB7	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3839	KPNA3	2496	NO_KPNA3_F	tcattcctgaagcaaca	NO_KPNA3_R	aattaggtataatggcaaaag	20 - 37	787 - 808	789
+6659	SOX4	2497	NO_SOX4_F	ggcttcttaaagtgacagtat	NO_SOX4_R	taataacgacaaaagtcaaga	4103 - 4124	4879 - 4900	798
+2706	GJB2	2498	NO_GJB2_F	gtatgtcattcgctactatga	NO_GJB2_R	tgctgttctattaaaaccata	1503 - 1524	2324 - 2345	843
+3815	KIT	2499	NO_KIT_F	ctgtagcctggatattattct	NO_KIT_R	aaagtttaatctcaacgaatc	1556 - 1577	2308 - 2329	774
+3824	KLRD1	2500	NO_KLRD1_F	aagaactgcatagcgtataat	NO_KLRD1_R	ttgaggccaggagttca	29 - 50	668 - 685	657
+8672	EIF4G3	2501	NO_EIF4G3_F	gaaaaaggtactggataaaag	NO_EIF4G3_R	tagacaataaatagccagaca	342 - 363	1082 - 1103	762
+5507	PPP1R3C	2502	NO_PPP1R3C_F	ggttcttgttatagaatgctt	NO_PPP1R3C_R	tgagtttcttatttgactgtg	1679 - 1700	2457 - 2478	800
+1269	CNR2	2503	NO_CNR2_F	catctatgctctacggagt	NO_CNR2_R	gggattatcagaatatcagag	936 - 955	1729 - 1750	815
+3192	HNRPU	2504	NO_HNRPU_F	gatacatatttctccaaaacc	NO_HNRPU_R	tggagttaactactacaagca	75 - 96	924 - 945	871
+51621	KLF13	2505	NO_KLF13_F	gtgtgtgagtgggagact	NO_KLF13_R	tcaaagaaactagctccag	5267 - 5285	5899 - 5918	652
+1052	CEBPD	2506	NO_CEBPD_F	agaccgtggtgagcttg	NO_CEBPD_R	aatgctgctttattcttaca	519 - 536	1267 - 1287	769
+3643	INSR	2507	NO_INSR_F	agatggagtttgaggacat	NO_INSR_R	tttctttcgaaattttgtt	159 - 178	764 - 783	625
+54534	MRPL50	2508	NO_MRPL50_F	gtctaaagttcaatcttctgg	NO_MRPL50_R	atacttactggaaagaaatgg	195 - 216	937 - 958	764
+139716	GAB3	2509	NO_GAB3_F	attacttaaaaatggaatgct	NO_GAB3_R	aagaacttaagtcacgatttc	2225 - 2246	3045 - 3066	842
+998	CDC42	2510	NO_CDC42_F	catcatactaaaagcaatgtt	NO_CDC42_R	gcatataagacaatgactgaa	132 - 153	985 - 1006	875
+8202	NCOA3	2511	NO_NCOA3_F	aagtaactcagtacccagaac	NO_NCOA3_R	ataagagcaccattctatttc	1677 - 1698	2319 - 2340	664
+6013	RLN1	2512	NO_RLN1_F	cttcatcaacaaagatacaga	NO_RLN1_R	aattaaattggtttagtgtcc	17 - 38	809 - 830	814
+10279	PRSS16	2513	NO_PRSS16_F	tttctaatctccttctgtttc	NO_PRSS16_R	aagtgtagtggagattgactt	533 - 554	1308 - 1329	797
+56137	PCDHA12	2514	NO_PCDHA12_F	atatgaatacaattcccctaa	NO_PCDHA12_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+56136	PCDHA13	2515	NO_PCDHA13_F	atatgaatacaattcccctaa	NO_PCDHA13_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+56146	PCDHA2	2516	NO_PCDHA2_F	atatgaatacaattcccctaa	NO_PCDHA2_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+56145	PCDHA3	2517	NO_PCDHA3_F	atatgaatacaattcccctaa	NO_PCDHA3_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+56143	PCDHA5	2518	NO_PCDHA5_F	atatgaatacaattcccctaa	NO_PCDHA5_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+56142	PCDHA6	2519	NO_PCDHA6_F	atatgaatacaattcccctaa	NO_PCDHA6_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+56141	PCDHA7	2520	NO_PCDHA7_F	atatgaatacaattcccctaa	NO_PCDHA7_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+56140	PCDHA8	2521	NO_PCDHA8_F	atatgaatacaattcccctaa	NO_PCDHA8_R	aaataaaattccttgaatcac	1262 - 1283	1965 - 1986	725
+53342	IL17D	2522	NO_IL17D_F	aatagaggcagagctatttta	NO_IL17D_R	aaacctcaagataaagtgaag	773 - 794	1547 - 1568	796
+1088	CEACAM8	2523	NO_CEACAM8_F	gtttcactgtggtctcaat	NO_CEACAM8_R	tttgcaactgagactctataa	449 - 468	1169 - 1190	742
+81033	KCNH6	2524	NO_KCNH6_F	ctatggagacttggatgact	NO_KCNH6_R	cagcagtttgtagctacttta	12 - 32	692 - 713	702
+124540	MSI2	2525	NO_MSI2_F	cttagaaggatcttttccc	NO_MSI2_R	atgcttttagaaactgcacta	858 - 877	1488 - 1509	652
+83729	INHBE	2526	NO_INHBE_F	aggcagagaaaaattacttag	NO_INHBE_R	actgtaacacaagaccataca	1066 - 1087	1931 - 1952	887
+4257	MGST1	2527	NO_MGST1_F	cctgaatgaccttgaaaata	NO_MGST1_R	ggtttgaaacttttgaaaata	10 - 30	649 - 670	661
+3291	HSD11B2	2528	NO_HSD11B2_F	tcatgtacttcatccactact	NO_HSD11B2_R	aggtgtgaaccagagtctac	238 - 259	1082 - 1102	865
+26277	TINF2	2529	NO_TINF2_F	cttaataggagcacattcttt	NO_TINF2_R	aatgacttatgctgaccttat	482 - 503	1273 - 1294	813
+219	ALDH1B1	2530	NO_ALDH1B1_F	agaatccatctacaatgagtt	NO_ALDH1B1_R	aattacagatcactggttttt	996 - 1017	1844 - 1865	870
+85480	TSLP	2531	NO_TSLP_F	aacaagtgtcacaattacaag	NO_TSLP_R	aatgtcccttagaaaagtatg	68 - 89	895 - 916	849
+140	ADORA3	2532	NO_ADORA3_F	tcgtctatgcctataaaataa	NO_ADORA3_R	caatagatgaatggttcataa	492 - 513	1303 - 1324	833
+8312	AXIN1	2533	NO_AXIN1_F	tactacttcaagaaagtgagc	NO_AXIN1_R	agtgtgccctcctttac	5 - 26	876 - 893	889
+85455	DISPB	2534	NO_DISPB_F	tatttctccagatccacag	NO_DISPB_R	ctttacctataaattgggtgt	3348 - 3367	4073 - 4094	747
+1946	EFNA5	2535	NO_EFNA5_F	gatgcttttgacattatagc	NO_EFNA5_R	cttcttttagagagcacaagt	107 - 127	764 - 785	679
+4644	MYO5A	2536	NO_MYO5A_F	actagaaaccatccagattc	NO_MYO5A_R	acagtatgtagcagcaattta	99 - 119	782 - 803	705
+5528	PPP2R5D	2537	NO_PPP2R5D_F	gtacacacaggaatacatacg	NO_PPP2R5D_R	ccttatattcctacattccag	448 - 469	1288 - 1309	862
+84675	RNF29	2538	NO_RNF29_F	atcttctattgtgtggaaaat	NO_RNF29_R	tagctttaaacaattcaatca	361 - 382	1147 - 1168	808
+10950	BTG3	2539	NO_BTG3_F	ttcagaacttatatttccacc	NO_BTG3_R	agttaaatacattgaagggaa	6 - 27	730 - 751	746
+7015	TERT	2540	NO_TERT_F	gcagctgagtcggaagc	NO_TERT_R	cttctgtaattgcatacagtg	11 - 28	705 - 726	716
+80352	RNF39	2541	NO_RNF39_F	agtattaatagcaacccacat	NO_RNF39_R	agagatcagtcaaatccatac	693 - 714	1422 - 1443	751
+8764	TNFRSF14	2542	NO_TNFRSF14_F	aaaagacaggaggcaga	NO_TNFRSF14_R	aacaagatatttacatcctcc	7 - 24	654 - 675	669
+6439	SFTPB	2543	NO_SFTPB_F	ttgtctgtctcagctcaa	NO_SFTPB_R	actttaaaggacggtgtct	189 - 207	834 - 853	665
+2277	FIGF	2544	NO_FIGF_F	ctttcataccagaccatgt	NO_FIGF_R	cttgaataatggtgtttattt	22 - 41	643 - 664	643
+4585	MUC4	2545	NO_MUC4_F	tgtccttctccatctacac	NO_MUC4_R	aagaaaatcaagaatggaat	9 - 28	625 - 645	637
+23612	PHLDA3	2546	NO_PHLDA3_F	gttgttccctctggctt	NO_PHLDA3_R	gttttagtgtctctgcctatc	8 - 25	786 - 807	800
+7879	RAB7	2547	NO_RAB7_F	caaaacatacattgatctctc	NO_RAB7_R	taaaaggcgtacataattctt	186 - 207	905 - 926	741
+23452	ANGPTL2	2548	NO_ANGPTL2_F	agttttgtatcttccattcat	NO_ANGPTL2_R	tttacttaaagaggctctgat	1200 - 1221	1852 - 1873	674
+3217	HOXB7	2549	NO_HOXB7_F	ctggagaaagaatttcactac	NO_HOXB7_R	taggaagacacagaaaatagg	57 - 78	874 - 895	839
+1580	CYP4B1	2550	NO_CYP4B1_F	gctttgagttctctctgg	NO_CYP4B1_R	agagagtctgcttcagaatta	69 - 87	708 - 729	661
+2941	GSTA4	2551	NO_GSTA4_F	caattaagagattccttgaac	NO_GSTA4_R	aaaagacttccaagactgtag	35 - 56	736 - 757	723
+8542	APOL1	2552	NO_APOL1_F	ctggctaacacagtgaaa	NO_APOL1_R	attacgagaaaaacttgagac	1564 - 1582	2439 - 2460	897
+140885	PTPNS1	2553	NO_PTPNS1_F	ccctatttattcagtcttca	NO_PTPNS1_R	aaattgtacgtctctaaaacc	1849 - 1869	2724 - 2745	897
+3759	KCNJ2	2554	NO_KCNJ2_F	ttgagaaaggagtagttttct	NO_KCNJ2_R	gctttatggtgtttctagagt	4613 - 4634	5262 - 5283	671
+4058	LTK	\null	\null	Not Found	\null	Not Found	\null	\null	0
+375	ARF1	2555	NO_ARF1_F	aatagttaagaatccaagtcg	NO_ARF1_R	cggtgaaatagttaagagatt	577 - 598	1343 - 1364	788
+1298	COL9A2	2556	NO_COL9A2_F	ccttacagagcctggat	NO_COL9A2_R	cctctatcctagttaactcca	170 - 187	881 - 902	733
+51274	KLF3	2557	NO_KLF3_F	gaaaacatactggaatcaaac	NO_KLF3_R	taacaaaatgttgaaacctc	82 - 103	961 - 981	900
+11278	KLF12	2558	NO_KLF12_F	acaaaacagttattctaggct	NO_KLF12_R	caaaggtttaattagaatggt	8875 - 8896	9633 - 9654	780
+9369	NRXN3	2559	NO_NRXN3_F	atgtacaagtacaggaacagg	NO_NRXN3_R	ctcagatcataaagttacacg	762 - 783	1496 - 1517	756
+170850	KCNG3	2560	NO_KCNG3_F	aaaaacaagtgtgagtttgtc	NO_KCNG3_R	caagtaaactgttttatccct	68 - 89	787 - 808	741
+598	BCL2L1	2561	NO_BCL2L1_F	gagctatcaggaacagcta	NO_BCL2L1_R	gtacaggtggataaattcag	1047 - 1066	1758 - 1778	732
+2847	GPR24	2562	NO_GPR24_F	atgccaatagtcagttcac	NO_GPR24_R	cccatggaatgtatttattt	289 - 308	1112 - 1132	844
+58480	ARHU	2563	NO_ARHU_F	tacaccaacacagacatctt	NO_ARHU_R	agattagaggtgtcttcttca	34 - 54	742 - 763	730
+10050	SLC17A4	2564	NO_SLC17A4_F	agctactaaaagcataggtgt	NO_SLC17A4_R	ctgtgtatgatttgatttctg	322 - 343	1183 - 1204	883
+102	ADAM10	2565	NO_ADAM10_F	acctattaagtcatcatctcc	NO_ADAM10_R	gaagtagtatgtgctgctatg	161 - 182	877 - 898	738
+2534	FYN	2566	NO_FYN_F	gagcgaggctacaggat	NO_FYN_R	acaaaaacaaacacctgtc	36 - 53	673 - 692	657
+6663	SOX10	2567	NO_SOX10_F	cagccagtatatacgacact	NO_SOX10_R	gtttctcagacaaagaatgag	675 - 695	1354 - 1375	701
+59283	CACNG8	2568	NO_CACNG8_F	gtcaacatctacatcgagc	NO_CACNG8_R	aaaataaaacacgacgct	165 - 184	985 - 1003	839
+7187	TRAF3	2569	NO_TRAF3_F	ttactttggctataagatgtg	NO_TRAF3_R	tattaaaacagagaccagatg	212 - 233	1081 - 1102	891
+4629	MYH11	2570	NO_MYH11_F	aagaatttaaaaataagctgg	NO_MYH11_R	ttcctctatagaaaacagctc	359 - 380	1011 - 1032	674
+4627	MYH9	2571	NO_MYH9_F	agaatctgataccaaagagac	NO_MYH9_R	tactctcttctaaacaaaggc	337 - 358	1156 - 1177	841
+1525	CXADR	2572	NO_CXADR_F	aaccttgtctatgaaatgact	NO_CXADR_R	caatcttaagggaaatacaat	863 - 884	1630 - 1651	789
+11336	SEC6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8525	DGKZ	2573	NO_DGKZ_F	gcagcactaccagatgat	NO_DGKZ_R	ccgcaaaagaagaaaag	72 - 90	731 - 748	677
+783	CACNB2	2574	NO_CACNB2_F	atggagaagtgatatcaaaaa	NO_CACNB2_R	catttctagtccctgtaattc	428 - 449	1178 - 1199	772
+8763	CD164	2575	NO_CD164_F	cataaacaaactctgcattta	NO_CD164_R	aaacgcagtaacacactatta	1694 - 1715	2504 - 2525	832
+1745	DLX1	2576	NO_DLX1_F	ttgtacttctctggtatgga	NO_DLX1_R	atcaccgataagttgataagt	999 - 1019	1759 - 1780	782
+64577	ALDH8A1	2577	NO_ALDH8A1_F	tactgtctattttcaatgtgg	NO_ALDH8A1_R	tacatgccatactggttacta	624 - 645	1469 - 1490	867
+10861	SLC26A1	2578	NO_SLC26A1_F	aaacactcagaaatcaagaac	NO_SLC26A1_R	ccttacagaggcacagat	1720 - 1741	2363 - 2381	662
+10882	CRF	2579	NO_CRF_F	gaccagaactacgactacg	NO_CRF_R	ctagaaacttccaccagac	34 - 53	753 - 772	739
+7869	SEMA3B	2580	NO_SEMA3B_F	acgtgttgagtgctacg	NO_SEMA3B_R	aaccacctttaatcctcac	140 - 157	951 - 970	831
+5143	PDE4C	2581	NO_PDE4C_F	gtttcattgactacattgct	NO_PDE4C_R	aaaactgggtatgagtgaa	8 - 28	888 - 907	900
+8463	TEAD2	2582	NO_TEAD2_F	tcacctcatgcttcttatt	NO_TEAD2_R	agattatttttcacccaaac	180 - 199	865 - 885	706
+8741	TNFSF13	2583	NO_TNFSF13_F	tgattgtgttataaaaagtgg	NO_TNFSF13_R	ggggtatcattcattctatt	111 - 132	865 - 885	775
+4660	PPP1R12B	2584	NO_PPP1R12B_F	gttaggtaaagagagtttgga	NO_PPP1R12B_R	aagatgtaaaatcagaagagg	7371 - 7392	8154 - 8175	805
+1303	COL12A1	2585	NO_COL12A1_F	ctttctgattgtagagaacct	NO_COL12A1_R	aaggatatgaacttgtttgtt	1511 - 1532	2304 - 2325	815
+1948	EFNB2	2586	NO_EFNB2_F	ctggacagcttacctagtct	NO_EFNB2_R	acatcgctatttgataacag	541 - 561	1301 - 1321	781
+1287	COL4A5	2587	NO_COL4A5_F	tatattgtgaacagcctttta	NO_COL4A5_R	ataggtagttttcttcattgg	552 - 573	1415 - 1436	885
+4772	NFATC1	2588	NO_NFATC1_F	taagatgattgtttcacagaa	NO_NFATC1_R	taaacatagaagaaagggaac	1153 - 1174	1967 - 1988	836
+3146	HMGB1	2589	NO_HMGB1_F	cagtcaacttctcagagtttt	NO_HMGB1_R	accatccccatatataactaa	199 - 220	1029 - 1050	852
+2709	GJB5	2590	NO_GJB5_F	ctatgtgttccactcattcta	NO_GJB5_R	agcaaatgagttgacttttat	465 - 486	1185 - 1206	742
+10301	DLEU1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9074	CLDN6	2591	NO_CLDN6_F	agtgcagctccttcaac	NO_CLDN6_R	aatatcctcagtcaaaagaaa	2 - 19	792 - 813	812
+1870	E2F2	2592	NO_E2F2_F	cagtgtctttctgaggtaaat	NO_E2F2_R	catggtgataagagactgtat	2974 - 2995	3850 - 3871	898
+89872	AQP10	2593	NO_AQP10_F	tgtaagctatgattaggacaa	NO_AQP10_R	ccgcatcttaaaagaaaa	191 - 212	1066 - 1084	894
+6424	SFRP4	2594	NO_SFRP4_F	atgctcaagtattttataccc	NO_SFRP4_R	tacaccatacacttagtgagc	999 - 1020	1869 - 1890	892
+6565	SLC15A2	2595	NO_SLC15A2_F	ccgaattcattttgtttt	NO_SLC15A2_R	gagggtttggataagtaaata	8 - 26	809 - 830	823
+9100	USP10	2596	NO_USP10_F	attacactacagacgtcttcc	NO_USP10_R	aataaagttacaatcacccat	40 - 61	803 - 824	785
+715	C1R	2597	NO_C1R_F	ctctttggatgtgttcct	NO_C1R_R	agttatattcaatgacccaat	200 - 218	1034 - 1055	856
+6573	SLC19A1	2598	NO_SLC19A1_F	gaatgtgaaccagtgactc	NO_SLC19A1_R	cactagcgctccttagac	471 - 490	1336 - 1354	884
+26280	IL1RAPL2	2599	NO_IL1RAPL2_F	tacagaattaaaagggaaagt	NO_IL1RAPL2_R	aagctactctaagacaacagg	164 - 185	949 - 970	807
+3251	HPRT1	2600	NO_HPRT1_F	gtgtcattagtgaaactgga	NO_HPRT1_R	gaaccaacagaaaactaaact	8 - 28	732 - 753	746
+56623	INPP5E	2601	NO_INPP5E_F	ctcaaacacacaccacc	NO_INPP5E_R	ggattttaaagatagcagaga	566 - 583	1338 - 1359	794
+3604	TNFRSF9	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1137	CHRNA4	2602	NO_CHRNA4_F	ggtacttctgtgttgtgattc	NO_CHRNA4_R	agttcagaggcaggtgt	150 - 171	994 - 1011	862
+83733	SLC25A18	2603	NO_SLC25A18_F	gcatcttaaagtgttttgact	NO_SLC25A18_R	agaaaagtagatggtgatagc	124 - 145	840 - 861	738
+4599	MX1	2604	NO_MX1_F	tttgatcatccagttcttc	NO_MX1_R	tgtctgctagaaatgagttta	37 - 56	670 - 691	655
+3362	HTR6	2605	NO_HTR6_F	caggcctcttcgatgtc	NO_HTR6_R	acacaagttacactcaacagt	27 - 44	671 - 692	666
+60386	SLC25A19	2606	NO_SLC25A19_F	aggtgctacaaaaggaag	NO_SLC25A19_R	gagatggagtaagataaggaa	42 - 60	652 - 673	632
+1299	COL9A3	2607	NO_COL9A3_F	aaggaccccaaggcgtg	NO_COL9A3_R	acaaaacatcagactagacct	4 - 21	627 - 648	645
+8812	CCNK	2608	NO_CCNK_F	agagtagttgaagtgggtaag	NO_CCNK_R	cataacaaagaaagggatagt	208 - 229	880 - 901	694
+84988	PPP1R16A	2609	NO_PPP1R16A_F	ccggaggaggacaaccc	NO_PPP1R16A_R	gagacacacaacacacaac	2 - 19	614 - 633	632
+5994	RFXAP	2610	NO_RFXAP_F	aattcaccctgctagtgat	NO_RFXAP_R	caaactcacagtaatctgaaa	244 - 263	1107 - 1128	885
+9891	ARK5	2611	NO_ARK5_F	gggtagaattacacttctttt	NO_ARK5_R	ggtatactgtcctcttcaatc	3958 - 3979	4800 - 4821	864
+6666	SOX12	2612	NO_SOX12_F	agcaacagaagtctagtgatt	NO_SOX12_R	acagactcttgacattaggat	4019 - 4040	4744 - 4765	747
+920	CD4	2613	NO_CD4_F	agaggctagatgattgattac	NO_CD4_R	cacgaagagcatctttatagt	733 - 754	1499 - 1520	788
+335	APOA1	2614	NO_APOA1_F	taaagctccttgacaactg	NO_APOA1_R	actttggaaacgtttattct	3 - 22	636 - 656	654
+9308	CD83	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8558	CDK10	2615	NO_CDK10_F	atcagtggtgtctgtgaag	NO_CDK10_R	gtgaaaccatgtctgttaaa	143 - 162	751 - 771	629
+29984	ARHD	2616	NO_ARHD_F	agtgaatcatttctgcaag	NO_ARHD_R	aagtgatgtcgtttttctt	381 - 400	1067 - 1086	706
+7053	TGM3	2617	NO_TGM3_F	gtcccgggtccgttttg	NO_TGM3_R	gatcgcacttatttaacattt	28 - 45	619 - 640	613
+6657	SOX2	2618	NO_SOX2_F	atgaagaaggataagtacacg	NO_SOX2_R	tcataaaagttttcttgtcg	785 - 806	1592 - 1612	828
+6647	SOD1	2619	NO_SOD1_F	gtttccgttgcagtcct	NO_SOD1_R	aatcagtttctcactacaggt	18 - 35	668 - 689	672
+2309	FOXO3A	2620	NO_FOXO3A_F	acactatggtaaccagacact	NO_FOXO3A_R	tacaaagaagattttgcatac	1638 - 1659	2492 - 2513	876
+8200	GDF5	2621	NO_GDF5_F	atgtcaacttcaaggacat	NO_GDF5_R	cacagttttgctttttatct	1536 - 1555	2360 - 2380	845
+2171	FABP5	2622	NO_FABP5_F	accatggccacagttca	NO_FABP5_R	ctgagatcattcttttctttt	29 - 46	789 - 810	782
+26279	PLA2G2D	2623	NO_PLA2G2D_F	gctactgaatggctattactt	NO_PLA2G2D_R	ctcttcagtctctttccttag	863 - 884	1631 - 1652	790
+7174	TPP2	2624	NO_TPP2_F	aatctagacctctgacatcat	NO_TPP2_R	aatcatacaagaactggaaat	264 - 285	1080 - 1101	838
+126433	FBXO27	2625	NO_FBXO27_F	actccagtgtgatcgtg	NO_FBXO27_R	catgatcttggttcactg	120 - 137	964 - 982	863
+55298	RNF121	2626	NO_RNF121_F	cctggtgcacttagtataga	NO_RNF121_R	agaagaaagcaagataaatgt	550 - 570	1400 - 1421	872
+25793	FBXO7	2627	NO_FBXO7_F	agaggcacatacaaagaaa	NO_FBXO7_R	ataattctgaaatgtccaagt	11 - 30	752 - 773	763
+3854	KRT6B	2628	NO_KRT6B_F	aagcagctactcctatgg	NO_KRT6B_R	aaagataagaaaccatttgtg	77 - 95	832 - 853	777
+3851	KRT4	2629	NO_KRT4_F	aggattaggaagtggctc	NO_KRT4_R	tgtataaacagatccttcaca	41 - 59	789 - 810	770
+6355	CCL8	2630	NO_CCL8_F	aaggagagatgggtcag	NO_CCL8_R	ttagggactagagtcagagag	41 - 58	767 - 788	748
+10849	ASE-1	2631	NO_ASE-1_F	atctcctgacctcctga	NO_ASE-1_R	aattacaacataatgaactgg	1979 - 1996	2648 - 2669	691
+120227	CYP2R1	2632	NO_CYP2R1_F	gtgaatgaattgatgactaaa	NO_CYP2R1_R	tctagaaacctagaccaattc	245 - 266	1121 - 1142	898
+10971	YWHAQ	2633	NO_YWHAQ_F	aaacataagtaactcccaaac	NO_YWHAQ_R	cattttacataaaagggaagt	295 - 316	1157 - 1178	884
+2254	FGF9	2634	NO_FGF9_F	taaggatattctaagccaaag	NO_FGF9_R	ccattatatctacttgcatga	222 - 243	1003 - 1024	803
+59272	ACE2	2635	NO_ACE2_F	atttatttctgtctctggatt	NO_ACE2_R	ttttgggactagttttacaat	292 - 313	1132 - 1153	862
+1280	COL2A1	2636	NO_COL2A1_F	ggtcacagaagacctcac	NO_COL2A1_R	atcaacagaagaagtccttag	42 - 60	664 - 685	644
+23089	PEG10	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1296	COL8A2	2637	NO_COL8A2_F	cttgtaccaagtgtgaactg	NO_COL8A2_R	agcttcctataccaagttaga	3359 - 3379	4076 - 4097	739
+142684	RAB40A	2638	NO_RAB40A_F	agggaagattttgtaccat	NO_RAB40A_R	tcaaactgtgtaatgtgtttt	289 - 308	1063 - 1084	796
+10912	GADD45G	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26263	FBXO22	2639	NO_FBXO22_F	atagatttaagacattccctg	NO_FBXO22_R	tgttgtttttcttctacaatg	751 - 772	1591 - 1612	862
+3354	HTR1E	2640	NO_HTR1E_F	gattctctattaccggattta	NO_HTR1E_R	aaacccataaaaggtatttag	782 - 803	1563 - 1584	803
+7703	RNF110	2641	NO_RNF110_F	atttatcttgtggaaaagaag	NO_RNF110_R	ttcagattcattctgtatgg	1098 - 1119	1783 - 1803	706
+994	CDC25B	2642	NO_CDC25B_F	aacagaagctcttactctttc	NO_CDC25B_R	caagagatggaagacattg	689 - 710	1429 - 1448	760
+1944	EFNA3	2643	NO_EFNA3_F	gctctggtaatgtttggta	NO_EFNA3_R	tcacacacactcagttatttt	358 - 377	1120 - 1141	784
+9254	CACNA2D2	2644	NO_CACNA2D2_F	accattcattctggtcat	NO_CACNA2D2_R	acctattataactggtggaag	1367 - 1385	2156 - 2177	811
+89874	SLC25A22	2645	NO_SLC25A22_F	gtctataggcaacttgagatt	NO_SLC25A22_R	tcaacaaaacttatcttcaaa	211 - 232	859 - 880	670
+5133	PDCD1	2646	NO_PDCD1_F	tagagaagtttcagggaag	NO_PDCD1_R	cttagcatgctctcatattta	791 - 810	1394 - 1415	625
+4087	MADH2	2647	NO_MADH2_F	aaagtattaactcagatggga	NO_MADH2_R	gagtttatttttggtaaaagg	72 - 93	674 - 695	624
+1647	GADD45A	2648	NO_GADD45A_F	gccttaagtcaacttatttgt	NO_GADD45A_R	tatagacctggtatacagcaa	32 - 53	738 - 759	728
+5873	RAB27A	2649	NO_RAB27A_F	aggctctgtattgttgatatt	NO_RAB27A_R	ctaaatcttttcctcactagc	1161 - 1182	1945 - 1966	806
+7096	TLR1	2650	NO_TLR1_F	cctactaaaggactttcacat	NO_TLR1_R	tcagaactgtttaaatcaaag	1763 - 1784	2617 - 2638	876
+51444	RNF138	2651	NO_RNF138_F	gcttcatctcagtttagaaat	NO_RNF138_R	cacacatagtaaacaccactc	918 - 939	1722 - 1743	826
+1147	CHUK	2652	NO_CHUK_F	aaattccactgaaaatttaac	NO_CHUK_R	attctatgctcttaattccac	593 - 614	1346 - 1367	775
+5910	RAP1GDS1	2653	NO_RAP1GDS1_F	tgtctacacaaggaagtacag	NO_RAP1GDS1_R	gtaatagtgattcttcaaccc	4 - 25	825 - 846	843
+5522	PPP2R2C	2654	NO_PPP2R2C_F	cttacccattacttggatatt	NO_PPP2R2C_R	cactaaaaacaaacagcatt	811 - 832	1532 - 1552	742
+5265	SERPINA1	2655	NO_SERPINA1_F	ctgaagctagtggataagttt	NO_SERPINA1_R	ctcaacccttctttaatgtc	446 - 467	1313 - 1333	888
+4488	MSX2	2656	NO_MSX2_F	agttccgtcagaaacagta	NO_MSX2_R	ataagcagaagtcaataatcc	100 - 119	891 - 912	813
+64978	MRPL38	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2701	GJA4	2657	NO_GJA4_F	gaccagggtcttcttctac	NO_GJA4_R	agagattatacaggaccaaga	798 - 817	1621 - 1642	845
+666	BOK	2658	NO_BOK_F	taaacagagcgtaaggttc	NO_BOK_R	agctatttaacacacacacag	1198 - 1217	1848 - 1869	672
+1844	DUSP2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+114609	TIRAP	2659	NO_TIRAP_F	cttcacagcctacctcac	NO_TIRAP_R	cccttcgtgtatatactgttc	74 - 92	822 - 843	770
+891	CCNB1	2660	NO_CCNB1_F	tctgcactagttcaagattta	NO_CCNB1_R	aggcttatgtatgttgaaagt	65 - 86	895 - 916	852
+943	TNFRSF8	2661	NO_TNFRSF8_F	agaagcatcttccttaggt	NO_TNFRSF8_R	aagtatccaatctaccagaga	1184 - 1203	2048 - 2069	886
+84541	TA-KRP	2662	NO_TA-KRP_F	cgatctaagttaagtgtgtca	NO_TA-KRP_R	gattaaaatctcattccattc	2607 - 2628	3378 - 3399	793
+6533	SLC6A6	2663	NO_SLC6A6_F	ggatataacaaagctcttcac	NO_SLC6A6_R	ctagaatttggtctgagaatc	1501 - 1522	2376 - 2397	897
+57402	S100A14	2664	NO_S100A14_F	ctaaactggagttcaggagt	NO_S100A14_R	agacaacatgtttcacttttt	54 - 74	758 - 779	726
+916	CD3E	2665	NO_CD3E_F	ctgaatcagagacgcat	NO_CD3E_R	gcagccaaatacagttta	40 - 57	675 - 693	654
+1051	CEBPB	2666	NO_CEBPB_F	agaagaaggtggagcag	NO_CEBPB_R	aaagattcccaaaatatacag	1136 - 1153	1756 - 1777	642
+84152	PPP1R1B	2667	NO_PPP1R1B_F	ctagaagactaaggctggtc	NO_PPP1R1B_R	ctagactagaggattggacag	174 - 194	914 - 935	762
+55502	HES6	2668	NO_HES6_F	ctgaggctgaactgagtc	NO_HES6_R	cacatcactcaacaatacttc	317 - 335	983 - 1004	688
+51454	CED-6	2669	NO_CED-6_F	atgtgacttagagtaggggta	NO_CED-6_R	ctcataaagctaaaatgtgtg	1358 - 1379	2161 - 2182	825
+55197	P15RS	2670	NO_P15RS_F	actcttttctccacatacagt	NO_P15RS_R	aacatcagaattatttccagt	2686 - 2707	3555 - 3576	891
+1277	COL1A1	2671	NO_COL1A1_F	aaagactacctcgttcttgt	NO_COL1A1_R	gatctagaagagaatagtggg	934 - 954	1660 - 1681	748
+64231	MS4A6A	2672	NO_MS4A6A_F	tcacagttacattggtaattc	NO_MS4A6A_R	aataagtatgaactggtcgat	19 - 40	814 - 835	817
+5016	OVGP1	2673	NO_OVGP1_F	tataacccctagaggtacaac	NO_OVGP1_R	ggttcttgtgtttacagttta	174 - 195	1008 - 1029	856
+3822	KLRC2	2674	NO_KLRC2_F	aagactcagataatgctgaac	NO_KLRC2_R	taaatgcagtcataaacaatc	6 - 27	641 - 662	657
+10507	SEMA4D	2675	NO_SEMA4D_F	ttaagattctcagggataaac	NO_SEMA4D_R	cccaaatcaaggatagaa	1545 - 1566	2384 - 2402	858
+5506	PPP1R3A	2676	NO_PPP1R3A_F	gagctccagtattttgatagt	NO_PPP1R3A_R	ttgagtatgttaggaaaaagg	5077 - 5098	5906 - 5927	851
+8737	RIPK1	2677	NO_RIPK1_F	acagtctcagattgatgaaat	NO_RIPK1_R	acagagtattgggtattaacg	96 - 117	894 - 915	820
+23495	TNFRSF13B	2678	NO_TNFRSF13B_F	cttctgcttccctgagt	NO_TNFRSF13B_R	tagacaagatgtctcagttca	63 - 80	738 - 759	697
+975	CD81	\null	\null	Not Found	\null	Not Found	\null	\null	0
+26051	PPP1R16B	2679	NO_PPP1R16B_F	aaagctgtatttaactcttgc	NO_PPP1R16B_R	taatcactcacactagcagg	804 - 825	1422 - 1442	639
+914	CD2	2680	NO_CD2_F	ctcagaatccagcaactt	NO_CD2_R	agtcaaagcttttatttcact	83 - 101	743 - 764	682
+25913	POT1	2681	NO_POT1_F	agtcatacaatgtcacaaatg	NO_POT1_R	caaataaatgaaacagttgaa	32 - 53	817 - 838	807
+142679	DUSP19	2682	NO_DUSP19_F	tttataagcaaaaccatgata	NO_DUSP19_R	aatataaaattgtgtgtcttcc	3825 - 3846	4580 - 4602	778
+5101	PCDH9	2683	NO_PCDH9_F	aagtgttattagaccatagcc	NO_PCDH9_R	cattttcaaaggataggtatt	1515 - 1536	2312 - 2333	819
+63973	NEUROG2	2684	NO_NEUROG2_F	aggaagaggacgtgttagt	NO_NEUROG2_R	tagatacaatccctggctat	36 - 55	799 - 819	784
+355	TNFRSF6	2685	NO_TNFRSF6_F	tctagagtgaaaaacaacaaa	NO_TNFRSF6_R	gtagttttgagccagtaaaat	329 - 350	999 - 1020	692
+5137	PDE1C	2686	NO_PDE1C_F	gattcacaagagtaaaaa	NO_PDE1C_R	ggtaaaaatttcagtaaccac	1 - 19	789 - 810	810
+51744	CD244	2687	NO_CD244_F	gaatgataatggtgactcag	NO_CD244_R	ggctgctatagagaataaaaa	505 - 525	1278 - 1299	795
+2516	NR5A1	2688	NO_NR5A1_F	gatttgaagttcctgaataac	NO_NR5A1_R	gaaggtctttttgtcctaac	1 - 22	814 - 834	834
+5173	PDYN	2689	NO_PDYN_F	aaactaattaaactgatgggt	NO_PDYN_R	catcagcatctttcttttatt	1529 - 1550	2182 - 2203	675
+54360	C17	2690	NO_C17_F	atttggtattcctgttgg	NO_C17_R	acttaaagagcagacattcat	2 - 20	796 - 817	816
+9655	SOCS5	2691	NO_SOCS5_F	agtagaattgtattgaaaggc	NO_SOCS5_R	catttacaagagaaattgttg	2270 - 2291	3119 - 3140	871
+358	AQP1	2692	NO_AQP1_F	gtagacacaggtcaccattat	NO_AQP1_R	caagtcattttcctttatttt	1164 - 1185	2040 - 2061	898
+2746	GLUD1	2693	NO_GLUD1_F	tgagaaagtcttcaaagtgta	NO_GLUD1_R	ataacttaattatccacaggg	73 - 94	842 - 863	791
+672	BRCA1	2694	NO_BRCA1_F	gcaggtattagaaatgaaaag	NO_BRCA1_R	aagtctcaagaacagtcattc	670 - 691	1512 - 1533	864
+1016	CDH18	2695	NO_CDH18_F	attgtggtactttttatcacc	NO_CDH18_R	ggcttaattcaggtattctta	4 - 25	761 - 782	779
+3572	IL6ST	2696	NO_IL6ST_F	attaatactgaaggacacagc	NO_IL6ST_R	cttcagagagtgaagactttt	137 - 158	820 - 841	705
+84084	RAB6C	2697	NO_RAB6C_F	catacatagtagagggaaagg	NO_RAB6C_R	aaataaagaatatgacccatc	2272 - 2293	3064 - 3085	814
+1500	CTNND1	2698	NO_CTNND1_F	acttcaagctgttatttcttc	NO_CTNND1_R	ttaaaagctagttgatttcct	2178 - 2199	2952 - 2973	796
+284129	SLC26A11	2699	NO_SLC26A11_F	cctacaacatcagagaagac	NO_SLC26A11_R	atgatgcatatatagaccaaa	38 - 58	903 - 924	887
+54510	PCDH18	2700	NO_PCDH18_F	gtgaaaagaagaagagttttt	NO_PCDH18_R	ttacactttgtggttgaatag	194 - 215	985 - 1006	813
+290	ANPEP	2701	NO_ANPEP_F	agcagttcaagaaggaca	NO_ANPEP_R	cactcctgctttagtttagta	9 - 27	622 - 643	635
+5166	PDK4	2702	NO_PDK4_F	caagatagtaggctttgagat	NO_PDK4_R	agtaccttgaggtaaattgag	174 - 195	871 - 892	719
+115019	SLC26A9	2703	NO_SLC26A9_F	ttcttagagttaaaggaggg	NO_SLC26A9_R	gagacctacagagaaatctga	1584 - 1604	2461 - 2482	899
+8841	HDAC3	2704	NO_HDAC3_F	ccaatgagttctatgatgg	NO_HDAC3_R	tctaactcttaaccaaaatcc	16 - 35	840 - 861	846
+27289	RHO6	2705	NO_RHO6_F	gacaatttaggacactgga	NO_RHO6_R	ccaattgtaacaactaaagaa	326 - 345	1125 - 1146	821
+10369	CACNG2	2706	NO_CACNG2_F	catagtgtacatatctgccaa	NO_CACNG2_R	tgttaaaataatggtacatgg	27 - 48	884 - 905	879
+255738	PCSK9	2707	NO_PCSK9_F	cacctttactctgctctatg	NO_PCSK9_R	aactattcaacaaacttaccc	831 - 851	1540 - 1561	731
+51547	SIRT7	2708	NO_SIRT7_F	gatcccattttctcactg	NO_SIRT7_R	acaataatctacagttgtccc	12 - 30	774 - 795	784
+64981	MRPL34	\null	\null	Not Found	\null	Not Found	\null	\null	0
+168433	RNF133	2709	NO_RNF133_F	aactgctaccttagcatattt	NO_RNF133_R	ggagtaacatacattgacaaa	830 - 851	1575 - 1596	767
+8411	EEA1	2710	NO_EEA1_F	ataatgggttatcacaacttc	NO_EEA1_R	ggagtttaagaaagagacaga	121 - 142	864 - 885	765
+2559	GABRA6	2711	NO_GABRA6_F	catcctgactccaaatatc	NO_GABRA6_R	acatgctggtattaacctact	2 - 21	711 - 732	731
+170689	ADAMTS15	2712	NO_ADAMTS15_F	atgacaactacctggctc	NO_ADAMTS15_R	atatcagtggggtggag	87 - 105	803 - 820	734
+5817	PVR	2713	NO_PVR_F	cttctaaatctctgtatccgt	NO_PVR_R	gtacacatgaaacctgtctg	1081 - 1102	1885 - 1905	825
+8665	EIF3S5	2714	NO_EIF3S5_F	atggaatttgctaagaatatg	NO_EIF3S5_R	agtttagttccaaaggatatg	385 - 406	1247 - 1268	884
+81693	AMN	\null	\null	Not Found	\null	Not Found	\null	\null	0
+665	BNIP3L	2715	NO_BNIP3L_F	atagctctcagtcagaagaag	NO_BNIP3L_R	ctatcaactcaaacttaggga	373 - 394	1161 - 1182	810
+11031	RAB31	2716	NO_RAB31_F	gaaatctctgagaatgacagt	NO_RAB31_R	ataagaaaaagacaaacggta	2670 - 2691	3327 - 3348	679
+11314	CMRF-35H	2717	NO_CMRF-35H_F	tcagattacagtgtgataagg	NO_CMRF-35H_R	aaataagtttttacttctccct	97 - 118	747 - 769	673
+5757	PTMA	2718	NO_PTMA_F	gataccaagaagcagaagac	NO_PTMA_R	ttttgttagaacaactcagc	433 - 453	1139 - 1159	727
+1908	EDN3	2719	NO_EDN3_F	attaggttgaatatttgcttt	NO_EDN3_R	gctccataactgactttagat	559 - 580	1412 - 1433	875
+80196	RNF36	2720	NO_RNF36_F	actggaaagttatgttcaaag	NO_RNF36_R	agctagtcttgaacttgtgag	259 - 280	1133 - 1154	896
+8863	PER3	2721	NO_PER3_F	tgttctctaatagaagccttt	NO_PER3_R	tgagaaacacaaggttaacta	1885 - 1906	2598 - 2619	735
+29802	VPREB3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+9021	SOCS3	2722	NO_SOCS3_F	accttcagctccaagag	NO_SOCS3_R	cagagctacaggactctctc	176 - 193	875 - 895	720
+66035	SLC2A11	2723	NO_SLC2A11_F	agacaggtgacaagcct	NO_SLC2A11_R	tcagttaattacctttagcct	919 - 936	1769 - 1790	872
+55766	H2AFJ	2724	NO_H2AFJ_F	taaagagtttgtagaggcagt	NO_H2AFJ_R	actacacagctctctcgac	8 - 29	668 - 687	680
+54760	PCSK4	2725	NO_PCSK4_F	tcttcaaccacacaagg	NO_PCSK4_R	acagactgagcaccttcta	62 - 79	772 - 791	730
+1493	CTLA4	2726	NO_CTLA4_F	agtgatgctaaaggttgtatt	NO_CTLA4_R	cagtttgtttccagtatttct	591 - 612	1334 - 1355	765
+53616	ADAM22	2727	NO_ADAM22_F	agacatccatttaagatcaac	NO_ADAM22_R	gcattgaccactatatttaca	9 - 30	774 - 795	787
+5010	CLDN11	2728	NO_CLDN11_F	actactacacccagctaattt	NO_CLDN11_R	aatcaataatgatacctctgg	768 - 789	1602 - 1623	856
+4327	MMP19	2729	NO_MMP19_F	ctgtataataagggcatctct	NO_MMP19_R	acagtggtaaaaataagcatt	2189 - 2210	2927 - 2948	760
+56099	PCDHGB7	2730	NO_PCDHGB7_F	ctgtaagagatggaggaca	NO_PCDHGB7_R	ttaaccgaaaggtattttact	2079 - 2098	2796 - 2817	739
+3280	HES1	2731	NO_HES1_F	atcaatgccatgacctac	NO_HES1_R	aataacaaaagagtcaattcc	157 - 175	1007 - 1028	872
+6992	PPP1R11	2732	NO_PPP1R11_F	taatcctggtttagagctatc	NO_PPP1R11_R	cataagaaccttcttgaaact	619 - 640	1381 - 1402	784
+5718	PSMD12	2733	NO_PSMD12_F	taggctctttgtgtattatga	NO_PSMD12_R	tgtgaatctaaaattgctcta	63 - 84	808 - 829	767
+23368	PPP1R13B	2734	NO_PPP1R13B_F	ctaagaccaagtgacaactg	NO_PPP1R13B_R	tgactgtacagcaatttgtat	704 - 724	1567 - 1588	885
+9187	SLC24A1	2735	NO_SLC24A1_F	tagggaaggaaaactactcta	NO_SLC24A1_R	accaaatgacctaaagataag	1202 - 1223	2058 - 2079	878
+6627	SNRPA1	2736	NO_SNRPA1_F	taaccaataagaagcattaca	NO_SNRPA1_R	ttctctttttggtagcatag	409 - 430	1005 - 1025	617
+56133	PCDHB2	2737	NO_PCDHB2_F	agtcgctggactacgag	NO_PCDHB2_R	tagcctcagtagatccttatt	1694 - 1711	2540 - 2561	868
+79370	BCLG	2738	NO_BCLG_F	tcacatgaagaagtagactga	NO_BCLG_R	gaagtgttctgagcattttat	20 - 41	804 - 825	806
+64432	MRPS25	2739	NO_MRPS25_F	ggatgcatgttagtctttaat	NO_MRPS25_R	ggaagtagtagactttgcatt	3352 - 3373	4034 - 4055	704
+29933	G2A	2740	NO_G2A_F	caatgacacctacctcact	NO_G2A_R	aggttaaattgcattatttct	2055 - 2074	2691 - 2712	658
+83595	SOX7	2741	NO_SOX7_F	aaagtcactgtcttcaaatct	NO_SOX7_R	aaaagatagaacagtcatggt	2123 - 2144	2893 - 2914	792
+11122	PTPRT	2742	NO_PTPRT_F	cattatctccagaggttattt	NO_PTPRT_R	gaaacctagctgataattttt	7445 - 7466	8246 - 8267	823
+5786	PTPRA	2743	NO_PTPRA_F	ggaacagtatgagttct	NO_PTPRA_R	taactcagagagaacagcaa	1 - 18	690 - 710	710
+8659	ALDH4A1	2744	NO_ALDH4A1_F	tagagacctccactcctaga	NO_ALDH4A1_R	atgacaccagacttaaaagat	898 - 918	1577 - 1598	701
+2760	GM2A	2745	NO_GM2A_F	ttcttacacagaaagtcacag	NO_GM2A_R	agatgtgatcagtgaaatatg	1196 - 1217	1964 - 1985	790
+3753	KCNE1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+997	CDC34	2746	NO_CDC34_F	tctacgacgactactacgag	NO_CDC34_R	ctgtctgacccaagtcat	121 - 141	911 - 929	809
+1235	CCR6	2747	NO_CCR6_F	agaaagcaactttactgagac	NO_CCR6_R	aatacgattcctacttcatgt	2088 - 2109	2896 - 2917	830
+89822	KCNK17	2748	NO_KCNK17_F	atcatcaaactcatcctctc	NO_KCNK17_R	ggtagtttctctctgtgtagg	88 - 108	818 - 839	752
+898	CCNE1	2749	NO_CCNE1_F	atgttgtctgaacaaaatagg	NO_CCNE1_R	cagaagttgatataaccacaa	26 - 47	709 - 730	705
+2048	EPHB2	2750	NO_EPHB2_F	ttttaatgacaatgaagtgac	NO_EPHB2_R	cttggaacttacagagaaca	1094 - 1115	1873 - 1893	800
+8402	SLC25A11	\null	\null	Not Found	\null	Not Found	\null	\null	0
+1436	CSF1R	2751	NO_CSF1R_F	aacaactatcagttctgctg	NO_CSF1R_R	atgctgttagtttaatgtgg	137 - 157	904 - 924	788
+2274	FHL2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+50848	F11R	2752	NO_F11R_F	ttaataatgtcagctatgtgc	NO_F11R_R	aaagagctaagaccactacac	178 - 199	1044 - 1065	888
+3785	KCNQ2	2753	NO_KCNQ2_F	tacaaagtcgttgccttaat	NO_KCNQ2_R	ttgaatcactgcgtttta	1028 - 1048	1762 - 1780	753
+5796	PTPRK	2754	NO_PTPRK_F	ctaaaatactaccaccacaca	NO_PTPRK_R	gtgaatgcataaacattaaga	703 - 724	1524 - 1545	843
+5526	PPP2R5B	2755	NO_PPP2R5B_F	cagagctagacagcacct	NO_PPP2R5B_R	ctttgatcctttgtaagattt	140 - 158	904 - 925	786
+4296	MAP3K11	2756	NO_MAP3K11_F	gactcagaccccttctg	NO_MAP3K11_R	ttgtatgataggttgggtc	217 - 234	909 - 928	712
+5195	PEX14	2757	NO_PEX14_F	ctgaggatggcatctagt	NO_PEX14_R	atagtggcaactggtatttat	482 - 500	1204 - 1225	744
+6517	SLC2A4	2758	NO_SLC2A4_F	cctacgtcttccttctattt	NO_SLC2A4_R	gcaagaattcagtgaaagt	15 - 35	649 - 668	654
+50486	G0S2	\null	\null	Not Found	\null	Not Found	\null	\null	0
+50862	RNF141	2759	NO_RNF141_F	agttaccttacagagttttgg	NO_RNF141_R	ttttaataaactcaacttccc	2511 - 2532	3360 - 3381	871
+150696	PROM2	2760	NO_PROM2_F	aatcaaatgtgataatttgtg	NO_PROM2_R	ctccatataagggactaactg	472 - 493	1267 - 1288	817
+664	BNIP3	2761	NO_BNIP3_F	catgtcagactgattaatgtc	NO_BNIP3_R	aaagataatgtcaaaataggg	250 - 271	953 - 974	725
+605	BCL7A	2762	NO_BCL7A_F	ctgaactttctctcataggac	NO_BCL7A_R	caaaattgataagtacaagga	1043 - 1064	1880 - 1901	859
+4312	MMP1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+54345	SOX18	2763	NO_SOX18_F	accccaactacaagtacc	NO_SOX18_R	gacatggaaccaaacatac	89 - 107	893 - 912	824
+151295	SLC23A3	2764	NO_SLC23A3_F	tcaagtgtacagacttccttt	NO_SLC23A3_R	aatcagaattcattatccct	93 - 114	743 - 763	671
+8851	CDK5R1	2765	NO_CDK5R1_F	caagaagaagaactccaag	NO_CDK5R1_R	acacatactgtacacaaaactg	326 - 345	1131 - 1153	828
+116085	SLC22A12	2766	NO_SLC22A12_F	gaaaaggacagtttgattg	NO_SLC22A12_R	agtgagatgatgctttgag	264 - 283	1042 - 1061	798
+5711	PSMD5	2767	NO_PSMD5_F	caaattatttctggattctct	NO_PSMD5_R	ttttattgtatatattgcacca	909 - 930	1777 - 1799	891
+8567	MADD	2768	NO_MADD_F	agaatgtgtacagtctgtgg	NO_MADD_R	agttgaggacatttatttcac	341 - 361	963 - 984	644
+6183	MRPS12	2769	NO_MRPS12_F	gctaccctgaaccagat	NO_MRPS12_R	tagagcatcgaatttaatctt	43 - 60	801 - 822	780
+8718	TNFRSF25	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3755	KCNG1	2770	NO_KCNG1_F	gtgtttagaacagtgtccag	NO_KCNG1_R	ttttaaaagaagctgagattt	1044 - 1064	1697 - 1718	675
+3761	KCNJ4	2771	NO_KCNJ4_F	actactcacgttttcacaag	NO_KCNJ4_R	gaatttggtgtctccatc	1035 - 1055	1831 - 1849	815
+1813	DRD2	2772	NO_DRD2_F	acccatgtaaataccagact	NO_DRD2_R	gggtcttgctatacttgaat	691 - 711	1357 - 1377	687
+23401	FRAT2	2773	NO_FRAT2_F	acttgtaaatgacttgacctt	NO_FRAT2_R	aatttattcagcagacatttt	1474 - 1495	2168 - 2189	716
+6320	SCGF	2774	NO_SCGF_F	aagtgcttcctgctctc	NO_SCGF_R	ctcaaatgacatctgtaaaaa	31 - 48	798 - 819	789
+477	ATP1A2	2775	NO_ATP1A2_F	agaacaaactcagatctcatc	NO_ATP1A2_R	gaaagaaagctatctcctgta	761 - 782	1639 - 1660	900
+3693	ITGB5	2776	NO_ITGB5_F	aagttcaacaaatcctacaat	NO_ITGB5_R	acacacagagagtatcagaca	62 - 83	763 - 784	723
+28232	SLC21A11	2777	NO_SLC21A11_F	tctacgacaatgtggtctac	NO_SLC21A11_R	gtgtcactagtgcttaatctg	95 - 115	834 - 855	761
+1013	CDH15	\null	\null	Not Found	\null	Not Found	\null	\null	0
+23633	KPNA6	2778	NO_KPNA6_F	ctgcctctcctattatctatt	NO_KPNA6_R	cttacactaagaaactggtcc	1747 - 1768	2589 - 2610	864
+8642	PCDH16	2779	NO_PCDH16_F	agctataactgggactacct	NO_PCDH16_R	caaattgcagtttattaagg	2194 - 2214	3040 - 3060	867
+6277	S100A6	\null	\null	Not Found	\null	Not Found	\null	\null	0
+8854	ALDH1A2	2780	NO_ALDH1A2_F	ataatgtgccctgtatctatt	NO_ALDH1A2_R	aattctgtaaaaatacccttg	1107 - 1128	1963 - 1984	878
+251	ALPPL2	2781	NO_ALPPL2_F	gctttatcttgctcttaaat	NO_ALPPL2_R	acattgtctaacacttccttt	484 - 504	1118 - 1139	656
+6714	SRC	2782	NO_SRC_F	gtgaaagaggacgtgttac	NO_SRC_R	gcacacagtagatgttcaat	1407 - 1426	2264 - 2284	878
+4968	OGG1	2783	NO_OGG1_F	gattcacaaggtgaagaact	NO_OGG1_R	gtaactaattatccctgagga	98 - 118	956 - 977	880
+1595	CYP51A1	2784	NO_CYP51A1_F	ctagttctacaaggtcacattt	NO_CYP51A1_R	tcactgaagcacatattttac	911 - 933	1720 - 1741	831
+51144	HSD17B12	2785	NO_HSD17B12_F	tatcgaagctatatggtatga	NO_HSD17B12_R	cactacactaaaaccaactca	768 - 789	1592 - 1613	846
+6000	RGS7	2786	NO_RGS7_F	gtcttactaaacggatcatct	NO_RGS7_R	ctttttagttagcatggaagt	43 - 64	719 - 740	698
+9947	MAGEC1	2787	NO_MAGEC1_F	gaaagtagtagagtttttggc	NO_MAGEC1_R	tcatcaaataatgagtcactg	3243 - 3264	3964 - 3985	743
+2921	CXCL3	2788	NO_CXCL3_F	actgacaggagagaagtaaga	NO_CXCL3_R	aggcacagatttagatagaac	12 - 33	771 - 792	781
+11173	ADAMTS7	2789	NO_ADAMTS7_F	tctacctcagtttcccc	NO_ADAMTS7_R	gaggaagagtcagagttaatg	391 - 408	1020 - 1041	651
+3065	HDAC1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3688	ITGB1	2790	NO_ITGB1_F	gaaaaattcagagagttagga	NO_ITGB1_R	gacatccgatttaagtatttt	641 - 662	1227 - 1248	608
+966	CD59	2791	NO_CD59_F	tctttaaattttatatgggct	NO_CD59_R	attgatgtaaggaaagacact	834 - 855	1703 - 1724	891
+5864	RAB3A	2792	NO_RAB3A_F	gatgtcatctgcgagaa	NO_RAB3A_R	caagaccctgtctctatttat	70 - 87	945 - 966	897
+51023	MRPS18C	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2273	FHL1	2793	NO_FHL1_F	aaataactaacacgaacttcc	NO_FHL1_R	ataagtcatttaggtttctgg	686 - 707	1543 - 1564	879
+7874	USP7	2794	NO_USP7_F	taatatgtctcatcctcgg	NO_USP7_R	cttgatttaataaaaagaccc	3 - 22	762 - 783	781
+23411	SIRT1	2795	NO_SIRT1_F	tctttatttaaaagcttagcc	NO_SIRT1_R	aaccaaatgaagaaatgtagt	1519 - 1540	2209 - 2230	712
+2674	GFRA1	2796	NO_GFRA1_F	gtccaccctattatctttaac	NO_GFRA1_R	aattccgggtggttttt	114 - 135	736 - 753	640
+55168	MRPS18A	\null	\null	Not Found	\null	Not Found	\null	\null	0
+3749	KCNC4	2797	NO_KCNC4_F	cgtatcttcaagctcacac	NO_KCNC4_R	taatatacagccccatgtact	389 - 408	1182 - 1203	815
+50804	MYEF2	2798	NO_MYEF2_F	atagttggatttgtttgttct	NO_MYEF2_R	tgttaaattacaatgaaaagc	442 - 463	1291 - 1312	871
+9376	SLC22A8	2799	NO_SLC22A8_F	gggcaaagaagccaaag	NO_SLC22A8_R	ctgtcgtacatgaagtgtg	10 - 27	590 - 609	600
+28973	MRPS18B	2800	NO_MRPS18B_F	tctgtaggagctgtagactg	NO_MRPS18B_R	aattgcttatatgaaaagacc	291 - 311	944 - 965	675
+5502	PPP1R1A	2801	NO_PPP1R1A_F	aggttctcttttcttattgag	NO_PPP1R1A_R	gctatagccagagaacaata	382 - 403	1168 - 1188	807
+602	BCL3	2802	NO_BCL3_F	gtcttctctccgcatca	NO_BCL3_R	agactcacaacatcactctg	2 - 19	713 - 733	732
+406	ARNTL	2803	NO_ARNTL_F	ccacataggtatagacatgatt	NO_ARNTL_R	gtagaaacttataatccagcc	12 - 34	720 - 741	730
+84883	AMID	2804	NO_AMID_F	ccagcatatttctaggttact	NO_AMID_R	aaaaataaaagatccagtgtc	1333 - 1354	2060 - 2081	749
+3757	KCNH2	2805	NO_KCNH2_F	tcctttaattcacctaaactc	NO_KCNH2_R	cttataagcaatgttcttcaa	376 - 397	1051 - 1072	697
+55353	LAPTM4B	2806	NO_LAPTM4B_F	acatcctttatgactgaagtt	NO_LAPTM4B_R	acatttcaatattttaaccatc	586 - 607	1354 - 1376	791
+5272	SERPINB9	2807	NO_SERPINB9_F	tttttagaacatgagtgacag	NO_SERPINB9_R	cctgaatgtcaataatacaaa	2582 - 2603	3447 - 3468	887
+51176	LEF1	2808	NO_LEF1_F	tttctcctaaagcttttattt	NO_LEF1_R	acacaaactgttcctctctac	508 - 529	1280 - 1301	794
+2562	GABRB3	2809	NO_GABRB3_F	gtgtgtagtttgtttctgttg	NO_GABRB3_R	attaatttagcagttcttcct	1090 - 1111	1959 - 1980	891
+10148	EBI3	\null	\null	Not Found	\null	Not Found	\null	\null	0
+80031	SEMA6D	2810	NO_SEMA6D_F	aaaaacttaaactcaccaaat	NO_SEMA6D_R	tacaagttcatttctttgaga	1003 - 1024	1733 - 1754	752
+11236	RNF139	2811	NO_RNF139_F	taacatctacttacaagccaa	NO_RNF139_R	tttctaaagaaaaactgaggt	1338 - 1359	2166 - 2187	850
+57419	SLC24A3	2812	NO_SLC24A3_F	cacttggtattgagtacactg	NO_SLC24A3_R	gactacaatcattttacctcc	1258 - 1279	1979 - 2000	743
+4118	MAL	\null	\null	Not Found	\null	Not Found	\null	\null	0
+30817	EMR2	2813	NO_EMR2_F	tgaataagatcttccctctt	NO_EMR2_R	tcatgtagaatttctgttcaa	21 - 41	818 - 839	819
+81031	SLC2A10	2814	NO_SLC2A10_F	tcacaaagattagagaggact	NO_SLC2A10_R	aaatgtttaacaacagctctc	1892 - 1913	2657 - 2678	787
+192683	SCAMP5	2815	NO_SCAMP5_F	cacaaaatataattgcctctc	NO_SCAMP5_R	cgtatagctctaggtctcg	2082 - 2103	2820 - 2839	758
+51156	SERPINA10	2816	NO_SERPINA10_F	agaacagtgattgaagttgat	NO_SERPINA10_R	ctaaggttcttagaaacaagc	11 - 32	874 - 895	885
+5782	PTPN12	2817	NO_PTPN12_F	taatcgatgtggaaaacc	NO_PTPN12_R	ctttttgcttacaatttacaa	9 - 27	613 - 634	626
+9522	SCAMP1	2818	NO_SCAMP1_F	taacttatatcccaagtccat	NO_SCAMP1_R	tacatcaaacctttaacaatg	2031 - 2052	2826 - 2847	817
+5742	PTGS1	2819	NO_PTGS1_F	gggttgacatttagaacttta	NO_PTGS1_R	ttattagcttcatgagaaaca	476 - 497	1078 - 1099	624
+6045	RNF2	2820	NO_RNF2_F	atctgtttttacagggtttt	NO_RNF2_R	attactttaattgcacacaga	1618 - 1638	2364 - 2385	768
+9238	CPR2	2821	NO_CPR2_F	atctcgaaaacaaaaatgta	NO_CPR2_R	cagttccttaaacgactaaac	2193 - 2213	2999 - 3020	828
+776	CACNA1D	2822	NO_CACNA1D_F	gactatgagctacaggacttt	NO_CACNA1D_R	ctgacttacttacacaccgta	187 - 208	821 - 842	656
+3344	HTLF	2823	NO_HTLF_F	cttcctcttaaaacagcatt	NO_HTLF_R	cctaacagcaattgtttaata	12 - 32	673 - 694	683
+65080	MRPL44	2824	NO_MRPL44_F	agtgagataaatgtcaaaggt	NO_MRPL44_R	taaaattgtattacagaagcg	211 - 232	904 - 925	715
+5321	PLA2G4A	2825	NO_PLA2G4A_F	gtgataaaagaagccat	NO_PLA2G4A_R	tttcatagcaatagtccaata	1 - 18	643 - 664	664
+11237	RNF24	2826	NO_RNF24_F	aactccattacactctctctc	NO_RNF24_R	agacactttcactttcagttt	407 - 428	1281 - 1302	896
+5077	PAX3	2827	NO_PAX3_F	aatactgtgtacctcatggat	NO_PAX3_R	aaacttcaatccttaaaagtg	872 - 893	1732 - 1753	882
+84108	RNF134	2828	NO_RNF134_F	accaagaattatagcgtttat	NO_RNF134_R	cagtgatgaaataatgagaaa	400 - 421	1114 - 1135	736
+10771	BS69	2829	NO_BS69_F	aaattgtttagaatttgcttc	NO_BS69_R	atttcacatatggataaaggt	197 - 218	919 - 940	744
+1293	COL6A3	2830	NO_COL6A3_F	caacatcatatacctcttgaa	NO_COL6A3_R	ctgctatggaaacaagact	54 - 75	819 - 838	785
+55030	FBXO34	2831	NO_FBXO34_F	aagaatagcaggacttttaga	NO_FBXO34_R	aaacactttatctccaacaat	1347 - 1368	2102 - 2123	777
+3791	KDR	2832	NO_KDR_F	gtgttgaagagttctgactg	NO_KDR_R	agaaatgatgggtacagtaat	1052 - 1072	1702 - 1723	672
+63904	DUSP21	2833	NO_DUSP21_F	aactagcttggtaagtgttgt	NO_DUSP21_R	cttgacctcacaatataaaaa	68 - 89	899 - 920	853
+6863	TAC1	\null	\null	Not Found	\null	Not Found	\null	\null	0
+6574	SLC20A1	2834	NO_SLC20A1_F	ttgtgctaaatatgaattgtc	NO_SLC20A1_R	tcacatcacctaagaatgata	316 - 337	1022 - 1043	728
+10193	RNF41	2835	NO_RNF41_F	ccttatcataaaactctggat	NO_RNF41_R	gcactaagataagggtaggta	1616 - 1637	2385 - 2406	791
+10166	SLC25A15	2836	NO_SLC25A15_F	gtatctcccaataaagtgttc	NO_SLC25A15_R	ccactgaaatttctttagac	358 - 379	1063 - 1083	726
+79845	RNF122	2837	NO_RNF122_F	tcctggtactggactatctac	NO_RNF122_R	acaagcaaaagtaggttagag	364 - 385	1104 - 1125	762
+27189	IL17C	2838	NO_IL17C_F	accgctatccacagaag	NO_IL17C_R	gatgtgttcatcagtttaataat	19 - 36	635 - 658	640
+5887	RAD23B	2839	NO_RAD23B_F	gcattacactaacttgttcac	NO_RAD23B_R	taatttcacaaagggatacat	151 - 172	926 - 947	797
+3486	IGFBP3	2840	NO_IGFBP3_F	gtttctttgaatggtaaactt	NO_IGFBP3_R	ccttcctgttctgatattact	153 - 174	947 - 968	816
+55770	SEC5	2841	NO_SEC5_F	tttcattctcactcactctta	NO_SEC5_R	acttacattaaaggcagattc	746 - 767	1597 - 1618	873
+3053	SERPIND1	2842	NO_SERPIND1_F	gaggtctaggtgtctgaagt	NO_SERPIND1_R	ttatcatacctggagttatcc	199 - 219	907 - 928	730
+3451	IFNA17	2843	NO_IFNA17_F	aggttacccatctcaagtag	NO_IFNA17_R	ggtggttatagaagtgagtct	6 - 26	694 - 715	710
+23092	GRAF	2844	NO_GRAF_F	attagggtggtctacttgag	NO_GRAF_R	caaatataaaactttgccata	940 - 960	1801 - 1822	883
+4589	MUC7	2845	NO_MUC7_F	cctataaacataaaggggtaa	NO_MUC7_R	tttagagatagagtgccctac	1465 - 1486	2320 - 2341	877
+931	MS4A2	2846	NO_MS4A2_F	aaataaaagaagaagtggttg	NO_MS4A2_R	taaaagtaggtagacatgcaa	47 - 68	887 - 908	862
+5770	PTPN1	2847	NO_PTPN1_F	cttgctgtaactcagacatt	NO_PTPN1_R	tttgtaaaaatggtttattcc	1079 - 1099	1839 - 1860	782
+1588	CYP19A1	2848	NO_CYP19A1_F	aaaagcaacattcatagtctt	NO_CYP19A1_R	tttttcaatgacattcagtag	739 - 760	1531 - 1552	814
+5519	PPP2R1B	2849	NO_PPP2R1B_F	actgccaaattaccttatagt	NO_PPP2R1B_R	gtctggttcttttgattattt	1702 - 1723	2476 - 2497	796
+5886	RAD23A	2850	NO_RAD23A_F	ctcctgagtcagaactttg	NO_RAD23A_R	aactttattcacttcaaaacc	86 - 105	677 - 698	613
+483	ATP1B3	2851	NO_ATP1B3_F	ctttgctcctaacaacact	NO_ATP1B3_R	gcagtaacaagatatttcaca	39 - 58	912 - 933	895
+1968	EIF2S3	2852	NO_EIF2S3_F	gttttgtttttgagtctgg	NO_EIF2S3_R	actcattgctttctaacatct	365 - 384	1229 - 1250	886
+8170	SLC14A2	2853	NO_SLC14A2_F	tctgtctctcagctctcac	NO_SLC14A2_R	acagttcttggtattgtgttt	30 - 49	860 - 881	852
+8034	SLC25A16	2854	NO_SLC25A16_F	ctggataataggaaaaacact	NO_SLC25A16_R	actctttctgaacacagaact	654 - 675	1313 - 1334	681
+3444	IFNA7	2855	NO_IFNA7_F	ctcaggtagcctagtgatatt	NO_IFNA7_R	aaatagatgaaaggagacatc	8 - 29	800 - 821	814
+56667	MUC13	2856	NO_MUC13_F	tggactaaaaatgtccactat	NO_MUC13_R	atgttcacactactgcactc	681 - 702	1399 - 1419	739
+9378	NRXN1	2857	NO_NRXN1_F	ttgctaagtatagggagtttt	NO_NRXN1_R	cttagtcgagagaaagtgttt	1185 - 1206	1921 - 1942	758
+5869	RAB5B	2858	NO_RAB5B_F	atctatgaagctgagattctg	NO_RAB5B_R	tagtacctgacaaatagcaaa	1984 - 2005	2664 - 2685	702
+56890	MDM1	2859	NO_MDM1_F	ttagtaggaaaggactgagag	NO_MDM1_R	taaatattcaaagcagttacg	1170 - 1191	1973 - 1994	825
+6428	SFRS3	2860	NO_SFRS3_F	agtccaggtataacattccta	NO_SFRS3_R	catatttaaggaaactaagcc	876 - 897	1477 - 1498	623
+1965	EIF2S1	2861	NO_EIF2S1_F	gaacctggatgtacttaagag	NO_EIF2S1_R	ggtacagtagggagtagatga	315 - 336	985 - 1006	692
+3742	KCNA6	2862	NO_KCNA6_F	catgaaatatgtggtttagaa	NO_KCNA6_R	taaagagaactctcctttctg	794 - 815	1603 - 1624	831
+65217	PCDH15	2863	NO_PCDH15_F	ttgaaaaatcagtagctaaca	NO_PCDH15_R	agatttatcaaatccataagc	1313 - 1334	2153 - 2174	862
+9424	KCNK6	2864	NO_KCNK6_F	agttgtacctgactcattttt	NO_KCNK6_R	tttcttacttttctttc	1036 - 1057	1816 - 1833	798
+9567	GTPBP1	2865	NO_GTPBP1_F	gatgggattataggactctc	NO_GTPBP1_R	agcaccacactgtcaact	822 - 842	1627 - 1645	824
+1362	CPD	2866	NO_CPD_F	gttattaccaaaaattccact	NO_CPD_R	caaactggacctataactttt	3363 - 3384	4153 - 4174	812
+4277	MICB	2867	NO_MICB_F	atctagagcctattgtttgag	NO_MICB_R	acacagaccagaaatgtctat	471 - 492	1341 - 1362	892
+2215	FCGR3B	2868	NO_FCGR3B_F	tgctctgctacttctagtttc	NO_FCGR3B_R	ctgaggatgatggggtt	57 - 78	863 - 880	824
+51552	RAB14	2869	NO_RAB14_F	aggattaacactagcagattc	NO_RAB14_R	aatggatcactgtaagtcttt	1084 - 1105	1962 - 1983	900
+5870	RAB6A	2870	NO_RAB6A_F	catacatagtagagggaaagg	NO_RAB6A_R	aaataaagaatatgacccatc	1263 - 1284	2071 - 2092	830
+8403	SOX14	2871	NO_SOX14_F	aaaccttcagaccacatc	NO_SOX14_R	gaagagagaggaaaagtctg	55 - 73	893 - 913	859
+2920	CXCL2	2872	NO_CXCL2_F	tacaggaacagaagaggaa	NO_CXCL2_R	agcaaatatagtccttgtttc	70 - 89	751 - 772	703
+996	CDC27	2873	NO_CDC27_F	ttctggaaatcagacttttac	NO_CDC27_R	ctttagtgttctccttctgat	85 - 106	932 - 953	869
+5147	PDE6D	\null	\null	Not Found	\null	Not Found	\null	\null	0
+668	FOXL2	2874	NO_FOXL2_F	gctaatgttttgtttgaaag	NO_FOXL2_R	tttgtttaactcattctgaaa	2085 - 2105	2814 - 2835	751
+112744	IL17F	\null	\null	Not Found	\null	Not Found	\null	\null	0
+90134	KCNH7	2875	NO_KCNH7_F	agaccttgaaaaatctaaact	NO_KCNH7_R	ttcctatactgtcagaggttt	15 - 36	820 - 841	827
+6850	SYK	2876	NO_SYK_F	aaaacaggcccggattc	NO_SYK_R	ccttttatcacaaacatgtaa	6 - 23	732 - 753	748
+10135	PBEF	2877	NO_PBEF_F	agtgtttaggtgatctcaaat	NO_PBEF_R	tcatgccaactatagaatatg	121 - 142	893 - 914	794
+26268	FBXO9	2878	NO_FBXO9_F	taatttcagagtttgtgtctg	NO_FBXO9_R	aacttgaaaaacacacttctc	1192 - 1213	2067 - 2088	897
+7088	TLE1	2879	NO_TLE1_F	tctctgtggatgataagtaca	NO_TLE1_R	tttataaaataagcagtgcaa	41 - 62	731 - 752	712
+912	CD1D	2880	NO_CD1D_F	atgtaaggaattgaagatagg	NO_CD1D_R	tacaccaagtaaaaatgtgag	113 - 134	723 - 744	632
+7518	XRCC4	\null	\null	Not Found	\null	Not Found	\null	\null	0
+2250	FGF5	\null	\null	Not Found	\null	Not Found	\null	\null	0
+7520	XRCC5	2881	NO_XRCC5_F	aattctctgtggaatgaatac	NO_XRCC5_R	agatgaaagctgacttaggta	156 - 177	869 - 890	735
+5478	PPIA	2882	NO_PPIA_F	aaccgtgtactattagccat	NO_PPIA_R	caacaagtccttctcttagtc	25 - 45	804 - 825	801
+6422	SFRP1	2883	NO_SFRP1_F	ctttacaataatcattctggat	NO_SFRP1_R	actcaagaggagaaagataca	52 - 74	799 - 820	769
+5792	PTPRF	2884	NO_PTPRF_F	gtatggtgtggtgtttgtag	NO_PTPRF_R	tacactggcacaaatacttag	557 - 577	1295 - 1316	760
+3356	HTR2A	2885	NO_HTR2A_F	ctatcgaggtatttggtaact	NO_HTR2A_R	ctactctcacagttgaaacaa	251 - 272	1012 - 1033	783
