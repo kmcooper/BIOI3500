@@ -1,0 +1,619 @@
+LOCUS       HSDP2                   2320 bp    mRNA    linear   PRI 30-SEP-2002
+DEFINITION  Homo sapiens DP2 (DP2) mRNA, complete cds.
+ACCESSION   U18422
+VERSION     U18422.1
+KEYWORDS    DP2; DP1; E2F dimerization; E1A; E4; RB; p107; p130.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2320)
+  AUTHORS   Zhang,Y. and Chellappan,S.P.
+  TITLE     Cloning and characterization of human DP2, a novel dimerization
+            partner of E2F
+  JOURNAL   Oncogene 10 (11), 2085-2093 (1995)
+   PUBMED   7784053
+REFERENCE   2  (bases 1 to 2320)
+  AUTHORS   Zhang,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-1994) Yonghui Zhang, Pathology, Columbia
+            University, 630 West 168th St., New York, NY 10032, USA
+FEATURES             Location/Qualifiers
+     source          1..2320
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd1-2, 4, 6-9, 11, 40, 45, 46, 2kd47, 49, and 51"
+                     /sex="female"
+                     /tissue_type="kidney"
+                     /clone_lib="Clontech human kidney 5'-stretch cDNA Library
+                     (Cat #: HL1123o)"
+                     /dev_stage="adult"
+     source          1..1324
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd2"
+     source          25..93
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="2kd47"
+     source          40..262
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd49"
+     source          41..1467
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd11"
+     source          175..1620
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd45"
+     source          186..1560
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd4"
+     source          440..2008
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd51"
+     source          510..816
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd8"
+     source          707..1034
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd1"
+     source          1000..1324
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd9"
+     source          1000..2320
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="3kd40"
+     gene            1..2320
+                     /gene="DP2"
+     5'UTR           10..140
+                     /gene="DP2"
+     variation       49..53
+                     /gene="DP2"
+                     /note="clones 3kd11 and 3kd46 lack CATTT at this site."
+                     /replace=""
+     CDS             141..1301
+                     /gene="DP2"
+                     /citation=[1]
+                     /codon_start=1
+                     /product="DP2"
+                     /protein_id="AAB60378.1"
+                     /translation="MIISTPQRLTSSGSVLIGSPYTPAPAMVTQTHIAEATGWVPGDR
+                     KRARKFIDSDFSESKRSKKGDKNGKGLRHFSMKVCEKVQRKGTTSYNEVADELVSEFT
+                     NSNNHLAADSQAYDQKNIRRRVYDALNVLMAMNIISKEKKEIKWIGLPTNSAQECQNL
+                     EIEKQRRIERIKQKRAQLQELLLQQIAFKNLVQRNRQNEQQNQGPPALNSTIQLPFII
+                     INTSRKTVIDCSISSDKFEYLFNFDNTFEIHDDIEVLKRMGMSFGLESGKCSLEDLKL
+                     AKSLVPKALEGYITDISTGPSWLNQGLLLNSTQSVSNLDLTTGATLPQSSVNQGLCLD
+                     AEVALATGQFLAPNSHQSSSAASHCSESRGETPCSFNDEDEEDDEEDSSSPE"
+     variation       148
+                     /gene="DP2"
+                     /note="clone 2kd47"
+                     /replace="c"
+     variation       477..479
+                     /gene="DP2"
+                     /note="clone 3kd11 lacks CAG at this site probably due to
+                     the splicing slippage at the splice-acceptor site; For
+                     other examples see BRCA1 (GenBank Accession Numbers U15595
+                     and U14680) and the mouse obese gene (GenBank Accession
+                     Number U18812)"
+                     /replace=""
+     regulatory      1297..1302
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DP2"
+     polyA_site      1324
+                     /gene="DP2"
+                     /note="clones 3kd2, 3kd9"
+     polyA_site      2315
+                     /gene="DP2"
+                     /note="clone 3kd40"
+ORIGIN      
+        1 gaattccggt gcagtgagag gcatgcttcc ttagaccagg caacatttca tttgttgcat
+       61 ttccagtttc caataccaac tcacctacaa agattttacc aaaaacctta ggaccaataa
+      121 atgtgaatgt tggaccccaa atgattataa gcacaccaca gagactaacc agttcaggaa
+      181 gtgttctgat tgggagtcca tatacccctg caccagcaat ggttactcag acacacatag
+      241 cagaagctac tggctgggtc cctggtgata gaaaacgggc tagaaaattt atagactctg
+      301 atttttcaga aagtaaacga agcaaaaaag gagataaaaa tgggaaaggc ttgagacact
+      361 tttcaatgaa agtgtgtgag aaagttcaac gaaaaggtac aacatcgtac aatgaagtcg
+      421 ctgatgagct ggtgtcagag ttcaccaatt caaataacca tttggctgct gattcgcagg
+      481 cttatgatca gaagaacatt aggcgaagag tttatgatgc tttaaatgtg ctaatggcaa
+      541 tgaacataat ttcaaaggaa aaaaaagaaa tcaagtggat tggcctgcct accaattctg
+      601 ctcaggaatg tcagaatctg gagatagaga agcagaggcg gatagaacgg ataaagcaga
+      661 agcgggccca gctgcaagaa cttctcctac agcaaatcgc tttcaaaaac ctggtacaga
+      721 gaaatcgaca aaatgagcag caaaaccagg gcccgccggc tctgaactct accattcagc
+      781 tgccattcat aatcatcaat acaagcagaa aaacagtcat agattgcagc atctccagtg
+      841 acaagtttga gtatcttttc aattttgaca acacctttga gatccatgat gacatagaag
+      901 tactaaagcg gatgggaatg tcgtttggcc tggagtcagg caaatgctct ctggaggatc
+      961 tgaaacttgc gaaatccctg gtgccaaagg ctttagaagg ttatatcaca gatatctcca
+     1021 caggaccttc ttggttaaat cagggactac ttctgaactc tacccaatca gtttcaaatt
+     1081 tagacctgac cactggtgcc accttacccc agtcaagtgt aaaccaaggg ttatgcttgg
+     1141 atgcagaagt ggccttagca actgggcagt tcctggcccc aaacagtcac cagtccagca
+     1201 gtgcggcctc tcactgctcc gagtcccgag gcgagacccc ctgttcgttc aatgatgaag
+     1261 atgaggaaga tgatgaggag gattcctcct ccccagaata aagacaagag aaagcctacg
+     1321 tttcaatatg tgatgctcat gtgtgtttgt agtgtgagct cttgtttttg aaatgattgc
+     1381 ttcagtcttt gcctttgttt gcactgtgtg ttcagtgaaa actagagaaa cacaataagc
+     1441 aaatcacatg aaggctgaga tgattgagat gaaagttaac atagtgtgaa tgaaagtctg
+     1501 gccaacagag cagtagatga tataacacag aaagcatgct ttctgaggag atagtgggga
+     1561 taatccctga agagttggca gtgtgagtcc aactcattta tcttctgtga ggtgggattt
+     1621 ttgtgttccc tcaccaccca tgtaatattc ttagaattga gattgctaca cggagcagtc
+     1681 cttgacgatc gtgtttctga cgtttctctt ccttgcctgg actgcctttg acaaggcaga
+     1741 aatgaacatg aaaagtcccc aggagagggg agctgtgtag tgagggatac tgagggcagt
+     1801 cctgtggctg aggggcacag attgaactgc tgaactagtt ggaggtctag atgaggtgct
+     1861 ttacgcatca gctgccttag acagcttcta gaaaggagcg agcgctactt cttaagtact
+     1921 taagtgacat ttagataatt tatagtaaaa ctgaaattat tattagccaa tgcattggtg
+     1981 catagaattt actagggcta cttctggaag cccccaatag aatagcattt ccatgtgcat
+     2041 taaatacttt gccagcactg cctttgccag catcctaaat ctggagtttt accaagaagg
+     2101 aaactgtatc tttaggttaa tccaagctat gcatttcata tagctttttc atttaaaaca
+     2161 aggcaaagaa acaaattcct atgaccaaat tgcttgccta cagttccctg cagtaattgt
+     2221 atgatctcac ccagtgtgca atttgtggaa atgaaccaaa tgtcattact tttgtcttaa
+     2281 agaaaagtct atttcaagaa tatggacagc agtggaaaaa
+//
+
+LOCUS       AF231124                4695 bp    mRNA    linear   PRI 16-MAR-2000
+DEFINITION  Homo sapiens testican-1 mRNA, complete cds.
+ACCESSION   AF231124
+VERSION     AF231124.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4695)
+  AUTHORS   Marr,H.S., Basalamah,M.A. and Edgell,C.J.
+  TITLE     Endothelial cell expression of testican mRNA
+  JOURNAL   Endothelium 5 (3), 209-219 (1997)
+   PUBMED   9272383
+REFERENCE   2  (bases 1 to 4695)
+  AUTHORS   BaSalamah,M.A., Marr,H.S. and Edgell,C.-J.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2000) Pathology, University of North Carolina at
+            Chapel Hill, 520 Brinkhouse-Bullitt Bldg, CB7525, Chapel Hill, NC
+            27599, USA
+FEATURES             Location/Qualifiers
+     source          1..4695
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q31"
+                     /cell_line="EA.hy926"
+                     /cell_type="endothelial"
+     5'UTR           <1..21
+     CDS             22..1341
+                     /note="contains calcium-binding, cysteine-rich and
+                     proteoglycan domains"
+                     /codon_start=1
+                     /product="testican-1"
+                     /protein_id="AAF43687.1"
+                     /translation="MPAIAVLAAAAAAWCFLQVESRHLDALAGGAGPNHGNFLDNDQW
+                     LSTVSQYDRDKYWNRFRDDDYFRNWNPNKPFDQALDPSKDPCLKVKCSPHKVCVTQDY
+                     QTALCVSRKHLLPRQKKGNVAQKHWVGPSNLVKCKPCPVAQSAMVCGSDGHSYTSKCK
+                     LEFHACSTGKSLATLCDGPCPCLPEPEPPKHKAERSACTDKELRNLASRLKDWFGALH
+                     EDANRVIKPTSSNTAQGRFDTSILPICKDSLGWMFNKLDMNYDLLLDPSEINAIYLDK
+                     YEPCIKPLFNSCDSFKDGKLSNNEWCYCFQKPGGLPCQNEMNRIQKLSKGKSLLGAFI
+                     PRCNEEGYYKATQCHGSTGQCWCVDKYGNELAGSRKQGAVSCEEEQETSGDFGSGGSV
+                     VLLDDLEYERELGPKDKEGKLRVHTRAVTEDDEDEDDDKEDEVGYIW"
+     misc_difference 39
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="g"
+     3'UTR           1342..4695
+     misc_difference 1838
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="t"
+     misc_difference 1884
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="c"
+     misc_difference 2006
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="a"
+     misc_difference 2057^2058
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="tgtt"
+     misc_difference 2064
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="c"
+     misc_difference 2346
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace=""
+     misc_difference 2630
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="c"
+     misc_difference 2840..2841
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace=""
+     misc_difference 3061
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="a"
+     misc_difference 3067
+                     /note="compared to Homo sapiens testican encoded by
+                     GenBank Accession Number X73608"
+                     /replace="c"
+ORIGIN      
+        1 ggacccgggc cggcccccaa gatgccggcg atcgcggtat tggcggcggc cgccgcggcg
+       61 tggtgcttcc tccaagtcga gagccggcac ctggacgcgc tcgccggagg cgcgggcccc
+      121 aaccacggca atttcctaga caatgaccag tggctgagca ccgtctccca gtacgaccgg
+      181 gacaagtact ggaaccgctt tcgagacgat gattatttca gaaactggaa tcccaacaag
+      241 ccctttgacc aagccctgga cccatccaag gacccctgcc tgaaggtaaa atgcagccct
+      301 cacaaagtgt gtgtgaccca ggactaccag accgccctgt gtgtcagccg caagcacctg
+      361 ctccccaggc aaaagaaggg gaacgtggcc cagaaacact gggttggacc ttcgaatttg
+      421 gtcaagtgca agccctgtcc cgtggcacag tcagccatgg tctgcggctc agatggccac
+      481 tcctacacat ccaagtgcaa attggagttc catgcttgtt ctactggcaa aagcctcgcc
+      541 accctctgtg atgggccctg tccctgtctc ccagagcctg agccaccaaa gcacaaggca
+      601 gaaaggagtg cctgcacaga caaggagttg cggaaccttg cctcccggct gaaggattgg
+      661 tttggagctc tccacgagga tgcgaacaga gtcatcaagc ccaccagctc caacacagcc
+      721 caaggcaggt ttgacactag catcctgccc atctgcaagg actccctggg ctggatgttc
+      781 aacaagttgg acatgaacta tgacctcctg cttgaccctt cagagatcaa tgccatctac
+      841 ctggataagt acgagccctg tatcaagcct cttttcaact cgtgtgactc cttcaaggat
+      901 ggcaagcttt ctaacaatga gtggtgctac tgcttccaga agcctggagg tctcccttgc
+      961 cagaatgaaa tgaacagaat tcagaagctg agtaagggga aaagcctgtt gggggccttc
+     1021 atacctcggt gtaatgagga gggctattac aaagccacac agtgccacgg cagcacgggg
+     1081 cagtgctggt gtgtggacaa atatgggaat gagttggctg gctccaggaa acagggtgct
+     1141 gtgagctgtg aagaggagca ggaaacctca ggggattttg gcagtggtgg gtccgtggtc
+     1201 ctgctggatg acctagaata tgaacgggag ctgggaccaa aggacaaaga ggggaagctg
+     1261 agggtgcaca cccgagccgt gacagaggat gatgaggatg aggatgatga caaagaggat
+     1321 gaggtcgggt acatatggta gtgcccacaa gaaagaggac acaagttttg cacaaaattg
+     1381 caagtcactt cctattcctg catttgtatc taagactcca aggcaccaag gtctcttctc
+     1441 cattgttgct ctctataccc gacctaaggt ttggaagaca actgcttgtt cccagaggat
+     1501 tctgattttg catatgtttg tatgggagaa agggtgttgt gttttttttt ttgttgttgt
+     1561 ttattttttg gatagggaag tcattggctt aattagagcc tccttccttt ctgtgagatt
+     1621 tttccaacaa gcatgtgatt tacgtggaat tctgacagtg cagggagccc ccaccctctt
+     1681 aaatgtcaaa gacccttttt gattacccac actggtggtt attacagcat ggttcccagc
+     1741 cttacagtgt ctaagtgctt ctcttgtgtc ctgtagatgt tgtgaaaaag aaaaaaacaa
+     1801 aaaatacacc acactgtact ttttccccct gcccccgcta ctgccggtga ttattattaa
+     1861 aaattagttt ttttcacatc attatatctg gcttcctata aacaacagcc ttaattcagt
+     1921 caagactccc tttgggaatt cattttatta aaaattggtg tctggatact tccctgtaca
+     1981 tgcataaata tgcatgcatg tacaggaaga ctgtatgtgt gtgccttgca cacacaccca
+     2041 tacctctcag aaaaagtggg tatattaaaa actcgaaaaa caatgataaa tttctcagct
+     2101 tgtccagacc tggaacaaaa tttctggaat aagaaatttg tattaaagtc cttttttgca
+     2161 ctaacagttg gctcttgtag cctgcaggct gaggaagtct cttctctgtg catcagcaga
+     2221 gttactgaaa gcctctgatt gagaaaaaac ctccgtctgc ctaaatcact tttctcgcag
+     2281 aagccatgcg actcccacac gacacgggca gcttcacaag ccatctcttt catttctgct
+     2341 tgaagccccc ttggctgcag caatcctgtc tgccataggt ttcttccttc cttacctact
+     2401 caagggcttt ttctaaggca tgcacacata tctcctgttc tctgagagta ccatggtgtt
+     2461 ccttaaaaga agaaaatttc taattctgaa ctcaatgttt tgcttttact ccctttctac
+     2521 tgacaaatca tgataagggc acaaaagctg tacagatttt tttttttaac cactcaatcc
+     2581 caaatggagg cctacaaaga acatcgtaat aacacatgga agcaaaccct gggtttttaa
+     2641 gagcaaattc tgtccccccc tcactccccc aagtgacaag atactaatga agaaagttct
+     2701 tcaccatagt gtttgtttta actaaactca ttggagtcta gttccaaatt tggtagggtc
+     2761 atcatctcta cattccttag gatttctctc cctatcaagc tggcccagat acaagtacca
+     2821 aacagtagtc tctgaagttc ccccatttcc ttcagtacca gtctataagc tactgtccgc
+     2881 cactgatttt catctatcag ggtgtcctaa tcagaatcag ccacccaagc aagcctctct
+     2941 ggcccacata tctatctctt gccttccccc atgaacttca gcctgtccac acaaaagcca
+     3001 cataaactca agcaagaaat atgttcagcc aaaacatgat tatagtggca gctgaccaat
+     3061 cccccatccc aaattgacca tttagatgta ccaactcacc ttaaattagc atgttccaat
+     3121 ccagtcggca ttgcctgaat acagtagcat catacctata gttggtctta gataagaaat
+     3181 gaactacttg atatagcaaa gtcctttggc ttcgtaaata accctgaggt tttgtactta
+     3241 ctttccccat aggaagacag accataggca aactctgttt tgggatctca actccatcac
+     3301 ctttgtttca atattttttt tctctcttga acaaaactga gataatttag aaaacaggtg
+     3361 cttaattgca ataaaattac tatgaagtat attaaaaatc acgacattgt aaaatctcac
+     3421 tttagatcat caaagaaaac cattgttact atctcctttg agcttaggaa aatgtacaag
+     3481 agaacaaatt aaaattgaaa aattgatttc acttagaaaa acttctagga acagggtgaa
+     3541 ccactgattt taatttgcct aattatctta tgacaagtat caaattaaga tgacacttaa
+     3601 agatccttag cattaactta atgatggaga agagtgctca acagacagtt cccagtaagg
+     3661 taatgagatg ccattttccg agacattcta agaagatatt ttgattcatt aaaacattaa
+     3721 ataaaaagcc ctcctcagat tggaaccccc aaatcgatgg agtcacatta ataatacttt
+     3781 tcatgcctca ctttgacatg acagcattcg atttttttaa agatctttaa tactttccat
+     3841 gagtactaaa gattgtaatg agttacctta tccttagaag tagaatgttt gctttcttct
+     3901 tcttggaaat agtcctccaa aaagtccact tgtaccagtg acaagaagtc acttgtatag
+     3961 tgaccaagta cacataaaat accgattata aaaatattgt aataaaccac ttcctcattt
+     4021 gatactggta ttaagctgaa tcctcactaa ttcacttttg aaaagttctt aatgaacagt
+     4081 tttattctta taccatgaac agctctttta atacaatttc cttggtatcc aacttaaatc
+     4141 ccagaatttt gttccaccat ggttagttat ttgccatatg aatgtattct tgtttctacc
+     4201 aatattctag gcatgagaat accttaatac tgagttggag attttgtatc tgtttctcct
+     4261 cctttacgcc cattttccta cccacagcag caaatgacaa cgtgtctgtc caggtctgtc
+     4321 cccctgctca tcccaggatg ccactcacat ttttttcttc tttgttaccc ttgacccacg
+     4381 ctgtacaagt aacatccaag agcccattct acaagtgggt ggttttggtc tttttataac
+     4441 tttttctcaa agtcactgat gtttgttcct gttaaatgta tagcattgta atgagagccc
+     4501 atcaaatcct gagtgtcagt ttgttgtccc tattgtagat gaaatagtga tgtagcaaaa
+     4561 acctagtaaa ttctgaatgc ttttccacgt agacttatct ggaatgtgaa cacaactctt
+     4621 tggttaatag taaatgctta actgtagtcc tgagtaggtg catttctgtc tgtctcaata
+     4681 aattttactt tgtcg
+//
+
+LOCUS       HSU65090                5790 bp    mRNA    linear   PRI 30-JUL-2002
+DEFINITION  Homo sapiens carboxypeptidase D mRNA, complete cds.
+ACCESSION   U65090
+VERSION     U65090.3
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5790)
+  AUTHORS   McGwire,G.B., Tan,F., Michel,B., Rehli,M. and Skidgel,R.A.
+  TITLE     Identification of a membrane-bound carboxypeptidase as the
+            mammalian homolog of duck gp180, a hepatitis B virus-binding
+            protein
+  JOURNAL   Life Sci. 60 (10), 715-724 (1997)
+   PUBMED   9064476
+REFERENCE   2  (bases 1 to 5790)
+  AUTHORS   Tan,F., Rehli,M., Krause,S.W. and Skidgel,R.A.
+  TITLE     Sequence of human carboxypeptidase D reveals it to be a member of
+            the regulatory carboxypeptidase family with three tandem active
+            site domains
+  JOURNAL   Biochem. J. 327 (Pt 1), 81-87 (1997)
+   PUBMED   9355738
+REFERENCE   3  (bases 1 to 5790)
+  AUTHORS   Tan,F., Rehli,M. and Skidgel,R.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUL-1996) Pharmacology, Univ. of Illinois College of
+            Medicine at Chicago, 835 S. Wolcott (M/C 868), Chicago, IL 60612,
+            USA
+REFERENCE   4  (bases 1 to 5790)
+  AUTHORS   Tan,F., Rehli,M. and Skidgel,R.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-2002) Pharmacology, Univ. of Illinois College of
+            Medicine at Chicago, 835 S. Wolcott (M/C 868), Chicago, IL 60612,
+            USA
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 5790)
+  AUTHORS   Tan,F., Rehli,M. and Skidgel,R.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUL-2002) Pharmacology, Univ. of Illinois College of
+            Medicine at Chicago, 835 S. Wolcott (M/C 868), Chicago, IL 60612,
+            USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jul 30, 2002 this sequence version replaced U65090.2.
+FEATURES             Location/Qualifiers
+     source          1..5790
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /note="6 clones were used to determine the sequence"
+     source          54..653
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="CPD-5'"
+                     /tissue_type="placenta"
+     source          653..1113
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="152294"
+                     /note="EST deposited under GenBank Accession Number
+                     H04765; this clone provided by the IMAGE Consortium, LLNL"
+     source          653..1476
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="138429"
+                     /note="EST deposited under GenBank Accession Number
+                     R68612; this clone provided by the IMAGE Consortium, LLNL"
+     source          1063..3556
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="PCR25"
+                     /tissue_type="liver"
+     source          1252..2559
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="cpdmak-01, mean size of 1.3 kb"
+                     /cell_type="macrophage, differentiated in vitro"
+                     /clone_lib="MAC library; M. Rehli et al. Biochem. Biophys.
+                     Res. Commun. 217, 661-667 (1995)"
+     source          3511..5790
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="40521"
+                     /note="EST deposited under GenBank Accession Number
+                     R52214; this clone provided by the IMAGE Consortium, LLNL"
+     CDS             16..4158
+                     /function="specifically cleaves C-terminal Arg or Lys
+                     residues from peptides at an acidic pH optimum of 6.0 -
+                     6.5"
+                     /note="duck gp180 homolog"
+                     /codon_start=1
+                     /product="carboxypeptidase D"
+                     /protein_id="AAC51775.2"
+                     /translation="MASGRDERPHWRLGRLLLLMCLLLLGSSARAAHIKKAEATTTTT
+                     SAGAEAAEGQFDRYYHEEELESALREAAAAGLPGLARLFSIGRSVEGRPLWVLRLTAG
+                     LGSLIPEGDAGPDAAGPDAAGPLLPGRPQVKLVGNMHGDETVSRQVLIYLARELAAGY
+                     RRGDPRLVRLLNTTDVYLLPSLNPDGFERAREGDCGFGDGGPSGASGRDNSRGRDLNR
+                     SFPDQFSTGEPPALDEVPEVRALIEWIRRNKFVLSGNLHGGSVVASYPFDDSPEHKAT
+                     GIYSKTSDDEVFKYLAKAYASNHPIMKTGEPHCPGDEDETFKDGITNGAHWYDVEGGM
+                     QDYNYVWANCFEITLELSCCKYPPASQLRQEWENNRESLITLIEKVHIGVKGFVKDSI
+                     TGSGLENATISVAGINHNITTGRFGDFYRLLVPGTYNLTVVLTGYMPLTVTNVVVKEG
+                     PATEVDFSLRPTVTSVIPDTTEAVSTASTVAIPNILSGTSSSYQPIQPKDFHHHHFPD
+                     MEIFLRRFANEYPNITRLYSLGKSVESRELYVMEISDNPGVHEPGEPEFKYIGNMHGN
+                     EVVGRELLLNLIEYLCKNFGTDPEVTDLVHNTRIHLMPSMNPDGYEKSQEGDSISVIG
+                     RNNSNNFDLNRNFPDQFVQITDPTQPETIAVMSWMKSYPFVLSANLHGGSLVVNYPFD
+                     DDEQGLATYSKSPDDAVFQQIALSYSKENSQMFQGRPCKNMYPNEYFPHGITNGASWY
+                     NVPGGMQDWNYLQTNCFEVTIELGCVKYPLEKELPNFWEQNRRSLIQFMKQVHQGVRG
+                     FVLDATDGRGILNATISVAEINHPVTTYKTGDYWRLLVPGTYKITASARGYNPVTKNV
+                     TVKSEGAIQVNFTLVRSSTDSNNESKKGKGASSSTNDASDPTTKEFETLIKDLSAENG
+                     LESLMLRSSSNLALALYRYHSYKDLSEFLRGLVMNYPHITNLTNLGQSTEYRHIWSLE
+                     ISNKPNVSEPEEPKIRFVAGIHGNAPVGTELLLALAEFLCLNYKKNPAVTQLVDRTRI
+                     VIVPSLNPDGRERAQEKDCTSKIGQTNARGKDLDTDFTNNASQPETKAIIENLIQKQN
+                     FSLSVALDGGSMLVTYPYDKPVQTVENKETLKHLASLYANNHPSMHMGQPSCPNKSDE
+                     NIPGGVMRGAEWHSHLGSMKDYSVTYGHCPEITVYTSCCYFPSAARLPSLWADNKRSL
+                     LSMLVEVHKGVHGFVKDKTGKPISKAVIVLNEGIKVQTKEGGYFHVLLAPGVHNIIAI
+                     ADGYQQQHSQVFVHHDAASSVVIVFDTDNRIFGLPRELVVTVSGATMSALILTACIIW
+                     CICSIKSNRHKDGFHRLRQHHDEYEDEIRMMSTGSKKSLLSHEFQDETDTEEETLYSS
+                     KH"
+     sig_peptide     16..105
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+     misc_feature    3904..3981
+                     /note="transmembrane region"
+     misc_feature    109..1404
+                     /note="encodes carboxypeptidase domain 1"
+     misc_feature    529..531
+                     /note="encodes potential glycosylation site"
+     misc_feature    1210..1212
+                     /note="encodes potential glycosylation site"
+     misc_feature    1243..1245
+                     /note="encodes potential glycosylation site"
+     misc_feature    1300..1302
+                     /note="encodes potential glycosylation site"
+     misc_feature    1405..1506
+                     /note="encodes putative connecting peptide"
+     misc_feature    1507..2625
+                     /note="encodes carboxypeptidase domain 2"
+     misc_feature    1579..1581
+                     /note="encodes potential glycosylation site"
+     misc_feature    1891..1893
+                     /note="encodes potential glycosylation site"
+     misc_feature    2446..2448
+                     /note="encodes potential glycosylation site"
+     misc_feature    2578..2580
+                     /note="encodes potential glycosylation site"
+     misc_feature    2614..2616
+                     /note="encodes potential glycosylation site"
+     misc_feature    2626..2712
+                     /note="encodes putative connecting peptide"
+     misc_feature    2650..2652
+                     /note="encodes potential glycosylation site"
+     misc_feature    2713..3912
+                     /note="encodes carboxypeptidase domain 3"
+     misc_feature    2878..2880
+                     /note="encodes potential glycosylation site"
+     misc_feature    2947..2949
+                     /note="encodes potential glycosylation site"
+     misc_feature    3223..3225
+                     /note="encodes potential glycosylation site"
+     misc_feature    3277..3279
+                     /note="encodes potential glycosylation site"
+     misc_feature    3439..3441
+                     /note="encodes potential glycosylation site"
+     misc_feature    3991..4155
+                     /note="putative cytoplasmic domain"
+     3'UTR           4159..5790
+     regulatory      5738..5743
+                     /regulatory_class="polyA_signal_sequence"
+     polyA_site      5763
+ORIGIN      
+        1 cggcgctgct ggaagatggc gagcggccgg gacgagcggc cgcattggcg gctagggcgg
+       61 ctcctgttgc tcatgtgcct gctgctgctg gggagctcgg cccgggcggc tcacatcaag
+      121 aaggcggagg cgactaccac aactacgagc gcgggcgccg aggcggccga gggccagttc
+      181 gaccgctact accacgaaga ggagttggag tcggcgctga gggaggcggc ggccgcgggc
+      241 ctccccggcc tggcccgcct ctttagcatc ggccgctcgg tggaaggccg gccgctgtgg
+      301 gtgcttcgcc tcaccgccgg cctggggtcg ctaatccctg agggcgacgc ggggcctgac
+      361 gctgccgggc ccgacgctgc ggggccgctg ctgcccggcc ggccccaggt gaagctggtg
+      421 ggcaacatgc atggcgacga gaccgtgtcg cgccaggtgt tgatctactt ggcccgcgag
+      481 ctggcggccg gctaccgccg cggggacccg cgcctggtcc gcctgctcaa caccaccgac
+      541 gtgtacctgc tgcccagcct caaccccgat ggcttcgagc gtgcccgcga gggcgactgt
+      601 ggcttcggcg acggcggccc gtccggggcc agcggccgcg acaatagtcg cggccgcgac
+      661 ctcaaccgaa gctttcccga ccagtttagc accggcgaac cccccgccct ggacgaggtg
+      721 cccgaggtgc gcgccctcat cgagtggatc cgcaggaaca agtttgtgct ttctggaaat
+      781 ctgcatggtg gctcagtggt agcaagctat ccttttgatg attctccaga acataaggcc
+      841 actggaatct atagcaaaac ctcagatgat gaagtattta aatacttggc aaaagcttat
+      901 gcttcaaacc accccataat gaaaactggt gagcctcatt gtccaggaga tgaagacgag
+      961 actttcaaag atggaatcac aaacggcgca cattggtatg atgtggaagg tggtatgcaa
+     1021 gattacaatt atgtgtgggc caactgtttt gagatcacat tagaactgtc ttgttgcaag
+     1081 tacccacctg cttcacagct tcgacaggaa tgggagaaca atcgtgagtc tttgatcaca
+     1141 ttgattgaaa aggttcacat tggagtgaaa ggatttgtta aagattccat aacaggatct
+     1201 gggttagaga atgcaaccat ctcagtggct ggtattaatc ataatatcac aacaggcaga
+     1261 tttggtgatt tctaccgatt acttgttcct ggaacttaca accttacagt agttttaact
+     1321 gggtatatgc cattgactgt tactaatgta gtggtgaaag aaggaccagc cacagaggtg
+     1381 gatttttctc ttaggccaac tgtaacttca gtaatccctg acacgacaga ggctgtatca
+     1441 actgctagca cagttgctat acctaatatt ctttctggaa catcatcctc ctaccagcca
+     1501 attcagccaa aggactttca ccaccaccat ttccctgata tggaaatctt cttgagaagg
+     1561 tttgccaatg aatatcctaa cattacccgg ctttattcct tgggaaaatc agtagagtca
+     1621 agagaacttt atgtgatgga gatatctgat aatccgggtg tccatgaacc aggtgaacca
+     1681 gaatttaagt acattggaaa tatgcatgga aatgaagtgg ttggaagaga actgctgttg
+     1741 aacctcatag aatacctttg taagaacttt ggaacagacc ctgaagtcac agatttggtt
+     1801 cataacacta gaattcacct tatgccatcc atgaatcctg atgggtatga aaagtcccag
+     1861 gaaggagatt caataagtgt aattggcaga aacaacagca acaactttga cctgaaccga
+     1921 aatttcccag accagtttgt tcagatcaca gatcctacgc aaccagaaac tattgctgta
+     1981 atgagctgga tgaagtccta tccatttgta ctttcagcaa acctgcatgg aggttctttg
+     2041 gtggttaact acccttttga tgatgatgaa caaggacttg ccacatatag taaatcacca
+     2101 gatgatgctg tgttccaaca aatagcactt tcttattcca aggaaaattc ccagatgttt
+     2161 caaggtagac cttgcaagaa tatgtatcct aatgaatatt ttcctcatgg aataacaaat
+     2221 ggagctagtt ggtataatgt gccaggagga atgcaggact ggaactattt acaaacaaat
+     2281 tgctttgaag tgactattga actaggttgt gtgaaatatc cacttgagaa agagctgcca
+     2341 aacttttggg aacagaatcg aagatcacta atccagttta tgaaacaggt tcatcagggc
+     2401 gtcagaggat ttgttctaga tgccacagat ggcaggggta tattaaatgc caccattagt
+     2461 gttgctgaga ttaatcaccc agtgactact tacaaaactg gagattactg gcgtctcttg
+     2521 gttccaggaa cttataaaat cacagcatct gctcgagggt ataatccagt taccaagaat
+     2581 gtgactgtca agagtgaagg cgctattcag gtcaacttca cacttgttcg atcctcaaca
+     2641 gattcaaaca atgaatcaaa gaaaggaaaa ggggctagca gcagcaccaa tgatgccagt
+     2701 gatccaacta ctaaagagtt tgaaacttta attaaagacc tttcagcgga gaatggtttg
+     2761 gaaagcctca tgttacgctc ctcctcaaat ctggctctgg ctctttatcg ataccattcc
+     2821 tacaaagact tatcagagtt tctgagagga cttgtaatga actatccaca tattacaaat
+     2881 cttaccaatt tgggacagag cactgaatat cgtcacattt ggtcccttga aatctccaat
+     2941 aagcccaatg tatctgagcc tgaagaacca aagattcgtt ttgttgctgg tatccatgga
+     3001 aatgcgccag ttggaactga actgcttttg gctctggcag aatttctctg cctgaactac
+     3061 aaaaagaacc cagctgttac ccaattggtt gacaggacta ggattgtgat tgtcccttct
+     3121 ctaaatccag atgggcgaga gagagctcaa gagaaagact gtacttcaaa aataggacaa
+     3181 acaaatgctc gtggcaaaga tttggataca gacttcacaa ataatgcctc ccaacctgag
+     3241 accaaagcca tcattgaaaa tttgattcaa aaacagaact ttagtctttc tgttgcctta
+     3301 gatggtggtt ccatgctggt cacatatcca tatgacaagc cagtacagac agtggaaaat
+     3361 aaagagactc tgaagcattt ggcatctctt tatgcaaata atcatccatc catgcacatg
+     3421 ggtcagccca gttgcccaaa taaatcagat gagaatattc caggaggagt aatgcgtgga
+     3481 gcagaatggc atagtcacct gggcagcatg aaggattata gtgtcaccta tggccattgt
+     3541 ccggaaatca cagtatacac aagctgctgt tactttccta gtgctgcacg actcccttcc
+     3601 ttgtgggcag acaataagag atctcttctt agtatgttag tggaggttca caagggagtt
+     3661 catggatttg ttaaagataa gactggaaag ccaatctcta aagcagtcat tgtacttaat
+     3721 gaaggaataa aggtacaaac aaaagaggga ggttatttcc atgtactctt agcgccaggt
+     3781 gtccataaca ttattgccat cgctgatggg taccagcaac aacattcaca ggtctttgtg
+     3841 catcatgatg cagctagttc tgtggtgata gtctttgaca cagataaccg gatatttggt
+     3901 ttgccaaggg agcttgtggt aactgtatca ggtgctacta tgtcggcatt gatcctaaca
+     3961 gcttgcatta tttggtgcat ctgctcaatc aagtctaata gacacaagga tggctttcat
+     4021 cggctcaggc agcatcatga tgagtatgaa gatgaaattc gcatgatgtc taccggctcc
+     4081 aagaagtccc tcctaagcca tgagttccag gatgaaacag acactgaaga ggaaacatta
+     4141 tattctagca aacattgaaa aacacatttt gcatatctcc cagcataagt accaagcaaa
+     4201 attacagttc ctcttgggag aacactgcat taagaagaga gactctcttg cttcttcaaa
+     4261 gagctttggg aaattaaatt gctaaatttg tattctctgt gaatttcact ggcagttttg
+     4321 aacttccctt ccttaaagta ctctaaacct ttaaaaaaaa atctgattta tgcagcagag
+     4381 atgggacagc cactttttct ttttaattta agatgagcta tttggagctt atgtaataat
+     4441 ggcataaagc caactagagg atgttgtatt ttgcacatca gatgtttact agtggcttta
+     4501 gtatttttct ttgttttaaa tggccaaaag aatccagaaa cattaaggca gggacagcag
+     4561 tcagaatcga cataaagctt taaaaactca aggttttttc aacctactga ggagtacttt
+     4621 tctctagttg ttaaatagct ggagtttttc ttattcaggt ttaatggagg ttgaattgat
+     4681 ttttaaacac atataacagt aggaaatgaa taaatgggct tctgcatttg gctttctacc
+     4741 tgttccaagg ctagatcgga actggtagac tacgctgtaa gcaggatttc actacctctc
+     4801 ttaaggttta gcaaacttct aaatagccca ttttaaggga gaacttacta actttattgt
+     4861 gaaaggtcta aatgcccact tgaatgaagc tgagagagag atctagcaaa agctaaaact
+     4921 catgttgtct atctttgaac ttggtaaaaa cccacaggtg ctgctgctta tatctgtgaa
+     4981 gcactagctt attctaggaa tgcctgattc tttaatattg cctaaatcgg aacctttttc
+     5041 tatgttgcac acatggtttt cagatgaccc agccatctac aagatctgaa ttctactgaa
+     5101 aatatctaga aatgtggaag agacctactt gcacattctt aacctgtatt tgaacacaaa
+     5161 atatctatac ttcatgctcc agcccaagcc tataccctgt aatagcatac tattattgaa
+     5221 atcgcttgac cggtcttgtt cacataggcc tctgggagtg atttggttct ttgccctaat
+     5281 gtttcatttg acggtctctt tttgatcaac caatttttct aaaagttcag tcgaaagctt
+     5341 ttaagtatag cttcctccct tgaaaaaaaa tgtaaactat gactgctgag tgataaaaca
+     5401 ctgtggtgtg aaagtgtcat cttcactgcc aatcaggcaa agaccggaaa gatttgcatt
+     5461 ttattatgtc tgtcttatca tgcaatggaa atgatgcttt ttgtaagtat gcatcttacc
+     5521 aatgatgtaa cggtttaata cctttgaatg ttttaataac caagttgctg ctgaacttat
+     5581 actaaatcag gggaccaaaa aacttgctct tatcttctca aattgtattc tatatccatt
+     5641 aatgtatcag ttatcccaaa gccttcaggt ggaggggttt accaccttcc taggtcgttc
+     5701 aaccaggttt tgtgaggaat gcattcaaag tggctttata aaagaagatt ttctttagca
+     5761 agaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+//
+
