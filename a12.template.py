@@ -40,8 +40,6 @@ def main():
     outputString = ""           # Output string
     symbol = ""                 # Gene symbol
     rnaAccess = ""              # holds our ran accessions
-    proAccess = ""              # Holds our protein accessions
-    genAccess = ""              # holds our genomic accessions
     pubMeds = ""                # holds our pubmed IDs
     geneID = ""                 # the gene ID for the symbol
     taxID = ""                  # holds the tax id for the symbol
