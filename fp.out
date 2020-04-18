@@ -1,4 +1,4 @@
-RefSeqID	Symbol	Tax.ID	PubmedCount	Chromosome	ModDate
+RefSeqID	Symbol	Status  Tax.ID  PubmedCount	Chromosome	ModDate
 NM_001355049.1 	 Acvr1 	 VALIDATED 	 10090 	 88 	 2 	 20140309
 NM_001355048.1 	 Acvr1 	 VALIDATED 	 10090 	 88 	 2 	 20140309
 NM_001110205.1 	 Acvr1 	 VALIDATED 	 10090 	 88 	 2 	 20140309
