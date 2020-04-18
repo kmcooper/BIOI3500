@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.10.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_21469</BlastOutput_query-ID>
+  <BlastOutput_query-def>unknown_seq1</BlastOutput_query-def>
+  <BlastOutput_query-len>210</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.05</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_21469</Iteration_query-ID>
+  <Iteration_query-def>unknown_seq1</Iteration_query-def>
+  <Iteration_query-len>210</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1720396772|ref|XM_006497622.4|</Hit_id>
+  <Hit_def>PREDICTED: Mus musculus activin A receptor, type 1 (Acvr1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_006497622</Hit_accession>
+  <Hit_len>3183</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>732</Hsp_hit-from>
+      <Hsp_hit-to>941</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1240085921|ref|NM_001355049.1|</Hit_id>
+  <Hit_def>Mus musculus activin A receptor, type 1 (Acvr1), transcript variant 5, mRNA</Hit_def>
+  <Hit_accession>NM_001355049</Hit_accession>
+  <Hit_len>3145</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>688</Hsp_hit-from>
+      <Hsp_hit-to>897</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1240085897|ref|NM_001355048.1|</Hit_id>
+  <Hit_def>Mus musculus activin A receptor, type 1 (Acvr1), transcript variant 4, mRNA</Hit_def>
+  <Hit_accession>NM_001355048</Hit_accession>
+  <Hit_len>2868</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>411</Hsp_hit-from>
+      <Hsp_hit-to>620</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|158937275|ref|NM_001110205.1|</Hit_id>
+  <Hit_def>Mus musculus activin A receptor, type 1 (Acvr1), transcript variant 3, mRNA</Hit_def>
+  <Hit_accession>NM_001110205</Hit_accession>
+  <Hit_len>2790</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>319</Hsp_hit-from>
+      <Hsp_hit-to>528</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|158937273|ref|NM_001110204.1|</Hit_id>
+  <Hit_def>Mus musculus activin A receptor, type 1 (Acvr1), transcript variant 1, mRNA</Hit_def>
+  <Hit_accession>NM_001110204</Hit_accession>
+  <Hit_len>3312</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>841</Hsp_hit-from>
+      <Hsp_hit-to>1050</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|158937272|ref|NM_007394.3|</Hit_id>
+  <Hit_def>Mus musculus activin A receptor, type 1 (Acvr1), transcript variant 2, mRNA</Hit_def>
+  <Hit_accession>NM_007394</Hit_accession>
+  <Hit_len>3067</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>596</Hsp_hit-from>
+      <Hsp_hit-to>805</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|117616197|gb|EF043625.1|</Hit_id>
+  <Hit_def>Synthetic construct clone ATCC 10627624 Alk2 mRNA, complete cds</Hit_def>
+  <Hit_accession>EF043625</Hit_accession>
+  <Hit_len>1530</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>174</Hsp_hit-from>
+      <Hsp_hit-to>383</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|37194647|gb|BC058718.1|</Hit_id>
+  <Hit_def>Mus musculus activin A receptor, type 1, mRNA (cDNA clone MGC:64673 IMAGE:6418954), complete cds</Hit_def>
+  <Hit_accession>BC058718</Hit_accession>
+  <Hit_len>2788</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>317</Hsp_hit-from>
+      <Hsp_hit-to>526</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|74211774|dbj|AK150014.1|</Hit_id>
+  <Hit_def>Mus musculus bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:G530118P04 product:activin A receptor, type 1, full insert sequence &gt;gi|74211882|dbj|AK150075.1| Mus musculus bone marrow macrophage cDNA, RIKEN full-length enriched library, clone:G530126J18 product:activin A receptor, type 1, full insert sequence</Hit_def>
+  <Hit_accession>AK150014</Hit_accession>
+  <Hit_len>2966</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>596</Hsp_hit-from>
+      <Hsp_hit-to>805</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|26342467|dbj|AK052246.1|</Hit_id>
+  <Hit_def>Mus musculus 13 days embryo heart cDNA, RIKEN full-length enriched library, clone:D330013D15 product:activin A receptor, type 1, full insert sequence</Hit_def>
+  <Hit_accession>AK052246</Hit_accession>
+  <Hit_len>2600</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>431</Hsp_hit-from>
+      <Hsp_hit-to>640</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|26095774|dbj|AK053428.1|</Hit_id>
+  <Hit_def>Mus musculus 0 day neonate eyeball cDNA, RIKEN full-length enriched library, clone:E130016L20 product:activin A receptor, type 1, full insert sequence</Hit_def>
+  <Hit_accession>AK053428</Hit_accession>
+  <Hit_len>3295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>840</Hsp_hit-from>
+      <Hsp_hit-to>1049</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|14193742|gb|AF332088.1|</Hit_id>
+  <Hit_def>Mus musculus strain ILS transforming growth factor beta type I (Tgfb1) mRNA, complete cds</Hit_def>
+  <Hit_accession>AF332088</Hit_accession>
+  <Hit_len>1664</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>229</Hsp_hit-from>
+      <Hsp_hit-to>438</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|14193740|gb|AF332087.1|</Hit_id>
+  <Hit_def>Mus musculus strain ISS transforming growth factor beta type I (Tgfb1) mRNA, complete cds</Hit_def>
+  <Hit_accession>AF332087</Hit_accession>
+  <Hit_len>1642</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.994</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>1.95001e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>229</Hsp_hit-from>
+      <Hsp_hit-to>438</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|309524|gb|L15436.1|MUSTSK7L</Hit_id>
+  <Hit_def>Mus musculus transforming growth factor-beta type I receptor (Tsk 7L) mRNA, complete cds</Hit_def>
+  <Hit_accession>L15436</Hit_accession>
+  <Hit_len>2415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>375.485</Hsp_bit-score>
+      <Hsp_score>415</Hsp_score>
+      <Hsp_evalue>8.29167e-100</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>669</Hsp_hit-from>
+      <Hsp_hit-to>878</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCTACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1679833982|ref|XM_029470106.1|</Hit_id>
+  <Hit_def>PREDICTED: Mus caroli activin A receptor type 1 (Acvr1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_029470106</Hit_accession>
+  <Hit_len>3577</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>366.468</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>4.29519e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1121</Hsp_hit-from>
+      <Hsp_hit-to>1330</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCATGTTTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTTCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1679833980|ref|XM_029470101.1|</Hit_id>
+  <Hit_def>PREDICTED: Mus caroli activin A receptor type 1 (Acvr1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_029470101</Hit_accession>
+  <Hit_len>4639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>366.468</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>4.29519e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>2183</Hsp_hit-from>
+      <Hsp_hit-to>2392</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCATGTTTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTTCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1679833979|ref|XM_021149833.2|</Hit_id>
+  <Hit_def>PREDICTED: Mus caroli activin A receptor type 1 (Acvr1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_021149833</Hit_accession>
+  <Hit_len>3094</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>366.468</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>4.29519e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>638</Hsp_hit-from>
+      <Hsp_hit-to>847</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCATGTTTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTTCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1195705137|ref|XM_021149842.1|</Hit_id>
+  <Hit_def>PREDICTED: Mus caroli activin A receptor type 1 (Acvr1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_021149842</Hit_accession>
+  <Hit_len>3097</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>366.468</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>4.29519e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>641</Hsp_hit-from>
+      <Hsp_hit-to>850</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCATGTTTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTTCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1686420529|ref|XM_021192493.2|</Hit_id>
+  <Hit_def>PREDICTED: Mus pahari activin A receptor type 1 (Acvr1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_021192493</Hit_accession>
+  <Hit_len>3130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>361.96</Hsp_bit-score>
+      <Hsp_score>400</Hsp_score>
+      <Hsp_evalue>5.23261e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>634</Hsp_hit-from>
+      <Hsp_hit-to>843</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAATGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCCGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGATCTCAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1686420523|ref|XM_029536145.1|</Hit_id>
+  <Hit_def>PREDICTED: Mus pahari activin A receptor type 1 (Acvr1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_029536145</Hit_accession>
+  <Hit_len>3339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>361.96</Hsp_bit-score>
+      <Hsp_score>400</Hsp_score>
+      <Hsp_evalue>5.23261e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>843</Hsp_hit-from>
+      <Hsp_hit-to>1052</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAATGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCCGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGATCTCAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1686420519|ref|XM_029536144.1|</Hit_id>
+  <Hit_def>PREDICTED: Mus pahari activin A receptor type 1 (Acvr1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_029536144</Hit_accession>
+  <Hit_len>3075</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>361.96</Hsp_bit-score>
+      <Hsp_score>400</Hsp_score>
+      <Hsp_evalue>5.23261e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>579</Hsp_hit-from>
+      <Hsp_hit-to>788</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAATGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCCGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGATCTCAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1686420515|ref|XM_021192491.2|</Hit_id>
+  <Hit_def>PREDICTED: Mus pahari activin A receptor type 1 (Acvr1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_021192491</Hit_accession>
+  <Hit_len>3173</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>361.96</Hsp_bit-score>
+      <Hsp_score>400</Hsp_score>
+      <Hsp_evalue>5.23261e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>677</Hsp_hit-from>
+      <Hsp_hit-to>886</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAATGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCCGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGATCTCAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1621853454|ref|XM_028769165.1|</Hit_id>
+  <Hit_def>PREDICTED: Grammomys surdaster activin A receptor type 1 (Acvr1), mRNA</Hit_def>
+  <Hit_accession>XM_028769165</Hit_accession>
+  <Hit_len>2898</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.435</Hsp_bit-score>
+      <Hsp_score>385</Hsp_score>
+      <Hsp_evalue>1.15256e-91</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>427</Hsp_hit-from>
+      <Hsp_hit-to>636</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>203</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGACGGCTTCCATGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCACCATCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCTGGATCACAGAATTTCCACCTGGAAGTCGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1820986305|ref|XM_032903323.1|</Hit_id>
+  <Hit_def>PREDICTED: Rattus rattus activin A receptor type 1 (Acvr1), mRNA</Hit_def>
+  <Hit_accession>XM_032903323</Hit_accession>
+  <Hit_len>3042</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>343.926</Hsp_bit-score>
+      <Hsp_score>380</Hsp_score>
+      <Hsp_evalue>1.40411e-90</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>530</Hsp_hit-from>
+      <Hsp_hit-to>739</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>202</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAATGACGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTCCCTGGATCGCAGAACTTTCACCTGGAAGTTGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| ||| | ||||| || |||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1767975323|ref|XM_031370311.1|</Hit_id>
+  <Hit_def>PREDICTED: Mastomys coucha activin A receptor type 1 (Acvr1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_031370311</Hit_accession>
+  <Hit_len>3255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>339.418</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>5.97041e-89</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>778</Hsp_hit-from>
+      <Hsp_hit-to>987</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCATGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCACCATCGCCTGGCCAGGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCTGGATCACAGAATGTCCACCTGGAAGTCGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || || ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||| ||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1767975321|ref|XM_031370310.1|</Hit_id>
+  <Hit_def>PREDICTED: Mastomys coucha activin A receptor type 1 (Acvr1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_031370310</Hit_accession>
+  <Hit_len>3281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>339.418</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>5.97041e-89</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>804</Hsp_hit-from>
+      <Hsp_hit-to>1013</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCATGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCACCATCGCCTGGCCAGGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCTGGATCACAGAATGTCCACCTGGAAGTCGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || || ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||| ||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1767975319|ref|XM_031370309.1|</Hit_id>
+  <Hit_def>PREDICTED: Mastomys coucha activin A receptor type 1 (Acvr1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_031370309</Hit_accession>
+  <Hit_len>3213</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>339.418</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>5.97041e-89</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>736</Hsp_hit-from>
+      <Hsp_hit-to>945</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCATGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCACCATCGCCTGGCCAGGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCTGGATCACAGAATGTCCACCTGGAAGTCGGCCTTATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || || ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||| ||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1211372061|ref|XM_021638766.1|</Hit_id>
+  <Hit_def>PREDICTED: Meriones unguiculatus activin A receptor type 1 (Acvr1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_021638766</Hit_accession>
+  <Hit_len>2816</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.401</Hsp_bit-score>
+      <Hsp_score>365</Hsp_score>
+      <Hsp_evalue>3.09275e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>341</Hsp_hit-from>
+      <Hsp_hit-to>550</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGACGGCTTCCATGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCATCACCTGGCCAGGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACCAAAGGGAAGTCCTTCCCTGGATCACAGAATTTCCATCTGGAAGTCGGCCTGATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||| ||||||||||||| |||||||| ||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|1211372057|ref|XM_021638758.1|</Hit_id>
+  <Hit_def>PREDICTED: Meriones unguiculatus activin A receptor type 1 (Acvr1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_021638758</Hit_accession>
+  <Hit_len>2869</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.401</Hsp_bit-score>
+      <Hsp_score>365</Hsp_score>
+      <Hsp_evalue>3.09275e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>394</Hsp_hit-from>
+      <Hsp_hit-to>603</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGACGGCTTCCATGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCATCACCTGGCCAGGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACCAAAGGGAAGTCCTTCCCTGGATCACAGAATTTCCATCTGGAAGTCGGCCTGATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||| ||||||||||||| |||||||| ||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|1211372053|ref|XM_021638751.1|</Hit_id>
+  <Hit_def>PREDICTED: Meriones unguiculatus activin A receptor type 1 (Acvr1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_021638751</Hit_accession>
+  <Hit_len>2836</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.401</Hsp_bit-score>
+      <Hsp_score>365</Hsp_score>
+      <Hsp_evalue>3.09275e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>361</Hsp_hit-from>
+      <Hsp_hit-to>570</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGACGGCTTCCATGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCATCACCTGGCCAGGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACCAAAGGGAAGTCCTTCCCTGGATCACAGAATTTCCATCTGGAAGTCGGCCTGATCAT</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||| ||||||||||||| |||||||| ||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1196078817|ref|XM_005088362.3|</Hit_id>
+  <Hit_def>PREDICTED: Mesocricetus auratus activin receptor type-1 (LOC101837667), mRNA</Hit_def>
+  <Hit_accession>XM_005088362</Hit_accession>
+  <Hit_len>1133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.401</Hsp_bit-score>
+      <Hsp_score>365</Hsp_score>
+      <Hsp_evalue>3.09275e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>292</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGCGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACCGGATCGCAGAATTTCCACCTGGAAGTCGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||||||||| |||||||| ||||||||||| ||||||||||||||||||||||| |||||||||||||||||||||||||||||| ||||| | |||||||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|1196077931|ref|XM_021224538.1|</Hit_id>
+  <Hit_def>PREDICTED: Mesocricetus auratus activin receptor type-1 (LOC110340031), mRNA</Hit_def>
+  <Hit_accession>XM_021224538</Hit_accession>
+  <Hit_len>1491</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.401</Hsp_bit-score>
+      <Hsp_score>365</Hsp_score>
+      <Hsp_evalue>3.09275e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>292</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGCGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACCGGATCGCAGAATTTCCACCTGGAAGTCGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||||||||| |||||||| ||||||||||| ||||||||||||||||||||||| |||||||||||||||||||||||||||||| ||||| | |||||||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|1595748034|ref|XM_028478186.1|</Hit_id>
+  <Hit_def>PREDICTED: Physeter catodon activin A receptor type 1 (ACVR1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_028478186</Hit_accession>
+  <Hit_len>2633</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>252</Hsp_hit-from>
+      <Hsp_hit-to>461</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACGTCTACCAGAAAGGCTGCTTCCAGGTCTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCGTCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTTCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATCAT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||||||||| |||||||| ||||| |||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| || |||||||||||||||||| |||| |||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1595748033|ref|XM_007111810.3|</Hit_id>
+  <Hit_def>PREDICTED: Physeter catodon activin A receptor type 1 (ACVR1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_007111810</Hit_accession>
+  <Hit_len>2854</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>414</Hsp_hit-from>
+      <Hsp_hit-to>623</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACGTCTACCAGAAAGGCTGCTTCCAGGTCTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCGTCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTTCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATCAT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||||||||| |||||||| ||||| |||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| || |||||||||||||||||| |||| |||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|1537983392|ref|XM_027420397.1|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_027420397</Hit_accession>
+  <Hit_len>2671</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>237</Hsp_hit-from>
+      <Hsp_hit-to>446</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|1537983390|ref|XM_027420396.1|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_027420396</Hit_accession>
+  <Hit_len>2748</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>314</Hsp_hit-from>
+      <Hsp_hit-to>523</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|1537983388|ref|XM_027420395.1|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_027420395</Hit_accession>
+  <Hit_len>2697</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>263</Hsp_hit-from>
+      <Hsp_hit-to>472</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|1537983386|ref|XM_027420394.1|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_027420394</Hit_accession>
+  <Hit_len>2724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>290</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|1537939257|ref|XM_007644006.3|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_007644006</Hit_accession>
+  <Hit_len>2695</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>261</Hsp_hit-from>
+      <Hsp_hit-to>470</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|1537939256|ref|XM_007644005.2|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_007644005</Hit_accession>
+  <Hit_len>2636</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>202</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|1537939255|ref|XM_003503408.4|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_003503408</Hit_accession>
+  <Hit_len>2865</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>431</Hsp_hit-from>
+      <Hsp_hit-to>640</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|1537939253|ref|XM_027437285.1|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_027437285</Hit_accession>
+  <Hit_len>3113</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>679</Hsp_hit-from>
+      <Hsp_hit-to>888</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|1537939251|ref|XM_027437284.1|</Hit_id>
+  <Hit_def>PREDICTED: Cricetulus griseus activin A receptor type 1 (Acvr1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_027437284</Hit_accession>
+  <Hit_len>2697</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>263</Hsp_hit-from>
+      <Hsp_hit-to>472</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACTTGTAAGACCCCTCCATCACCTGGCCAAGCTGTGGAATGCTGCCAAGGGGACTGGTGTAACAGGAACATCACAGCCCAGCTGCCCACTAAAGGGAAGTCCTTCACTGGATCACAGAATTTCCACTTGGAAGTAGGCCTTATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| | ||| |||||||||||||| ||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|594670423|ref|XM_007183113.1|</Hit_id>
+  <Hit_def>PREDICTED: Balaenoptera acutorostrata scammoni activin A receptor type 1 (ACVR1), mRNA</Hit_def>
+  <Hit_accession>XM_007183113</Hit_accession>
+  <Hit_len>2806</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.893</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.76774e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>364</Hsp_hit-from>
+      <Hsp_hit-to>573</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACATCTACCAGAAAGGCTGCTTCCAGGTCTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCGTCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTTCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATCAT</Hsp_hseq>
+      <Hsp_midline>||| ||||||||||||||| |||||||||| |||||||| ||||| |||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||||||| |||| |||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1777469918|ref|XM_031678498.1|</Hit_id>
+  <Hit_def>PREDICTED: Vicugna pacos activin A receptor type 1 (ACVR1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_031678498</Hit_accession>
+  <Hit_len>2932</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.384</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.60208e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>490</Hsp_hit-from>
+      <Hsp_hit-to>699</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACGTCTACCAGAAAGGCTGCTTCCAGGTCTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCGTCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTTCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATTAT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||||||||| |||||||| ||||| |||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| || |||||||||||||||||| |||| |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|1777469916|ref|XM_031678497.1|</Hit_id>
+  <Hit_def>PREDICTED: Vicugna pacos activin A receptor type 1 (ACVR1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_031678497</Hit_accession>
+  <Hit_len>3048</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.384</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.60208e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>606</Hsp_hit-from>
+      <Hsp_hit-to>815</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACGTCTACCAGAAAGGCTGCTTCCAGGTCTATGAGCAGGGGAAGATGACCTGTAAGACCCCGCCGTCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTTCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATTAT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||||||||| |||||||| ||||| |||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| || |||||||||||||||||| |||| |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1147696452|emb|LT741458.1|</Hit_id>
+  <Hit_def>Human ORFeome Gateway entry vector pENTR223-ACVR1, complete sequence</Hit_def>
+  <Hit_accession>LT741458</Hit_accession>
+  <Hit_len>4317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.384</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.60208e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>661</Hsp_hit-from>
+      <Hsp_hit-to>870</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATCAACGATGGCTTCCACGTCTACCAGAAAGGCTGCTTCCAGGTTTATGAGCAGGGAAAGATGACCTGTAAGACCCCGCCGTCCCCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGAAAATCCTTCCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| |||||||| ||||||||||||||||| |||||||| ||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||| |||| |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|955513195|ref|XM_014785954.1|</Hit_id>
+  <Hit_def>PREDICTED: Ceratotherium simum simum activin A receptor type I (LOC101398948), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_014785954</Hit_accession>
+  <Hit_len>2643</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.384</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.60208e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>204</Hsp_hit-from>
+      <Hsp_hit-to>413</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTCCAGGTGTACGAGCAGGGGAAGATGACCTGTAAGACCCCGCCATCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTCCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATTAT</Hsp_hseq>
+      <Hsp_midline>||| ||||||||||||||||||||||||||||||||||| ||||| || ||||||||||||||||| |||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||| |||| |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|955513193|ref|XM_014785953.1|</Hit_id>
+  <Hit_def>PREDICTED: Ceratotherium simum simum activin A receptor type I (LOC101398948), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_014785953</Hit_accession>
+  <Hit_len>3082</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.384</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.60208e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>643</Hsp_hit-from>
+      <Hsp_hit-to>852</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTCCAGGTGTACGAGCAGGGGAAGATGACCTGTAAGACCCCGCCATCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTCCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATTAT</Hsp_hseq>
+      <Hsp_midline>||| ||||||||||||||||||||||||||||||||||| ||||| || ||||||||||||||||| |||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||| |||| |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|955513191|ref|XM_014785952.1|</Hit_id>
+  <Hit_def>PREDICTED: Ceratotherium simum simum activin A receptor type I (LOC101398948), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_014785952</Hit_accession>
+  <Hit_len>2841</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.384</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.60208e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>402</Hsp_hit-from>
+      <Hsp_hit-to>611</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>CATCAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTTCAGGTTTATGAGCAGGGGAAGATGACGTGTAAGACCCCGCCGTCACCTGGCCAGGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAGTCCTTCCCCGGAACACAGAATTTCCACCTGGAAGTTGGCCTTATCAT</Hsp_qseq>
+      <Hsp_hseq>CATAAACGATGGCTTCCACGTCTACCAGAAGGGCTGCTTCCAGGTGTACGAGCAGGGGAAGATGACCTGTAAGACCCCGCCATCACCTGGCCAAGCTGTGGAGTGCTGCCAAGGGGACTGGTGTAACAGGAACATCACGGCCCAGCTGCCCACTAAAGGGAAATCCTTCCCTGGAACACAGAATTTCCACTTGGAGGTTGGCCTCATTAT</Hsp_hseq>
+      <Hsp_midline>||| ||||||||||||||||||||||||||||||||||| ||||| || ||||||||||||||||| |||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||| |||| |||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>57448018</Statistics_db-num>
+      <Statistics_db-len>278507216957</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
