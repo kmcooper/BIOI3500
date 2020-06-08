@@ -1,3 +1,10 @@
+# Directions:
+# 1. Go to https://jupyter.org/try
+# 2. Click 'Try classic notebook'
+# 3. Open the Douglas County Dashboard: https://dogis.maps.arcgis.com/apps/opsdashboard/index.html
+# 4. Copy the code below into your notebook and add the DC positives
+# 5. Run the code. Is the trend increasing or decreasing?
+
 # Cases in Douglas County
 # May 24 to June 7
 import pandas as pd
@@ -5,7 +12,30 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 days = [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
-positives = [103,149,264,149,260,125,112,146,118,191,127,81,89,53]
+#positives = [put the numbers for Douglas county starting May 24 and ending June 7 here]
+
+plt.scatter(days,positives)
+
+z = np.polyfit(days, positives, 1)
+p = np.poly1d(z) 
+plt.plot(days,p(days),"r--")
+
+plt.show()
+
+# If the first value from p is negative, the numbers are falling
+# If the first value from p is 0, the numbers are staying the same
+# If the first value from p is positive, the numbers are rising
+p
+
+
+# Cases in Nebraska
+# May 24 to June 7
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+days = [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+#positives = [put the numbers for Nebraska starting May 24 and ending June 7 here]
 
 plt.scatter(days,positives)
 
